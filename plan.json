@@ -1,0 +1,197 @@
+{
+  "project": "Warren Buffett .skill (English Rewrite)",
+  "description": "将所有文档英文重写，基于英文一手资料，确保内容准确性和深度",
+  "目标": "产出符合 Anthropic Skill 规范的全英文版本 Warren Buffett Skill",
+  "version": "1.0.0-EN",
+  "lastUpdated": "2026-04-09",
+  "notes": "Leo要求：1.SKILL.md不能太长，内容需引用references 2.quality-test.md已删除",
+  "tasks": [
+    {
+      "id": 1,
+      "priority": 1,
+      "status": "completed",
+      "title": "01-writings.md - All writings with summaries",
+      "description": "搜索并整理巴菲特所有著作，包括股东信、书籍、论文，每项附核心观点总结和原文链接",
+      "details": [
+        "Berkshire Hathaway Letters to Shareholders (1957-2025) - 完整的年度股东信列表",
+        "The Snowball (Alice Schroeder, 2008) - 授权传记核心观点",
+        "The Making of an American Capitalist (Roger Lowenstein, 1999) - 非授权传记",
+        "Tap Dancing to Work (Carol Loomis, 2012) - 50年文章合集",
+        "The Intelligent Investor (Graham, Buffett foreword) - 导师著作+序言",
+        "所有著作附核心观点、页数/字数、原文链接"
+      ],
+      "progress": "100%",
+      "output": "references/01-writings.md",
+      "confirmed": false,
+      "note": "已完成：262行，包含股东信（1957-2025按年代分）、5本书籍、佛罗里达大学演讲、国会证词、Warren Buffett Archive，质量指南，附原文链接"
+    },
+    {
+      "id": 2,
+      "priority": 1,
+      "status": "completed",
+      "title": "02-conversations.md - All conversations with summaries",
+      "description": "搜索并整理所有股东大会问答、专访记录，每项附核心观点和链接",
+      "details": [
+        "Berkshire Hathaway Annual Meetings (1965-2025) - 历年股东大会问答",
+        "CNBC Interviews (1966-2024) - 所有 CNBC 专访",
+        "Fortune Magazine Interviews - Fortune 杂志所有专访",
+        "Florida University Speech (1998) - 佛罗里达大学经典演讲",
+        "Congressional Testimonies - 国会听证会记录",
+        "每项附核心观点、时间、链接"
+      ],
+      "progress": "100%",
+      "output": "references/02-conversations.md",
+      "confirmed": false,
+      "note": "已完成：277行英文，包含股东大会(2008-2024)、CNBC专访(2008-2022)、Fortune专访、佛罗里达大学演讲完整记录、国会证词、HBO纪录片、Munger对话，质量指南表格"
+    },
+    {
+      "id": 3,
+      "priority": 2,
+      "status": "completed",
+      "title": "03-expression-dna.md - Expression DNA (English)",
+      "description": "英文版表达风格 DNA，包含标志性口头禅、句式、节奏",
+      "details": [
+        "Signature phrases and catchphrases",
+        "Sentence structure patterns",
+        "Rhythm and pacing templates",
+        "Classic quotes with English originals",
+        "Conversational style elements"
+      ],
+      "progress": "100%",
+      "output": "references/03-expression-dna.md",
+      "confirmed": false,
+      "note": "已完成：311行英文，10个板块（口头禅/句式/节奏/原话/对话格式/避讳词/比喻/总结），全部基于英文原始引用"
+    },
+    {
+      "id": 4,
+      "priority": 2,
+      "status": "completed",
+      "title": "04-external-views.md - External views (English)",
+      "description": "英文版他者视角与批评",
+      "details": [
+        "Criticisms and controversies",
+        "Buffett responses and handling",
+        "Media coverage analysis",
+        "Competitor comparisons"
+      ],
+      "progress": "100%",
+      "output": "references/04-external-views.md",
+      "confirmed": false,
+      "note": "已完成：279行英文，10个板块（慈善批评/Berkshire批评/媒体评价/对比其他投资者/Buffett神话争议/处理批评方式/批评家的正误），含原始引用"
+    },
+    {
+      "id": 5,
+      "priority": 2,
+      "status": "completed",
+      "title": "05-decisions.md - Investment decisions (English)",
+      "description": "英文版投资决策案例，11个案例（5成功+6失败）",
+      "details": [
+        "5 success cases: Coca-Cola, American Express, Apple, 2008 Crisis, GEICO",
+        "6 failure cases: Dexter Shoe, ConocoPhillips, Kraft Heinz, Salomon, Tesco, Airlines",
+        "Each case: background, decision logic, results, lessons",
+        "Quantified metrics (ROE, returns, holding periods)"
+      ],
+      "progress": "100%",
+      "output": "references/05-decisions.md",
+      "confirmed": false,
+      "note": "已完成：360行英文，11个案例（5成功+6失败），每个含决策链/量化数据/原始引用，附决策检查清单和矩阵表"
+    },
+    {
+      "id": 6,
+      "priority": 2,
+      "status": "completed",
+      "title": "06-timeline.md - Complete timeline (English)",
+      "description": "英文版完整人生时间线",
+      "details": [
+        "1930-1950: Early years",
+        "1950-1969: Partnership era",
+        "1969-1990: Berkshire transition",
+        "1990-2010: Modern era",
+        "2010-2025: Recent years"
+      ],
+      "progress": "100%",
+      "output": "references/06-timeline.md",
+      "confirmed": false,
+      "note": "已完成：392行英文，5个年代完整时间线（1930-2025），每个年份含关键事件+数字+引用，附量化统计表+人生原则7条"
+    },
+    {
+      "id": 7,
+      "priority": 1,
+      "status": "completed",
+      "title": "SKILL.md - Main skill file (English, Anthropic format)",
+      "description": "符合 Anthropic Skill 规范的主文件，英文版。内容精简，references引用详细内容",
+      "details": [
+        "YAML frontmatter: name + description",
+        "4 effect examples (dialogue format, concise)",
+        "5 mental models (summaries, reference to 01 for details)",
+        "8 decision heuristics (with original quotes, reference to 01/05)",
+        "Expression DNA summary (reference to 03)",
+        "Investment cases summary (reference to 05)",
+        "Information sources table"
+      ],
+      "progress": "100%",
+      "output": "SKILL.md",
+      "confirmed": false,
+      "note": "已完成：240行英文，符合Anthropic规范，frontmatter含name+description，4个对话示例，5个心智模型（引用references），8条决策启发式（含原话），表达DNA摘要，11个投资案例矩阵，信息源表"
+    },
+    {
+      "id": 8,
+      "priority": 3,
+      "status": "completed",
+      "title": "README.md - Project documentation (English)",
+      "description": "英文版项目文档",
+      "details": [
+        "Badge section",
+        "Effect examples",
+        "Installation instructions",
+        "5 mental models table",
+        "8 decision heuristics",
+        "Expression DNA",
+        "Repository structure"
+      ],
+      "progress": "100%",
+      "output": "README.md",
+      "confirmed": false,
+      "note": "已完成：英文版README，Badge+引言+Examples+Install+5心智模型+8启发式+11案例矩阵+信息源+仓库结构+免责声明"
+    },
+    {
+      "id": 9,
+      "priority": 3,
+      "status": "completed",
+      "title": "examples/demo-conversation.md - 10 demo conversations (English)",
+      "description": "英文版实战对话示例",
+      "details": [
+        "Investment basics",
+        "Value investing core",
+        "Company analysis",
+        "Market volatility",
+        "Circle of competence",
+        "Risk management",
+        "Long-term holding",
+        "Market timing",
+        "Inflation",
+        "Emotional control"
+      ],
+      "progress": "100%",
+      "output": "examples/demo-conversation.md",
+      "confirmed": false,
+      "note": "已完成：10个完整英文对话示例，覆盖投资入门/价值投资/公司分析/市场波动/能力圈/风险/长期持有/时机/管理层/错误"
+    }
+  ],
+  "completedOrRemoved": [
+    {
+      "file": "examples/quality-test.md",
+      "action": "deleted",
+      "reason": "Leo确认不需要"
+    }
+  ],
+  "currentPhase": "等待Leo确认Task 2",
+  "nextStep": "等待Leo确认 Task 2 (02-conversations.md) 后开始",
+  "styleGuide": {
+    "language": "English (US)",
+    "quotes": "Always use original English quotes, never translate",
+    "format": "Follow Anthropic Skill specification strictly",
+    "sources": "Cite original sources with URLs wherever possible",
+    "skil_mdNote": "SKILL.md should be concise, reference detailed content in references/ files"
+  }
+}
