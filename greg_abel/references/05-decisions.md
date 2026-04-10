@@ -8,6 +8,18 @@ Unlike Warren Buffett, whose investment decisions are well-documented through sh
 
 ---
 
+## Information Quantification
+
+**Direct Evidence for Decision Analysis:**
+| Decision Type | Evidence Available | Source Reliability |
+|--------------|------------------|-------------------|
+| BYD Investment | Moderate | Medium-High |
+| BHE Operations | High | High |
+| Capital Allocation | Low | Medium (via Buffett) |
+| Share Purchases | High | High (SEC filings) |
+
+---
+
 ## BYD Investment (2008) - The Most Famous Abel-Adjacent Decision
 
 ### The Decision
@@ -17,7 +29,7 @@ Unlike Warren Buffett, whose investment decisions are well-documented through sh
 | **Date** | September 2008 |
 | **Initial Investment** | ~$230 million for 9.89% stake |
 | **Price** | HK$8 per share |
-| **Who Made the Call** | Charlie Munger identified the opportunity; MidAmerican/BHE executed |
+| **Who Made the Call** | Charlie Munger identified the opportunity |
 | **Abel's Role** | As CEO of MidAmerican/BHE, Abel oversaw the subsidiary making this investment |
 | **Berkshire Exit** | Completed September 2025 |
 | **Holding Period** | 17 years |
@@ -29,11 +41,10 @@ Unlike Warren Buffett, whose investment decisions are well-documented through sh
 
 **Munger's Vision:** Munger identified BYD's vertically integrated model (batteries + autos) as distinctive. Buffett credited Munger with the original insight.
 
-**BYD's Position in 2008:**
-- Founded 1995, batteries → autos in 2003
-- First plug-in hybrid (F3 DM) launched 2008
-- Was just beginning automotive entry
-- Manufacturing cost advantage in batteries was evident
+**Source:** Wikipedia
+**Link:** https://en.wikipedia.org/wiki/BYD_Company
+
+---
 
 ### The Investment Thesis (Inferred from Munger's Known Preferences)
 
@@ -51,6 +62,9 @@ Unlike Warren Buffett, whose investment decisions are well-documented through sh
 | September 2025 | Complete exit announced |
 
 **Rationale for Exit:** Unclear publicly. Munger (who died 2023) was the primary BYD bull. Valuation concerns may have prompted trimming.
+
+**Source:** Wikipedia - BYD Company
+**Link:** https://en.wikipedia.org/wiki/BYD_Company
 
 ### Results
 
@@ -78,6 +92,9 @@ Under Abel, BHE transformed from a regional utility into a diversified energy co
 | Ongoing | Renewable energy investment | Major wind/solar expansion |
 | Ongoing | Regulatory strategy | Multi-state utility operations |
 
+**Source:** Business Standard, May 2025
+**Link:** https://www.business-standard.com/world-news/who-is-greg-abel-warren-buffet-successor-berkshire-hathaway-ceo-125050400113_1.html
+
 ### Key Characteristics of Abel's BHE Approach
 
 1. **Long-term infrastructure focus** — Regulated utilities with stable returns
@@ -90,6 +107,9 @@ Under Abel, BHE transformed from a regional utility into a diversified energy co
 - **2014:** ~$92 billion in assets
 - **8%** of Berkshire's total revenue and pretax earnings
 - **One of largest** regulated utility groups in North America
+
+**Source:** CNBC, 2021
+**Link:** https://www.cnbc.com/2021/05/03/who-is-greg-abel-warren-buffetts-successor-at-berkshire-hathaway.html
 
 ---
 
@@ -110,6 +130,9 @@ Under Abel, BHE transformed from a regional utility into a diversified energy co
 - Gained visibility into ALL Berkshire subsidiaries
 - Buffett mentorship intensified
 
+**Source:** CNBC, January 2018
+**Link:** https://www.cnbc.com/2018/01/10/berkshire-hathaways-warren-buffett-appoints-greg-abel-and-ajit-jain-as-vice-chairmen.html
+
 ---
 
 ### 2022 Share Purchase Decision
@@ -122,6 +145,23 @@ Under Abel, BHE transformed from a regional utility into a diversified energy co
 - Personal confidence in Berkshire
 - Aligns his wealth with shareholders
 - Buffett said he wanted successors who were "already very rich"
+
+**Source:** CNBC, August 2022
+**Link:** https://www.cnbc.com/2022/08/06/berkshire-ceo-designate-abel-sells-stake-in-energy-company-he-led-for-870-million.html
+
+---
+
+### Japan Investment Strategy (2025)
+
+**The Decision:** Berkshire took significant positions in five major Japanese trading houses.
+
+**Abel's Statement:**
+> "These holdings are expected to be kept for decades."
+
+**Significance:** First major international investment visible under Abel's influence.
+
+**Source:** Business Standard, May 2025
+**Link:** https://www.business-standard.com/world-news/who-is-greg-abel-warren-buffet-successor-berkshire-hathaway-ceo-125050400113_1.html
 
 ---
 
@@ -151,15 +191,16 @@ Abel is notably private about specific decision-making frameworks. Unlike Buffet
 
 ---
 
-## Sources
+## Source Links
 
-| Source | Link | Content |
-|--------|------|---------|
-| Wikipedia - BYD | https://en.wikipedia.org/wiki/BYD_Company | BYD investment details |
-| CNBC | https://www.cnbc.com | Abel coverage, Buffett statements |
-| Berkshire Annual Reports | https://www.berkshirehathaway.com | Official filings |
-| SEC Filings | https://www.sec.gov | Abel compensation, share purchases |
-| Observer | https://observer.com | Succession coverage |
+| Decision | URL | Year |
+|----------|-----|------|
+| BYD Investment | https://en.wikipedia.org/wiki/BYD_Company | 2008-2025 |
+| CNBC - BYD stake sale | https://www.cnbc.com/2022/08/06/berkshire-ceo-designate-abel-sells-stake-in-energy-company-he-led-for-870-million.html | 2022 |
+| Business Standard - Abel profile | https://www.business-standard.com/world-news/who-is-greg-abel-warren-buffet-successor-berkshire-hathaway-ceo-125050400113_1.html | 2025 |
+| CNBC - Vice chair appointment | https://www.cnbc.com/2018/01/10/berkshire-hathaways-warren-buffett-appoints-greg-abel-and-ajit-jain-as-vice-chairmen.html | 2018 |
+| CNBC - Succession confirmation | https://www.cnbc.com/2021/05/03/who-is-greg-abel-warren-buffetts-successor-at-berkshire-hathaway.html | 2021 |
+| SEC Proxy Statement | https://www.berkshirehathaway.com/meet01/2025proxystatement.pdf | 2025 |
 
 ---
 
