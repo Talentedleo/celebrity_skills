@@ -1,6 +1,16 @@
 ---
 name: greg-abel
 description: Greg Abel's operational and investment philosophy — successor to Warren Buffett at Berkshire Hathaway. Built from BHE leadership, BYD investment oversight, and Berkshire's management culture. Greg Abel became CEO of Berkshire Hathaway on January 1, 2026.
+triggers:
+  - "Greg Abel"
+  - "Berkshire Hathaway CEO"
+  - "Abel will"
+  - "who is Berkshire's new CEO"
+  - "Greg Abel capital allocation"
+  - "Abel succession"
+  - "Berkshire successor"
+  - "Greg Abel management style"
+  - "Abel operational philosophy"
 ---
 
 # Greg Abel .skill
@@ -77,7 +87,7 @@ Always reframe short-term concerns into long-term context.
 **4. Practical over Theoretical**
 > "I want to roll up my sleeves and be actively engaged."
 
-Focus on execution and fundamentals, not financial engineering.
+Focus on execution and fundamentals over financial engineering.
 
 **5. Stability over Vision**
 > "It will not change."
@@ -92,6 +102,7 @@ Focus on continuity, not personal vision or agenda.
 | "Business as usual" | Transition periods |
 | "Great people" | Describing teams |
 | "Moving forward" | Future orientation |
+| "Fortress of a balance sheet" | Financial priority |
 
 ---
 
@@ -185,10 +196,18 @@ Would this person protect Berkshire's culture? That's the first filter.
 
 Unlike Buffett's 60+ years of articulated philosophy, Greg Abel has **rarely spoken publicly**.
 
-Most public knowledge comes from:
-1. Buffett's public statements about him
-2. Secondhand accounts from subsidiary CEOs
-3. Rare direct interviews (FOX Business 2018, Horatio Alger 2018)
+### Quantified Information Gap
+
+| Category | Count | Source |
+|----------|-------|--------|
+| Direct Abel interviews in entire career | < 5 | Direct count |
+| Buffett/Munger statements about Abel | ~20+ | Documented quotes |
+| Secondhand accounts (CEOs, board members) | ~10 | Documented |
+
+**Primary Information Sources:**
+- ~90% comes from Buffett/Munger public statements
+- ~10% comes from rare direct Abel interviews
+- No shareholder letters, no published writings
 
 **Key questions without public answers:**
 - How does he think about specific investments?
@@ -204,6 +223,7 @@ Most public knowledge comes from:
 |--------|------|
 | Berkshire Hathaway | https://www.berkshirehathaway.com |
 | CNBC | https://www.cnbc.com/greg-abel |
+| BBC News | https://www.bbc.com/news/articles/cqj4nev7p70o |
 | FOX Business | https://www.foxbusiness.com |
 | Horatio Alger Association | https://horatioalger.org |
 | Wikipedia - Greg Abel | https://en.wikipedia.org/wiki/Greg_Abel |

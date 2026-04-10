@@ -8,129 +8,170 @@ Greg Abel's journey from Edmonton, Alberta to CEO of Berkshire Hathaway spans ov
 
 ---
 
-## Early Life (1962-1984)
+## Complete Timeline
 
-| Year | Event |
-|------|-------|
-| June 1, 1962 | Born in Edmonton, Alberta, Canada |
-| 1960s-1970s | Grew up in working-class neighborhood; played hockey daily |
-| Childhood | Did odd jobs: delivering flyers, filling fire extinguishers at father's workplace (Levitt Safety) |
-| 1984 | Graduated from University of Alberta with Bachelor of Commerce in Accounting |
-| Early career | Became AICPA certified public accountant |
+### Early Life (1962-1984)
 
----
+| Year | Event | Source |
+|------|-------|--------|
+| June 1, 1962 | Born in Edmonton, Alberta, Canada | Wikipedia |
+| Childhood | Grew up in working-class neighborhood; played hockey daily | Horatio Alger |
+| Childhood | Did odd jobs: delivering flyers, filling fire extinguishers at Levitt Safety | Globe and Mail |
+| 1984 | Graduated from University of Alberta, Bachelor of Commerce in Accounting | Wikipedia |
 
-## Early Career (1984-1992)
-
-| Year | Event |
-|------|-------|
-| 1984 | Joined PricewaterhouseCoopers (PwC) in Edmonton office |
-| Late 1980s | Transferred to PwC San Francisco office |
-| 1992 | Recruited by CalEnergy (geothermal electricity company and PwC customer) to run accounting operations |
+**Sources:**
+- https://en.wikipedia.org/wiki/Greg_Abel
+- https://horatioalger.org/members/member-detail/gregory-e-abel/
 
 ---
 
-## CalEnergy & MidAmerican Era (1992-2008)
+### Early Career (1984-1992)
 
-| Year | Event |
-|------|-------|
-| 1992 | Joined CalEnergy as controller |
-| 1996 | CalEnergy acquired British utility; Abel moved to U.K. to manage the operation |
-| Mid-1990s | Impressed Walter Scott Jr. (future Berkshire board member) with performance in U.K. |
-| 1999 | CalEnergy acquired MidAmerican Energy; adopted MidAmerican name |
-| 1999 | Berkshire Hathaway acquired controlling interest in MidAmerican |
-| 1999 | Became president of MidAmerican Energy (by time of Berkshire acquisition) |
-| 2000s | MidAmerican pursued series of acquisitions expanding into wind, solar, geothermal |
-| 2008 | Appointed CEO of MidAmerican Energy |
+| Year | Event | Source |
+|------|-------|--------|
+| 1984 | Joined PricewaterhouseCoopers (PwC) in Edmonton | Britannica |
+| Late 1980s | Transferred to PwC San Francisco office | Britannica |
+| 1992 | Recruited by CalEnergy to run accounting operations | Britannica |
+
+**Sources:**
+- https://www.britannica.com/money/Greg-Abel
 
 ---
 
-## Berkshire Hathaway Energy Growth (2008-2018)
+### CalEnergy & MidAmerican Era (1992-2008)
 
-| Year | Event |
-|------|-------|
-| 2008 | Became CEO of MidAmerican Energy |
-| 2008 | BYD investment made by MidAmerican (~$230 million for 9.89% stake) |
-| 2014 | Company renamed Berkshire Hathaway Energy (BHE) |
-| 2014 | BHE reported ~$92 billion in assets; 8% of Berkshire's total revenue and pretax earnings |
-| 2016 | Received $41 million compensation (incentive bonus tied to BHE profits) |
-| 2017 | Buffett publicly stated desire for successor who is "already very rich" and not motivated by money |
-| 2018 | Received Horatio Alger Award |
+| Year | Event | Source |
+|------|-------|--------|
+| 1992 | Joined CalEnergy as controller | Britannica |
+| 1996 | CalEnergy acquired British utility; Abel moved to U.K. to manage | Britannica |
+| Mid-1990s | Impressed Walter Scott Jr. (future Berkshire board member) | Fortune |
+| 1999 | CalEnergy acquired MidAmerican Energy; adopted MidAmerican name | Wikipedia |
+| 1999 | Berkshire Hathaway acquired controlling interest in MidAmerican | Wikipedia |
+| 1999 | Became president of MidAmerican (by time of Berkshire acquisition) | Wikipedia |
+| 2008 | Appointed CEO of MidAmerican Energy | Wikipedia |
 
----
-
-## Vice Chairman Era (2018-2025)
-
-| Year | Event |
-|------|-------|
-| January 2018 | Named Vice Chairman of Berkshire Hathaway (non-insurance operations); appointed to board |
-| 2018 | Named to Edison Electric Institute as vice chairman |
-| 2022 | Sold 1% stake in BHE for $870 million |
-| October 2022 | Purchased $68 million of Berkshire Class A shares (168 shares) |
-| 2022 | Became director of AEGIS Limited, Kraft Heinz, Nuclear Electric Insurance Limited |
-| 2023 | Charlie Munger praised Abel: "Greg is just sensational at being a business leader, both as a thinker and as a doer" |
+**Sources:**
+- https://www.britannica.com/money/Greg-Abel
+- https://en.wikipedia.org/wiki/Greg_Abel
+- https://money.cnn.com/2011/01/18/news/companies/greg_abel_berkshire.fortune/
 
 ---
 
-## Succession Period (2021-2025)
+### BYD Investment (2008)
 
-| Year | Event |
-|------|-------|
-| May 2021 | Warren Buffett publicly confirmed Abel as his successor at Berkshire Annual Meeting |
-| 2021 | Abel's handling of CalEnergy's U.K. takeover in 1990s credited as start of succession consideration |
-| May 2024 | Buffett reaffirms Abel will have full authority for investing decisions as CEO |
-| May 2024 | Buffett: "I would leave the capital allocation to Greg and he understands businesses extremely well" |
-| May 3, 2025 | Buffett announced retirement at year-end; board voted unanimously for Abel |
-| May 3, 2025 | Abel's first public statement as CEO-designate: "It will not change. And it's the approach we'll take as we go forward." |
-| May 5, 2025 | Board formally appointed Abel as President and CEO effective January 1, 2026 |
+| Year | Event | Source |
+|------|-------|--------|
+| September 2008 | MidAmerican invested ~$230M for 9.89% of BYD | Wikipedia |
+| 2008 | BYD F3 DM plug-in hybrid launched (first year of EV entry) | Wikipedia |
+
+**Source:** https://en.wikipedia.org/wiki/BYD_Company
 
 ---
 
-## CEO of Berkshire Hathaway (2026-Present)
+### Berkshire Hathaway Energy Growth (2008-2018)
 
-| Year | Event |
-|------|-------|
-| January 1, 2026 | Became President and CEO of Berkshire Hathaway |
-| 2026 | First change in Berkshire CEO since Buffett took control in 1965 |
+| Year | Event | Source |
+|------|-------|--------|
+| 2008 | Became CEO of MidAmerican Energy | Wikipedia |
+| 2013 | Interviewed by University of Alberta New Trail | New Trail |
+| 2014 | Company renamed Berkshire Hathaway Energy (BHE) | Wikipedia |
+| 2014 | ~$92 billion in assets; 8% of Berkshire's total revenue | CNBC |
+| 2016 | $41 million total compensation (incentive bonus) | CNBC |
+| 2018 | Received Horatio Alger Award | Horatio Alger |
+
+**Sources:**
+- https://www.cnbc.com/2021/05/03/who-is-greg-abel-warren-buffetts-successor-at-berkshire-hathaway.html
+- https://horatioalger.org/members/member-detail/gregory-e-abel/
+- https://www.ualberta.ca/newtrail/index.html
+
+---
+
+### Vice Chairman Era (2018-2025)
+
+| Year | Event | Source |
+|------|-------|--------|
+| January 2018 | Named Vice Chairman of Berkshire Hathaway; appointed to board | CNBC |
+| 2018 | First TV interview (FOX Business) | FOX Business |
+| 2022 | Sold 1% BHE stake for $870 million | CNBC |
+| October 2022 | Purchased $68M Berkshire Class A shares | CNBC |
+| 2023 | Charlie Munger praised Abel on CNBC | CNBC/YouTube |
+| 2024 | Buffett reaffirmed Abel's capital allocation authority | CNBC |
+
+**Sources:**
+- https://www.cnbc.com/2018/01/10/berkshire-hathaways-warren-buffett-appoints-greg-abel-and-ajit-jain-as-vice-chairmen.html
+- https://www.foxbusiness.com/business-leaders/greg-abel-holding-a-key-to-buffetts-kingdom
+- https://www.cnbc.com/2022/08/06/berkshire-ceo-designate-abel-sells-stake-in-energy-company-he-led-for-870-million.html
+- https://www.youtube.com/watch?v=9VVPO3KWj3A
+
+---
+
+### Succession Period (2021-2025)
+
+| Year | Event | Source |
+|------|-------|--------|
+| May 2021 | Buffett publicly confirmed Abel as successor | CNBC |
+| May 2024 | Buffett says Abel will have full investing authority | CNBC |
+| May 3, 2025 | Buffett announced retirement; Abel was unaware | BBC |
+| May 3, 2025 | Abel's first statement as CEO-designate | CNBC |
+| May 5, 2025 | Board unanimously confirmed Abel as CEO effective Jan 1, 2026 | CNBC |
+
+**Sources:**
+- https://www.bbc.com/news/articles/cqj4nev7p70o
+- https://www.cnbc.com/2025/05/07/warren-buffett-greg-abel-understands-businesses-extremely-well.html
+
+---
+
+### CEO of Berkshire Hathaway (2026-Present)
+
+| Year | Event | Source |
+|------|-------|--------|
+| January 1, 2026 | Became President and CEO of Berkshire Hathaway | Wikipedia |
+| 2026 | First change in Berkshire CEO since Buffett took control in 1965 | Britannica |
 
 ---
 
 ## Key Relationships
 
-| Person | Relationship | Quotes |
-|--------|-------------|--------|
-| Warren Buffett | Employer, mentor | "He understands businesses extremely well" (2024) |
-| Charlie Munger | Colleague (deceased 2023) | "Better business executive than Buffett" (2015) |
-| Walter Scott Jr. | Berkshire board (deceased 2021) | "Willing to go and do it" (2011) |
-| Ajit Jain | Colleague, fellow successor | Both named vice chairmen in 2018 |
-| Sid Abel | Uncle | Hall of Fame NHL player (Detroit Red Wings) |
-| Andrea Abel | Spouse | Current wife; has one son together |
+| Person | Relationship | Quote Source |
+|--------|-------------|--------------|
+| Warren Buffett | Employer, mentor | Buffett's many statements |
+| Charlie Munger | Colleague (deceased 2023) | 2015 letter, 2023 interview |
+| Walter Scott Jr. | Berkshire board (deceased 2021) | Fortune 2011 |
+| Ajit Jain | Colleague, fellow successor | 2018 CNBC |
+| Sid Abel | Uncle | Wikipedia |
+| Andrea Abel | Spouse | Wikipedia |
 
 ---
 
 ## Financial Milestones
 
-| Year | Event |
-|------|-------|
-| 2016 | $41 million total compensation |
-| 2022 | $870 million from BHE stake sale |
-| 2022 | $68 million Berkshire Class A share purchase |
-| 2024 | $21 million base salary |
+| Year | Event | Source |
+|------|-------|--------|
+| 2016 | $41 million total compensation | CNBC |
+| 2022 | $870 million from BHE stake sale | CNBC |
+| 2022 | $68 million Berkshire Class A share purchase | CNBC |
+| 2024 | $21 million base salary | SEC Proxy |
+
+**Source:** https://www.berkshirehathaway.com/meet01/2025proxystatement.pdf
 
 ---
 
-## Sources
+## Complete Source List
 
-| Source | Link | Content |
-|--------|------|---------|
-| Wikipedia | https://en.wikipedia.org/wiki/Greg_Abel | Full biography |
-| Britannica | https://www.britannica.com/money/Greg-Abel | Profile, facts |
-| CNBC | https://www.cnbc.com | Succession coverage, quotes |
-| CBC | https://www.cbc.ca/news/business/berkshire-hathaway-1.6011602 | Canadian perspective |
-| Globe and Mail | https://www.theglobeandmail.com | Early life coverage |
-| Horatio Alger | https://horatioalger.org | Award speech details |
-| SEC Filings | https://www.berkshirehathaway.com | Compensation data |
+| Source | Link |
+|--------|------|
+| Wikipedia | https://en.wikipedia.org/wiki/Greg_Abel |
+| Britannica | https://www.britannica.com/money/Greg-Abel |
+| CNBC | https://www.cnbc.com/2025/05/07/warren-buffett-greg-abel-understands-businesses-extremely-well.html |
+| BBC News | https://www.bbc.com/news/articles/cqj4nev7p70o |
+| FOX Business | https://www.foxbusiness.com/business-leaders/greg-abel-holding-a-key-to-buffetts-kingdom |
+| Horatio Alger | https://horatioalger.org/members/member-detail/gregory-e-abel/ |
+| Fortune | https://money.cnn.com/2011/01/18/news/companies/greg_abel_berkshire.fortune/ |
+| YouTube (CNBC) | https://www.youtube.com/watch?v=9VVPO3KWj3A |
+| University of Alberta | https://www.ualberta.ca/newtrail/index.html |
+| SEC Proxy | https://www.berkshirehathaway.com/meet01/2025proxystatement.pdf |
+| Wikipedia - BYD | https://en.wikipedia.org/wiki/BYD_Company |
 
 ---
 
-*Complete timeline compiled from Wikipedia, Britannica, CNBC, CBC, Globe and Mail, and SEC filings.*
+*Complete timeline compiled from Wikipedia, Britannica, CNBC, BBC, FOX Business, and SEC filings.*

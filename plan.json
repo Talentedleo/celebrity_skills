@@ -9,12 +9,11 @@
     "quotes": "Always use original English quotes, never translate",
     "sources": "Cite original English sources with specific URLs"
   },
-
   "updateTasks": [
     {
       "id": 1,
       "priority": 1,
-      "status": "pending",
+      "status": "completed",
       "title": "Search: Recent Abel interviews (2023-2025)",
       "description": "搜索 Greg Abel 近几年(2023-2025)的访谈记录，更新 conversation.md",
       "searchQuery": "Greg Abel interview 2023 2024 2025 Berkshire Hathaway",
@@ -25,73 +24,85 @@
     {
       "id": 2,
       "priority": 2,
-      "status": "pending",
+      "status": "completed",
       "title": "Update: references/01-writings.md - add source links",
       "description": "为01-writings.md中的每个引用添加具体URL链接",
       "action": "Edit file with specific URLs",
       "output": "references/01-writings.md",
-      "dependsOn": [1],
+      "dependsOn": [
+        1
+      ],
       "successCriteria": "所有引用都有具体链接"
     },
     {
       "id": 3,
       "priority": 2,
-      "status": "pending",
+      "status": "completed",
       "title": "Update: references/02-conversations.md - add source links + quantify",
       "description": "更新02-conversations.md，添加链接，量化信息来源（Buffett转述 vs 直接采访）",
       "action": "Edit file with links + quant metrics",
       "output": "references/02-conversations.md",
-      "dependsOn": [1],
+      "dependsOn": [
+        1
+      ],
       "successCriteria": "有链接 + 量化说明（如：直接采访不超过5次）"
     },
     {
       "id": 4,
       "priority": 2,
-      "status": "pending",
+      "status": "completed",
       "title": "Update: references/03-expression-dna.md - add source links",
       "description": "为03-expression-dna.md添加具体URL链接",
       "action": "Edit file with specific URLs",
       "output": "references/03-expression-dna.md",
-      "dependsOn": [1],
+      "dependsOn": [
+        1
+      ],
       "successCriteria": "所有引用都有具体链接"
     },
     {
       "id": 5,
       "priority": 2,
-      "status": "pending",
+      "status": "completed",
       "title": "Update: references/04-external-views.md - add source links",
       "description": "为04-external-views.md添加具体URL链接",
       "action": "Edit file with specific URLs",
       "output": "references/04-external-views.md",
-      "dependsOn": [1],
+      "dependsOn": [
+        1
+      ],
       "successCriteria": "所有引用都有具体链接"
     },
     {
       "id": 6,
       "priority": 2,
-      "status": "pending",
+      "status": "completed",
       "title": "Update: references/05-decisions.md - add source links",
       "description": "为05-decisions.md添加具体URL链接",
       "action": "Edit file with specific URLs",
       "output": "references/05-decisions.md",
-      "dependsOn": [1],
+      "dependsOn": [
+        1
+      ],
       "successCriteria": "所有引用都有具体链接"
     },
     {
       "id": 7,
       "priority": 2,
-      "status": "pending",
+      "status": "completed",
       "title": "Update: references/06-timeline.md - add source links",
       "description": "为06-timeline.md添加具体URL链接",
       "action": "Edit file with specific URLs",
       "output": "references/06-timeline.md",
-      "dependsOn": [1],
+      "dependsOn": [
+        1
+      ],
       "successCriteria": "所有引用都有具体链接"
     },
     {
       "id": 8,
       "priority": 3,
-      "status": "pending",
+      "status": "completed",
       "title": "Create: _meta.json for clawhub",
       "description": "创建 _meta.json，包含版本、作者、标签等元数据，便于 clawhub 识别和分发",
       "action": "Create new file",
@@ -101,30 +112,38 @@
     {
       "id": 9,
       "priority": 4,
-      "status": "pending",
+      "status": "completed",
       "title": "Update: SKILL.md - add Triggers section",
       "description": "在 SKILL.md 的 description 后添加触发词列表（Triggers）",
       "action": "Edit SKILL.md",
       "output": "SKILL.md",
-      "dependsOn": [2, 3, 4, 5, 6, 7, 8],
+      "dependsOn": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
       "successCriteria": "添加 Triggers: Greg Abel, Berkshire Hathaway CEO, Abel will 等关键词"
     },
     {
       "id": 10,
       "priority": 4,
-      "status": "pending",
+      "status": "completed",
       "title": "Update: SKILL.md - quantify What We Don't Know",
       "description": "更新 What We Don't Know 节，量化信息缺口（如：公开采访不超过5次，90%信息来自Buffett转述）",
       "action": "Edit SKILL.md",
       "output": "SKILL.md",
-      "dependsOn": [9],
+      "dependsOn": [
+        9
+      ],
       "successCriteria": "量化说明信息来源比例"
     }
   ],
-
   "executionRule": "每执行一个任务都要等Leo确认后再继续下一个",
-
-  "currentPhase": "等待Leo确认plan.json",
-  "nextStep": "等待Leo确认后执行Task 1: Search Recent Interviews",
+  "currentPhase": "All tasks completed",
+  "nextStep": "None - all updates finished",
   "confirmed": false
 }
