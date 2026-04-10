@@ -8,6 +8,17 @@ Greg Abel is notably private compared to Warren Buffett. Unlike Buffett's prolif
 
 ---
 
+## Information Quantification
+
+**Direct Abel Quotes (Career Total):** Less than 10 documented instances of Abel speaking publicly in his entire career.
+
+**Primary Information Sources:**
+- ~90% comes from Buffett/Munger public statements about Abel
+- ~10% comes from rare direct Abel interviews or statements
+- No shareholder letters, no published writings, minimal media interviews
+
+---
+
 ## Official Berkshire Communications
 
 ### Abel's Statements (2025 Annual Meeting - First as CEO-Designate)
@@ -18,31 +29,64 @@ Greg Abel is notably private compared to Warren Buffett. Unlike Buffett's prolif
 **Source:** Berkshire Hathaway Annual Meeting, May 3, 2025
 **Link:** https://www.cnbc.com/2025/05/07/warren-buffett-greg-abel-understands-businesses-extremely-well.html
 
+### Abel's First Priority (2025)
+
+**On Preserving the Balance Sheet:**
+Abel told shareholders his first priority will be to preserve the company's "fortress of a balance sheet."
+
+**Source:** Business Standard, May 2025
+**Link:** https://www.business-standard.com/world-news/who-is-greg-abel-warren-buffet-successor-berkshire-hathaway-ceo-125050400113_1.html
+
+### Japan Investment (2025)
+
+**On Japan Holdings:**
+Abel recently told shareholders that Berkshire's positions in five major Japanese trading houses are expected to be kept "for decades."
+
+**Source:** Business Standard, May 2025
+**Link:** https://www.business-standard.com/world-news/who-is-greg-abel-warren-buffet-successor-berkshire-hathaway-ceo-125050400113_1.html
+
 ---
 
-### Buffett's Public Statements About Abel
+## Buffett's Public Statements About Abel
 
-These represent the most authoritative source on Abel's capabilities:
+### 2025 - Buffett Retirement Announcement (May 3)
 
-**2018 - Vice Chairman Appointment (January):**
-> "They both have Berkshire in their blood. They love the company. They love the businesses. They know their operations like the back of their hand."
+**Full Statement:**
+> "I think the time has arrived where Greg should become the chief executive of the company at year end."
 
-**Source:** CNBC Interview, January 10, 2018
-**Link:** https://www.cnbc.com/2018/01/10/berkshire-hathaways-warren-buffett-appoints-greg-abel-and-ajit-jain-as-vice-chairmen.html
+**Source:** BBC News, May 3, 2025
+**Link:** https://www.bbc.com/news/articles/cqj4nev7p70o
 
-**2024 - Capital Allocation Trust (May):**
+### 2025 - On Keeping All Shares
+
+> "I have no intention, zero, of selling one share of Berkshire Hathaway. It will get given away."
+
+**Source:** BBC News, May 3, 2025
+**Link:** https://www.bbc.com/news/articles/cqj4nev7p70o
+
+### 2024 - Capital Allocation Trust
+
 > "I would leave the capital allocation to Greg and he understands businesses extremely well. If you understand businesses, you'll understand common stocks."
 
-**Source:** Berkshire Annual Meeting, May 4, 2024
+**Source:** CNBC, May 4, 2024
 **Link:** https://www.cnbc.com/2024/05/04/warren-buffett-says-greg-abel-will-make-berkshire-hathaway-investing-decisions-when-hes-gone.html
 
-**2025 - Confidence in Future Performance (May):**
+### 2025 - Confidence in Future Performance
+
 > "The decision to keep every share is an economic decision, because I think the prospects of Berkshire will be better under Greg's management than mine."
 
-**Source:** Berkshire Annual Meeting, May 3, 2025
+**Source:** CNBC, May 3, 2025
 **Link:** https://www.cnbc.com/2025/05/03/warren-buffett-to-ask-board-to-make-greg-abel-ceo-of-berkshire-hathaway-at-year-end.html
 
-**2013 - Praise for Abel's Ideas:**
+### 2018 - Vice Chairman Appointment
+
+> "They both have Berkshire in their blood. They love the company. They love the businesses. They know their operations like the back of their hand."
+
+**Source:** CNBC, January 10, 2018
+**Link:** https://www.cnbc.com/2018/01/10/berkshire-hathaways-warren-buffett-appoints-greg-abel-and-ajit-jain-as-vice-chairmen.html
+
+### 2013 - Praise for Abel's Ideas
+
 > "I always make time for Greg when he calls, because he brings me great ideas and is truly innovative in his thinking and business approach."
 
 **Source:** Omaha World Herald, 2013
@@ -50,25 +94,42 @@ These represent the most authoritative source on Abel's capabilities:
 
 ---
 
-### Charlie Munger's Public Statements About Abel
+## Charlie Munger's Public Statements About Abel
 
-**2015 Berkshire Shareholder Letter:**
-> "Both are proven performers who would probably be under-described as 'world-class.' In some important ways, each is a better business executive than Buffett."
+### 2023 - CNBC Interview
 
-**Source:** Berkshire Hathaway 2015 Annual Letter
-**Link:** http://www.berkshirehathaway.com/letters/2014ltr.pdf
-
-**2023 - CNBC Interview:**
 > "Greg is just sensational at being a business leader, both as a thinker and as a doer."
 
 **Source:** CNBC Interview with Charlie Munger, 2023
 **Link:** https://www.youtube.com/watch?v=9VVPO3KWj3A
 
+### 2015 Berkshire Shareholder Letter
+
+> "Both are proven performers who would probably be under-described as 'world-class.' In some important ways, each is a better business executive than Buffett."
+
+**Source:** Berkshire Hathaway 2015 Annual Letter
+**Link:** http://www.berkshirehathaway.com/letters/2014ltr.pdf
+
 ---
+
+## Other Insider Testimonials
+
+### Ron Olson (Berkshire Board Member)
+
+> "Is he another Warren Buffett? No. There is no other Warren Buffett. But Greg has the fundamentals — integrity, work ethic, and strategic thinking."
+
+**Source:** Associated Press / Business Standard, May 2025
+**Link:** https://www.business-standard.com/world-news/who-is-greg-abel-warren-buffet-successor-berkshire-hathaway-ceo-125050400113_1.html
+
+### Troy Bader (Dairy Queen CEO, Updated 2025)
+
+> "When I think about Greg, he not only has high business acumen, but he has really high business instincts. The intuition is really important. And, you know, Warren has that intuition, but Greg has a lot of it as well."
+
+**Source:** Business Standard, May 2025
+**Link:** https://www.business-standard.com/world-news/who-is-greg-abel-warren-buffet-successor-berkshire-hathaway-ceo-125050400113_1.html
 
 ### Walter Scott Jr. (Berkshire Board Member, Deceased 2021)
 
-**2011 Fortune Interview:**
 > "Greg is the kind of person that, whenever he's been asked to do something, he's willing to go and do it."
 
 **Source:** Fortune Magazine, 2011
@@ -77,6 +138,14 @@ These represent the most authoritative source on Abel's capabilities:
 ---
 
 ## Abel's Own Statements
+
+### 2025 Annual Meeting Statement
+
+**On Taking Over:**
+Abel, sitting next to Buffett on stage, was apparently caught unaware by the announcement. Only Buffett's children had known about the decision in advance.
+
+**Source:** BBC News, May 3, 2025
+**Link:** https://www.bbc.com/news/articles/cqj4nev7p70o
 
 ### Horatio Alger Award Acceptance Speech (2018)
 
@@ -100,17 +169,15 @@ These represent the most authoritative source on Abel's capabilities:
 **On Current Status:**
 > "Well, things are good right now. So our businesses are in a great place. And we've got great managers and like I said we are moving forward."
 
-**Source:** FOX Business, September 2018
+**Source:** FOX Business, September 7, 2018
 **Link:** https://www.foxbusiness.com/business-leaders/greg-abel-holding-a-key-to-buffetts-kingdom
 
----
-
-## University of Alberta - New Trail Interview (2013)
+### University of Alberta - New Trail Interview (2013)
 
 **On Accounting Background:**
 > "Accounting took over when I came to realize how critically important it was to understand things such as income and cash flow statements."
 
-**Source:** University of Alberta New Trail Publication, 2013
+**Source:** University of Alberta New Trail, 2013
 **Link:** https://www.ualberta.ca/newtrail/index.html
 
 ---
@@ -129,18 +196,25 @@ These represent the most authoritative source on Abel's capabilities:
 
 ---
 
-## Sources
+## Complete Source List
 
-| Source | Link | Type |
-|--------|------|------|
-| CNBC | https://www.cnbc.com | Interviews, quotes |
-| FOX Business | https://www.foxbusiness.com | Rare Abel interview |
-| Horatio Alger | https://horatioalger.org | Abel's speech |
-| Omaha World Herald | https://omaha.com | Buffett quotes |
-| Berkshire Letters | http://www.berkshirehathaway.com/letters | Munger 2015 letter |
-| Fortune Magazine | https://fortune.com | Munger, Buffett profiles |
-| University of Alberta | https://www.ualberta.ca/newtrail | Abel interview 2013 |
+| Source | URL | Content Type |
+|--------|-----|--------------|
+| CNBC | https://www.cnbc.com/2025/05/07/warren-buffett-greg-abel-understands-businesses-extremely-well.html | Interview, quotes |
+| BBC News | https://www.bbc.com/news/articles/cqj4nev7p70o | Retirement announcement |
+| Business Standard | https://www.business-standard.com/world-news/who-is-greg-abel-warren-buffet-successor-berkshire-hathaway-ceo-125050400113_1.html | Profile, quotes |
+| CNBC | https://www.cnbc.com/2024/05/04/warren-buffett-says-greg-abel-will-make-berkshire-hathaway-investing-decisions-when-hes-gone.html | 2024 meeting |
+| CNBC | https://www.cnbc.com/2025/05/03/warren-buffett-to-ask-board-to-make-greg-abel-ceo-of-berkshire-hathaway-at-year-end.html | Succession announcement |
+| CNBC | https://www.cnbc.com/2018/01/10/berkshire-hathaways-warren-buffett-appoints-greg-abel-and-ajit-jain-as-vice-chairmen.html | Vice chair appointment |
+| Omaha World Herald | https://omaha.com/money/buffett/new-berkshire-vice-chairman-gregory-abel-called-truly-innovative-with-great-ideas/article_c2566e52-f623-11e7-b490-03b2b7ca8601.html | Buffett praise |
+| FOX Business | https://www.foxbusiness.com/business-leaders/greg-abel-holding-a-key-to-buffetts-kingdom | Rare Abel interview |
+| Horatio Alger | https://horatioalger.org/members/member-detail/gregory-e-abel/ | Abel's speech |
+| Fortune Magazine | https://money.cnn.com/2011/01/18/news/companies/greg_abel_berford.fortune/ | Walter Scott quote |
+| Berkshire Letters | http://www.berkshirehathaway.com/letters/2014ltr.pdf | Munger 2015 letter |
+| YouTube (CNBC) | https://www.youtube.com/watch?v=9VVPO3KWj3A | Munger 2023 interview |
+| University of Alberta | https://www.ualberta.ca/newtrail/index.html | Abel interview 2013 |
+| SEC Proxy | https://www.berkshirehathaway.com/meet01/2025proxystatement.pdf | Compensation data |
 
 ---
 
-*Note: Abel does not write public letters or grant frequent interviews. Primary sources are rare direct statements plus Buffett/Munger public endorsements.*
+*Note: Abel does not write public letters or grant frequent interviews. This document represents all known direct statements. ~90% of public information about Abel comes from Buffett/Munger public statements, not from Abel directly.*
