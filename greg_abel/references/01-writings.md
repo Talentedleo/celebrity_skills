@@ -1,92 +1,146 @@
 # Greg Abel - Writings & Public Statements
 
-*(Last updated: 2026-04-10)*
+*Last updated: 2026-04-10*
 
-## Overview
+## Executive Summary
 
-Greg Abel is notably private compared to Warren Buffett. Unlike Buffett, who writes annual shareholder letters and gives numerous interviews, Abel rarely makes public statements. Most of his public communications come through Berkshire Hathaway's official channels and regulatory filings.
-
----
-
-## Berkshire Hathaway Energy Annual Reports
-
-### Key Themes from BHE Annual Reports
-
-**Business Philosophy:**
-- Focus on long-term infrastructure investment
-- Emphasis on regulatory relationships and stability
-- Commitment to operational reliability
-- Disciplined capital allocation
-
-**Growth Strategy:**
-- Organic growth through infrastructure upgrades
-- Strategic acquisitions in regulated utilities
-- Expansion in renewable energy (wind, solar, geothermal)
-- Geographic diversification while maintaining local management
+Greg Abel is notably private compared to Warren Buffett. Unlike Buffett's prolific annual shareholder letters, Abel rarely publishes written communications. Most public knowledge comes from rare interviews, Berkshire's official statements, and secondhand accounts.
 
 ---
 
-## Public Statements & Quotes
+## Official Berkshire Communications
 
-### On Berkshire's Culture (2025)
+### Abel's Statements (2025 Annual Meeting - First as CEO-Designate)
+
+**On Maintaining Berkshire's Culture:**
 > "It's really the investment philosophy and how Warren and the team have allocated capital for the past 60 years. Really, it will not change. And it's the approach we'll take as we go forward."
 
 **Source:** Berkshire Hathaway Annual Meeting, May 3, 2025
-
-### On Succession
-> "I would maintain the reputation of Berkshire."
-
-**Source:** Berkshire Hathaway Annual Meeting, May 3, 2025
-
-### On Capital Allocation
-> "I want to have an impact. I want to roll up my sleeves and be actively engaged in making our company successful."
-
-**Source:** Horatio Alger Association Interview, May 2018
-
-### On Work Ethic
-> "I think hard work leads to good outcomes. In my schooling, in sports, and in my business positions, I learned that if I put in a lot of work and was well-prepared, then success would be more likely."
-
-**Source:** Horatio Alger Association Interview, May 2018
-
-### On Business Understanding (Buffett on Abel)
-> "He understands businesses extremely well."
-
-**Source:** Warren Buffett, Berkshire Annual Meeting, May 2024
-
-### Charlie Munger on Abel
-> "Greg is just sensational at being a business leader, both as a thinker and as a doer."
-
-**Source:** CNBC Interview, 2023
+**Link:** https://www.cnbc.com/2025/05/07/warren-buffett-greg-abel-understands-businesses-extremely-well.html
 
 ---
 
-## Warren Buffett's Public Endorsements
+### Buffett's Public Statements About Abel
 
-### 2018 - Vice Chairman Appointment
+These represent the most authoritative source on Abel's capabilities:
+
+**2018 - Vice Chairman Appointment (January):**
 > "They both have Berkshire in their blood. They love the company. They love the businesses. They know their operations like the back of their hand."
 
-**Source:** CNBC, January 2018
+**Source:** CNBC Interview, January 10, 2018
+**Link:** https://www.cnbc.com/2018/01/10/berkshire-hathaways-warren-buffett-appoints-greg-abel-and-ajit-jain-as-vice-chairmen.html
 
-### 2021 - Succession Confirmation
-> "The decision has been made... Greg will be the next CEO."
-
-**Source:** Berkshire Hathaway Annual Meeting, May 2021
-
-### 2024 - Capital Allocation Trust
+**2024 - Capital Allocation Trust (May):**
 > "I would leave the capital allocation to Greg and he understands businesses extremely well. If you understand businesses, you'll understand common stocks."
 
-**Source:** Berkshire Annual Meeting, May 2024
+**Source:** Berkshire Annual Meeting, May 4, 2024
+**Link:** https://www.cnbc.com/2024/05/04/warren-buffett-says-greg-abel-will-make-berkshire-hathaway-investing-decisions-when-hes-gone.html
+
+**2025 - Confidence in Future Performance (May):**
+> "The decision to keep every share is an economic decision, because I think the prospects of Berkshire will be better under Greg's management than mine."
+
+**Source:** Berkshire Annual Meeting, May 3, 2025
+**Link:** https://www.cnbc.com/2025/05/03/warren-buffett-to-ask-board-to-make-greg-abel-ceo-of-berkshire-hathaway-at-year-end.html
+
+**2013 - Praise for Abel's Ideas:**
+> "I always make time for Greg when he calls, because he brings me great ideas and is truly innovative in his thinking and business approach."
+
+**Source:** Omaha World Herald, 2013
+**Link:** https://omaha.com/money/buffett/new-berkshire-vice-chairman-gregory-abel-called-truly-innovative-with-great-ideas/article_c2566e52-f623-11e7-b490-03b2b7ca8601.html
+
+---
+
+### Charlie Munger's Public Statements About Abel
+
+**2015 Berkshire Shareholder Letter:**
+> "Both are proven performers who would probably be under-described as 'world-class.' In some important ways, each is a better business executive than Buffett."
+
+**Source:** Berkshire Hathaway 2015 Annual Letter
+**Link:** http://www.berkshirehathaway.com/letters/2014ltr.pdf
+
+**2023 - CNBC Interview:**
+> "Greg is just sensational at being a business leader, both as a thinker and as a doer."
+
+**Source:** CNBC Interview with Charlie Munger, 2023
+**Link:** https://www.youtube.com/watch?v=9VVPO3KWj3A
+
+---
+
+### Walter Scott Jr. (Berkshire Board Member, Deceased 2021)
+
+**2011 Fortune Interview:**
+> "Greg is the kind of person that, whenever he's been asked to do something, he's willing to go and do it."
+
+**Source:** Fortune Magazine, 2011
+**Link:** https://money.cnn.com/2011/01/18/news/companies/greg_abel_berkshire.fortune/
+
+---
+
+## Abel's Own Statements
+
+### Horatio Alger Award Acceptance Speech (2018)
+
+**On Childhood:**
+> "I remember getting together with other neighborhood kids as soon as we could after school. We played hockey nearly every day in summer and winter and stayed out until we were called in for dinner."
+
+**On Work Ethic:**
+> "I think hard work leads to good outcomes. In my schooling, in sports, and in my business positions, I learned that if I put in a lot of work and was well-prepared, then success would be more likely."
+
+**On Career Motivation:**
+> "I want to have an impact. I want to roll up my sleeves and be actively engaged in making our company successful."
+
+**Source:** Horatio Alger Association, May 2018
+**Link:** https://horatioalger.org/members/member-detail/gregory-e-abel/
+
+### FOX Business Interview (2018) - First TV Interview
+
+**On His New Role:**
+> "Nothing's changed. Business as usual. It's just great. We've got great people to be working with… couldn't be better."
+
+**On Current Status:**
+> "Well, things are good right now. So our businesses are in a great place. And we've got great managers and like I said we are moving forward."
+
+**Source:** FOX Business, September 2018
+**Link:** https://www.foxbusiness.com/business-leaders/greg-abel-holding-a-key-to-buffetts-kingdom
+
+---
+
+## University of Alberta - New Trail Interview (2013)
+
+**On Accounting Background:**
+> "Accounting took over when I came to realize how critically important it was to understand things such as income and cash flow statements."
+
+**Source:** University of Alberta New Trail Publication, 2013
+**Link:** https://www.ualberta.ca/newtrail/index.html
+
+---
+
+## Compensation & Holdings (SEC Filings)
+
+| Year | Compensation | Notes |
+|------|-------------|-------|
+| 2024 | $21 million base salary + $3M bonus | Per SEC proxy filings |
+| 2016 | $41 million total | Large incentive bonus tied to BHE profits |
+| 2022 | Sold 1% BHE stake for $870 million | Per CNBC |
+| 2022 | Purchased $68M Berkshire Class A shares | 168 shares at ~$404,761 each |
+
+**Source:** Berkshire Hathaway SEC Proxy Statements
+**Link:** https://www.berkshirehathaway.com/meet01/2025proxystatement.pdf
 
 ---
 
 ## Sources
 
-| Source | Link | Notes |
-|--------|------|-------|
-| Berkshire Hathaway Official | [berkshirehathaway.com](https://www.berkshirehathaway.com) | Annual reports, letters |
-| CNBC | [cnbc.com/greg-abel](https://www.cnbc.com) | Interview transcripts |
-| Horatio Alger Association | [horatioalger.org](https://horatioalger.org) | 2018 speech transcript |
+| Source | Link | Type |
+|--------|------|------|
+| CNBC | https://www.cnbc.com | Interviews, quotes |
+| FOX Business | https://www.foxbusiness.com | Rare Abel interview |
+| Horatio Alger | https://horatioalger.org | Abel's speech |
+| Omaha World Herald | https://omaha.com | Buffett quotes |
+| Berkshire Letters | http://www.berkshirehathaway.com/letters | Munger 2015 letter |
+| Fortune Magazine | https://fortune.com | Munger, Buffett profiles |
+| University of Alberta | https://www.ualberta.ca/newtrail | Abel interview 2013 |
 
 ---
 
-*Note: Abel does not grant many interviews. Most public information comes from Buffett's public statements, Berkshire regulatory filings, and secondhand accounts from associates.*
+*Note: Abel does not write public letters or grant frequent interviews. Primary sources are rare direct statements plus Buffett/Munger public endorsements.*

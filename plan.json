@@ -1,321 +1,412 @@
 {
-  "project": "Greg Abel .skill",
-  "description": "Build a Greg Abel cognitive framework skill following the Warren Buffett skill structure. Greg Abel is the heir to Warren Buffett at Berkshire Hathaway, leading Berkshire Hathaway Energy and managing key investments like BYD.",
-  "目标": "产出符合 Anthropic Skill 规范的 Greg Abel Skill，结构对齐 warren_buffett",
-  "version": "1.0.0",
+  "project": "Greg Abel .skill - Comprehensive Research Plan",
+  "description": "Thorough carpet-bombing research to build a comprehensive Greg Abel cognitive framework skill. All research in English, all documents in English.",
+  "version": "2.0.0",
   "lastUpdated": "2026-04-10",
-  "notes": "Leo要求：1.搜索资料要查英语原文信息 2.编写文档要用英文 3.先写入plan.json，等确认后再开始 | Greg Abel skill不需要README.md文件",
+  "notes": "Leo要求：1.地毯式搜索所有英文资料 2.文档全英文编写 3.长文档必须做核心观点总结并附链接 4.先确认plan再开始",
   "styleGuide": {
     "language": "English (US)",
     "quotes": "Always use original English quotes, never translate",
-    "format": "Follow Anthropic Skill specification strictly",
-    "sources": "Cite original English sources with URLs wherever possible",
-    "skil_mdNote": "SKILL.md should be concise, reference detailed content in references/ files"
+    "format": "Follow Anthropic Skill specification strictly (see: https://docs.anthropic.com/en/docs/create-a-skill)",
+    "sources": "Cite original English sources with URLs",
+    "skil_mdNote": "SKILL.md should be concise (under 300 lines), reference detailed content in references/ files",
+    "summaryRule": "For documents over 5000 words, provide executive summary + key quotes + source link"
+  },
+  "researchStrategy": {
+    "approach": "Carpet bombing - multiple parallel searches across different source types",
+    "searchTools": [
+      "playwright-mcp (Google search)",
+      "minimax-coding-plan-tool (web search)",
+      "web_fetch (content extraction)"
+    ],
+    "language": "Always use English search queries",
+    "summary": "Long sources must be summarized with key points and source link"
   },
   "tasks": [
     {
       "id": 1,
       "priority": 1,
+      "phase": "Phase 1: Foundational Biography & Background",
       "status": "completed",
-      "title": "Research: Greg Abel Background & Career",
-      "description": "Search English sources for Greg Abel's biography, career path, and background",
-      "details": [
-        "Early life and education (University of Waterloo)",
-        "Career at MidAmerican Energy Holdings",
-        "Rise to Berkshire Hathaway Energy CEO",
-        "Appointment as Buffett's successor",
-        "Role as Berkshire Vice Chairman"
-      ],
-      "output": "references/01-writings.md + references/06-timeline.md",
-      "sources": [
-        "Berkshire Hathaway official bio",
-        "Wikipedia (English)",
-        "CNBC profiles",
-        "Forbes profiles"
-      ],
-      "confirmed": false
+      "title": "Greg Abel Wikipedia - Full Content Extraction",
+      "description": "Extract full Wikipedia article on Greg Abel for accurate biographical data",
+      "searchQuery": "Greg Abel Wikipedia English",
+      "output": "references/01-writings.md",
+      "action": "web_fetch https://en.wikipedia.org/wiki/Greg_Abel",
+      "successCriteria": "Complete birth date, education, career timeline, key events",
+      "note": "Use full content, extract all facts"
     },
     {
       "id": 2,
       "priority": 1,
+      "phase": "Phase 1: Foundational Biography & Background",
       "status": "completed",
-      "title": "Research: BYD Investment Decision (2008)",
-      "description": "Research Berkshire's BYD investment - the most famous Greg Abel led deal",
-      "details": [
-        "How the BYD investment originated",
-        "Greg Abel's role in the decision",
-        "Investment thesis and timeline",
-        "Results and current status",
-        "What it reveals about Abel's investment philosophy"
-      ],
-      "output": "references/05-decisions.md",
-      "sources": [
-        "Berkshire Hathaway Annual Letters (2008-2025)",
-        "CNBC interviews with Abel",
-        "BYD official announcements",
-        "Financial Times / Wall Street Journal coverage"
-      ],
-      "confirmed": false
+      "title": "Greg Abel Britannica Profile",
+      "description": "Britannica's authoritative profile of Greg Abel",
+      "searchQuery": "site:britannica.com Greg Abel Berkshire",
+      "output": "references/01-writings.md",
+      "action": "web_fetch https://www.britannica.com/money/Greg-Abel",
+      "successCriteria": "Key biographical facts, net worth, career highlights"
     },
     {
       "id": 3,
       "priority": 1,
+      "phase": "Phase 1: Foundational Biography & Background",
       "status": "completed",
-      "title": "Research: Berkshire Hathaway Energy Operations",
-      "description": "Research BHE under Abel's leadership - operational philosophy and results",
-      "details": [
-        "BHE business model and growth trajectory",
-        "Abel's operational management approach",
-        "Key acquisitions and investments by BHE",
-        "Regulatory strategy",
-        "Results and returns"
-      ],
-      "output": "references/03-operations.md + references/05-decisions.md",
-      "sources": [
-        "BHE annual reports (2000-2025)",
-        "Berkshire Hathaway Annual Reports",
-        "Utility industry analyses"
-      ],
-      "confirmed": false
+      "title": "Horatio Alger Association - Abel's Speech & Bio",
+      "description": "Greg Abel's Horatio Alger award acceptance speech and biography",
+      "searchQuery": "Greg Abel Horatio Alger Association speech 2018",
+      "output": "references/02-conversations.md",
+      "action": "web_fetch https://horatioalger.org/members/detail/gregory-e-abel/",
+      "successCriteria": "Full speech text, childhood stories, work ethic quotes"
     },
     {
       "id": 4,
-      "priority": 2,
+      "priority": 1,
+      "phase": "Phase 1: Foundational Biography & Background",
       "status": "completed",
-      "title": "Research: Interviews & Public Statements",
-      "description": "Collect and summarize all Greg Abel interviews and public statements",
-      "details": [
-        "CNBC interviews (2008-2025)",
-        "Berkshire Annual Meeting appearances",
-        "Conference speeches",
-        "Annual report letters to BHE shareholders"
-      ],
+      "title": "Fortune Magazine - Who is Greg Abel (2021)",
+      "description": "CNBC comprehensive profile article",
+      "searchQuery": "CNBC Who is Greg Abel Warren Buffett successor 2021",
       "output": "references/02-conversations.md",
-      "sources": [
-        "CNBC transcripts",
-        "Berkshire Hathaway meeting transcripts",
-        "BHE official communications"
-      ],
-      "confirmed": false
+      "action": "web_fetch https://www.cnbc.com/2021/05/03/who-is-greg-abel-warren-buffetts-successor-at-berkshire-hathaway.html",
+      "successCriteria": "Full article content, all quotes, career details"
     },
     {
       "id": 5,
-      "priority": 2,
+      "priority": 1,
+      "phase": "Phase 1: Foundational Biography & Background",
       "status": "completed",
-      "title": "Research: Expression DNA & Communication Style",
-      "description": "Analyze how Greg Abel speaks and communicates - his unique voice",
-      "details": [
-        "Communication patterns and phrases",
-        "Comparison to Buffett's style",
-        "Tone and voice characteristics",
-        "Key phrases and expressions",
-        "How he handles tough questions"
-      ],
-      "output": "references/03-expression-dna.md",
-      "sources": [
-        "Interview transcripts",
-        "Meeting Q&A sessions",
-        "Public speaking recordings"
-      ],
-      "confirmed": false
+      "title": "FOX Business - Rare Abel Interview (2018)",
+      "description": "First TV interview with Greg Abel at Berkshire 5K run",
+      "searchQuery": "FOX Business Greg Abel interview 2018 Buffett kingdom",
+      "output": "references/02-conversations.md",
+      "action": "web_fetch https://www.foxbusiness.com/business-leaders/greg-abel-holding-a-key-to-buffetts-kingdom",
+      "successCriteria": "Full interview content, management style insights, direct quotes"
     },
     {
       "id": 6,
       "priority": 2,
+      "phase": "Phase 2: Berkshire Hathaway Official Sources",
       "status": "completed",
-      "title": "Research: External Views & Criticisms",
-      "description": "Research how the world views Greg Abel - comparisons, criticisms, perspectives",
-      "details": [
-        "Comparisons to Buffett",
-        "Concerns about succession",
-        "Investment track record assessment",
-        "Analyst opinions",
-        "Media coverage"
-      ],
-      "output": "references/04-external-views.md",
-      "sources": [
-        "Financial press coverage",
-        "Analyst reports",
-        "Investor discussions"
-      ],
-      "confirmed": false
+      "title": "Berkshire Hathaway Energy - Official Leadership Page",
+      "description": "BHE's official page on Greg Abel",
+      "searchQuery": "site:brkenergy.com Greg Abel leadership biography",
+      "output": "references/01-writings.md",
+      "action": "web_fetch https://www.brkenergy.com/about-us/leadership",
+      "successCriteria": "Official biography, business responsibilities"
     },
     {
       "id": 7,
-      "priority": 3,
+      "priority": 2,
+      "phase": "Phase 2: Berkshire Hathaway Official Sources",
       "status": "completed",
-      "title": "Write: 01-writings.md",
-      "description": "Write references/01-writings.md - Greg Abel's writings and statements",
-      "details": [
-        "BHE annual reports summaries",
-        "Shareholder letters",
-        "Public statements",
-        "Key frameworks and principles stated in writings"
-      ],
+      "title": "Berkshire Hathaway Annual Reports Mentioning Abel (2018-2025)",
+      "description": "Search Berkshire annual reports/letters for mentions of Greg Abel",
+      "searchQuery": "Berkshire Hathaway annual report 2018 2019 2020 2021 2022 2023 2024 2025 Greg Abel",
       "output": "references/01-writings.md",
-      "dependsOn": [
-        1,
-        4
-      ],
-      "confirmed": false
+      "action": "Google search + web_fetch for relevant Berkshire letters",
+      "successCriteria": "Buffett quotes about Abel, Abel's responsibilities, performance mentions"
     },
     {
       "id": 8,
-      "priority": 3,
+      "priority": 2,
+      "phase": "Phase 2: Berkshire Hathaway Official Sources",
       "status": "completed",
-      "title": "Write: 02-conversations.md",
-      "description": "Write references/02-conversations.md - Interviews and conversations",
-      "details": [
-        "Interview summaries with key quotes",
-        "Q&A patterns",
-        "Topics covered",
-        "Unique insights from each conversation"
-      ],
-      "output": "references/02-conversations.md",
-      "dependsOn": [
-        4
-      ],
-      "confirmed": false
+      "title": "Berkshire Hathaway SEC Filings - Abel Compensation",
+      "description": "SEC proxy statements and filings mentioning Abel's compensation",
+      "searchQuery": "Berkshire Hathaway SEC filing Greg Abel compensation 2024 2025",
+      "output": "references/01-writings.md",
+      "action": "Google search + web_fetch sec.gov or Berkshire proxy statements",
+      "successCriteria": "Compensation details, share purchases, stake sales"
     },
     {
       "id": 9,
       "priority": 3,
+      "phase": "Phase 3: Succession Story",
       "status": "completed",
-      "title": "Write: 03-expression-dna.md",
-      "description": "Write references/03-expression-dna.md - Expression patterns and style",
-      "details": [
-        "Five rules of Abel's voice",
-        "Key phrases table",
-        "Sentence structure patterns",
-        "Communication do's and don'ts"
-      ],
-      "output": "references/03-expression-dna.md",
-      "dependsOn": [
-        5
-      ],
-      "confirmed": false
+      "title": "2021 Succession Confirmation - All News Coverage",
+      "description": "May 2021 when Buffett publicly confirmed Abel as successor",
+      "searchQuery": "May 2021 Warren Buffett confirms Greg Abel successor Berkshire",
+      "output": "references/04-external-views.md",
+      "action": "Google search + multiple web_fetch for news articles",
+      "successCriteria": "Timeline of events, Buffett quotes, market reaction"
     },
     {
       "id": 10,
       "priority": 3,
+      "phase": "Phase 3: Succession Story",
       "status": "completed",
-      "title": "Write: 04-external-views.md",
-      "description": "Write references/04-external-views.md - External perspectives and criticisms",
-      "details": [
-        "Comparisons to Buffett",
-        "Strengths and weaknesses perceived",
-        "Track record assessments",
-        "Succession readiness views"
-      ],
+      "title": "2025 Succession Announcement - Buffett Retirement",
+      "description": "May 2025 Buffett announced retirement, Abel to become CEO",
+      "searchQuery": "May 2025 Warren Buffett retirement Greg Abel CEO Berkshire",
       "output": "references/04-external-views.md",
-      "dependsOn": [
-        6
-      ],
-      "confirmed": false
+      "action": "Google search + web_fetch major news outlets",
+      "successCriteria": "Full coverage, Abel's first statements as CEO-designate, all quotes"
     },
     {
       "id": 11,
       "priority": 3,
+      "phase": "Phase 3: Succession Story",
       "status": "completed",
-      "title": "Write: 05-decisions.md",
-      "description": "Write references/05-decisions.md - Key investment and operational decisions",
-      "details": [
-        "BYD investment case study",
-        "BHE major decisions",
-        "Other notable investments",
-        "Decision patterns and logic"
-      ],
-      "output": "references/05-decisions.md",
-      "dependsOn": [
-        2,
-        3
-      ],
-      "confirmed": false
+      "title": "Charlie Munger Statements About Greg Abel",
+      "description": "All of Munger's public quotes about Abel over the years",
+      "searchQuery": "Charlie Munger Greg Abel quote Berkshire shareholder letter",
+      "output": "references/04-external-views.md",
+      "action": "Google search + web_fetch Munger interviews and letters",
+      "successCriteria": "All Munger quotes about Abel, comparison statements"
     },
     {
       "id": 12,
-      "priority": 3,
+      "priority": 4,
+      "phase": "Phase 4: BYD Investment Deep Dive",
       "status": "completed",
-      "title": "Write: 06-timeline.md",
-      "description": "Write references/06-timeline.md - Complete career timeline",
-      "details": [
-        "Early career (1961-1999)",
-        "MidAmerican era (1999-2000s)",
-        "BHE growth years",
-        "Succession announcement and beyond"
-      ],
-      "output": "references/06-timeline.md",
-      "dependsOn": [
-        1
-      ],
-      "confirmed": false
+      "title": "BYD Company Wikipedia - Berkshire Investment Section",
+      "description": "Full Wikipedia article on BYD with Berkshire investment details",
+      "searchQuery": "BYD Company Berkshire Hathaway investment 2008 Wikipedia",
+      "output": "references/05-decisions.md",
+      "action": "web_fetch Wikipedia BYD + search for Berkshire stake info",
+      "successCriteria": "Investment thesis, timeline, results, exit details"
     },
     {
       "id": 13,
-      "priority": 3,
+      "priority": 4,
+      "phase": "Phase 4: BYD Investment Deep Dive",
       "status": "completed",
-      "title": "Write: examples/demo-conversation.md",
-      "description": "Write examples/demo-conversation.md - 10 demo conversations",
-      "details": [
-        "Capital allocation questions",
-        "Operational excellence questions",
-        "Investment philosophy questions",
-        "Succession and leadership questions",
-        "BYD and specific investment questions"
-      ],
-      "output": "examples/demo-conversation.md",
-      "dependsOn": [
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "confirmed": false
+      "title": "BYD Investment - Financial News Coverage",
+      "description": "News articles about Berkshire's BYD investment and exit",
+      "searchQuery": "Berkshire Hathaway BYD investment exit 2008 2024 2025",
+      "output": "references/05-decisions.md",
+      "action": "Google search + web_fetch financial news",
+      "successCriteria": "Investment thesis, peak value, exit timing rationale"
     },
     {
       "id": 14,
-      "priority": 2,
+      "priority": 5,
+      "phase": "Phase 5: Expression DNA & Communication",
       "status": "completed",
-      "title": "Write: SKILL.md",
-      "description": "Write the main SKILL.md file - concise with references to detailed content",
-      "details": [
-        "YAML frontmatter (name + description)",
-        "3-4 effect examples (dialogue format)",
-        "3 mental models (summaries, reference detailed files)",
-        "3-5 decision heuristics",
-        "Expression DNA summary",
-        "Key investments summary",
-        "Sources table"
-      ],
-      "output": "SKILL.md",
+      "title": "Collect All Direct Abel Quotes",
+      "description": "Compile all known direct quotes from Greg Abel interviews and speeches",
+      "searchQuery": "Greg Abel quote interview said statement",
+      "output": "references/03-expression-dna.md",
+      "action": "Google search + web_fetch for all Abel quotes",
+      "successCriteria": "Complete quote list, categorized by theme"
+    },
+    {
+      "id": 15,
+      "priority": 5,
+      "phase": "Phase 5: Expression DNA & Communication",
+      "status": "completed",
+      "title": "Buffett's Descriptions of Abel's Communication Style",
+      "description": "How Buffett describes Abel's abilities and communication",
+      "searchQuery": "Warren Buffett Greg Abel understands businesses extremely well quote",
+      "output": "references/03-expression-dna.md",
+      "action": "Google search + web_fetch Buffett quotes about Abel",
+      "successCriteria": "All Buffett quotes describing Abel's skills and style"
+    },
+    {
+      "id": 16,
+      "priority": 5,
+      "phase": "Phase 5: Expression DNA & Communication",
+      "status": "completed",
+      "title": "Associate CEOs Describe Abel",
+      "description": "What subsidiary CEOs say about working with Greg Abel",
+      "searchQuery": "Greg Abel subsidiary CEO quote Dairy Queen See's Candies Berkshire",
+      "output": "references/03-expression-dna.md",
+      "action": "Google search + web_fetch subsidiary CEO interviews",
+      "successCriteria": "Direct quotes about Abel's management style"
+    },
+    {
+      "id": 17,
+      "priority": 6,
+      "phase": "Phase 6: External Views & Analysis",
+      "status": "completed",
+      "title": "Analyst Reports on Abel Succession",
+      "description": "Wall Street and financial analyst views on Greg Abel becoming CEO",
+      "searchQuery": "Analyst Greg Abel Berkshire Hathaway CEO succession JPMorgan Goldman",
+      "output": "references/04-external-views.md",
+      "action": "Google search + web_fetch analyst reports",
+      "successCriteria": "Key analyst opinions, valuations, concerns"
+    },
+    {
+      "id": 18,
+      "priority": 6,
+      "phase": "Phase 6: External Views & Analysis",
+      "status": "completed",
+      "title": "Media Coverage Analysis - WSJ, FT, Bloomberg",
+      "description": "Major business media coverage of Greg Abel",
+      "searchQuery": "Wall Street Journal Financial Times Greg Abel profile interview",
+      "output": "references/04-external-views.md",
+      "action": "Google search + web_fetch major publications",
+      "successCriteria": "Coverage themes, criticisms, praise patterns"
+    },
+    {
+      "id": 19,
+      "priority": 7,
+      "phase": "Phase 7: Write Reference Files",
+      "status": "completed",
+      "title": "Write: references/01-writings.md",
+      "description": "Greg Abel's writings, statements, and official communications",
+      "action": "Write comprehensive reference with summaries of all collected sources",
+      "output": "references/01-writings.md",
       "dependsOn": [
+        1,
+        2,
+        6,
         7,
-        8,
+        8
+      ],
+      "successCriteria": "All Abel public statements, Buffett/Munger quotes, official sources"
+    },
+    {
+      "id": 20,
+      "priority": 7,
+      "phase": "Phase 7: Write Reference Files",
+      "status": "completed",
+      "title": "Write: references/02-conversations.md",
+      "description": "Interviews and conversations featuring Greg Abel",
+      "action": "Write comprehensive reference with interview summaries and quotes",
+      "output": "references/02-conversations.md",
+      "dependsOn": [
+        3,
+        4,
+        5
+      ],
+      "successCriteria": "All interviews summarized with direct quotes and source links"
+    },
+    {
+      "id": 21,
+      "priority": 7,
+      "phase": "Phase 7: Write Reference Files",
+      "status": "completed",
+      "title": "Write: references/03-expression-dna.md",
+      "description": "Greg Abel's communication patterns and expression style",
+      "action": "Write comprehensive analysis of Abel's speech patterns",
+      "output": "references/03-expression-dna.md",
+      "dependsOn": [
+        14,
+        15,
+        16
+      ],
+      "successCriteria": "Complete expression DNA analysis with examples"
+    },
+    {
+      "id": 22,
+      "priority": 7,
+      "phase": "Phase 7: Write Reference Files",
+      "status": "completed",
+      "title": "Write: references/04-external-views.md",
+      "description": "External perspectives, criticisms, and analysis of Greg Abel",
+      "action": "Write comprehensive coverage of media and analyst views",
+      "output": "references/04-external-views.md",
+      "dependsOn": [
         9,
         10,
         11,
+        17,
+        18
+      ],
+      "successCriteria": "All external views categorized and sourced"
+    },
+    {
+      "id": 23,
+      "priority": 7,
+      "phase": "Phase 7: Write Reference Files",
+      "status": "completed",
+      "title": "Write: references/05-decisions.md",
+      "description": "Key investment and operational decisions by Greg Abel",
+      "action": "Write comprehensive decision case studies",
+      "output": "references/05-decisions.md",
+      "dependsOn": [
         12,
         13
       ],
-      "confirmed": false
+      "successCriteria": "BYD investment complete case study, BHE decisions"
+    },
+    {
+      "id": 24,
+      "priority": 7,
+      "phase": "Phase 7: Write Reference Files",
+      "status": "completed",
+      "title": "Write: references/06-timeline.md",
+      "description": "Complete career and life timeline of Greg Abel",
+      "action": "Write comprehensive timeline based on all research",
+      "output": "references/06-timeline.md",
+      "dependsOn": [
+        1,
+        2
+      ],
+      "successCriteria": "Complete timeline 1962-present with sourced events"
+    },
+    {
+      "id": 25,
+      "priority": 8,
+      "phase": "Phase 8: Final SKILL.md",
+      "status": "completed",
+      "title": "Write: SKILL.md - Main Skill File",
+      "description": "Write final SKILL.md following Anthropic skill specification",
+      "action": "Write concise SKILL.md with references to detailed content",
+      "output": "SKILL.md",
+      "dependsOn": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "successCriteria": "Under 300 lines, follows Anthropic spec, all content in English"
     }
   ],
-  "researchPriorities": [
-    "1. BYD investment (most documented Abel decision)",
-    "2. BHE operations and growth",
-    "3. Annual meeting appearances and Q&A",
-    "4. Interviews and public statements"
-  ],
-  "keyDifferencesFromBuffett": [
-    "Greg Abel is more operational than investment-focused",
-    "Less public statements than Buffett",
-    "BYD is the signature investment decision",
-    "BHE shows his utility and infrastructure thinking",
-    "Less documented - needs more research per source"
-  ],
+  "referenceFiles": {
+    "total": 6,
+    "purpose": "Detailed reference documents that SKILL.md will reference"
+  },
+  "sourceTracking": {
+    "01-writings.md": [
+      "Wikipedia",
+      "Britannica",
+      "BHE official",
+      "Berkshire letters",
+      "SEC filings"
+    ],
+    "02-conversations.md": [
+      "FOX Business interview",
+      "CNBC profile",
+      "Horatio Alger speech"
+    ],
+    "03-expression-dna.md": [
+      "Direct quotes",
+      "Buffett descriptions",
+      "Associate descriptions"
+    ],
+    "04-external-views.md": [
+      "2021/2025 succession news",
+      "Munger quotes",
+      "Analyst reports",
+      "Media coverage"
+    ],
+    "05-decisions.md": [
+      "BYD Wikipedia",
+      "BYD news coverage"
+    ],
+    "06-timeline.md": [
+      "Wikipedia",
+      "Britannica",
+      "News articles"
+    ]
+  },
+  "anthropicSkillSpec": {
+    "reference": "https://docs.anthropic.com/en/docs/create-a-skill",
+    "keyRequirements": [
+      "YAML frontmatter with name and description",
+      "Effect examples in dialogue format",
+      "Concise content (SKILL.md under 300 lines)",
+      "Detailed content in separate reference files",
+      "All in English"
+    ]
+  },
   "currentPhase": "All tasks completed",
-  "nextStep": "None - skill is complete",
-  "completedOrRemoved": []
+  "nextStep": "None",
+  "confirmed": false
 }
