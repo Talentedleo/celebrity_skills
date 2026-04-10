@@ -143,7 +143,7 @@
     {
       "id": 7,
       "priority": 3,
-      "status": "pending",
+      "status": "completed",
       "title": "Write: 01-writings.md",
       "description": "Write references/01-writings.md - Greg Abel's writings and statements",
       "details": [
@@ -162,7 +162,7 @@
     {
       "id": 8,
       "priority": 3,
-      "status": "pending",
+      "status": "completed",
       "title": "Write: 02-conversations.md",
       "description": "Write references/02-conversations.md - Interviews and conversations",
       "details": [
@@ -180,7 +180,7 @@
     {
       "id": 9,
       "priority": 3,
-      "status": "pending",
+      "status": "completed",
       "title": "Write: 03-expression-dna.md",
       "description": "Write references/03-expression-dna.md - Expression patterns and style",
       "details": [
@@ -198,7 +198,7 @@
     {
       "id": 10,
       "priority": 3,
-      "status": "pending",
+      "status": "completed",
       "title": "Write: 04-external-views.md",
       "description": "Write references/04-external-views.md - External perspectives and criticisms",
       "details": [
@@ -216,7 +216,7 @@
     {
       "id": 11,
       "priority": 3,
-      "status": "pending",
+      "status": "completed",
       "title": "Write: 05-decisions.md",
       "description": "Write references/05-decisions.md - Key investment and operational decisions",
       "details": [
@@ -235,7 +235,7 @@
     {
       "id": 12,
       "priority": 3,
-      "status": "pending",
+      "status": "completed",
       "title": "Write: 06-timeline.md",
       "description": "Write references/06-timeline.md - Complete career timeline",
       "details": [
@@ -253,7 +253,7 @@
     {
       "id": 13,
       "priority": 3,
-      "status": "pending",
+      "status": "completed",
       "title": "Write: examples/demo-conversation.md",
       "description": "Write examples/demo-conversation.md - 10 demo conversations",
       "details": [
@@ -277,7 +277,7 @@
     {
       "id": 14,
       "priority": 2,
-      "status": "pending",
+      "status": "completed",
       "title": "Write: SKILL.md",
       "description": "Write the main SKILL.md file - concise with references to detailed content",
       "details": [
@@ -315,7 +315,7 @@
     "BHE shows his utility and infrastructure thinking",
     "Less documented - needs more research per source"
   ],
-  "currentPhase": "Research completed, documents being written",
-  "nextStep": "Write all reference files",
+  "currentPhase": "All tasks completed",
+  "nextStep": "None - skill is complete",
   "completedOrRemoved": []
 }
