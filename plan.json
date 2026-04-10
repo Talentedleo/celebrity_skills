@@ -16,7 +16,7 @@
     {
       "id": 1,
       "priority": 1,
-      "status": "pending",
+      "status": "completed",
       "title": "Research: Greg Abel Background & Career",
       "description": "Search English sources for Greg Abel's biography, career path, and background",
       "details": [
@@ -38,7 +38,7 @@
     {
       "id": 2,
       "priority": 1,
-      "status": "pending",
+      "status": "completed",
       "title": "Research: BYD Investment Decision (2008)",
       "description": "Research Berkshire's BYD investment - the most famous Greg Abel led deal",
       "details": [
@@ -60,7 +60,7 @@
     {
       "id": 3,
       "priority": 1,
-      "status": "pending",
+      "status": "completed",
       "title": "Research: Berkshire Hathaway Energy Operations",
       "description": "Research BHE under Abel's leadership - operational philosophy and results",
       "details": [
@@ -81,7 +81,7 @@
     {
       "id": 4,
       "priority": 2,
-      "status": "pending",
+      "status": "completed",
       "title": "Research: Interviews & Public Statements",
       "description": "Collect and summarize all Greg Abel interviews and public statements",
       "details": [
@@ -101,7 +101,7 @@
     {
       "id": 5,
       "priority": 2,
-      "status": "pending",
+      "status": "completed",
       "title": "Research: Expression DNA & Communication Style",
       "description": "Analyze how Greg Abel speaks and communicates - his unique voice",
       "details": [
@@ -122,7 +122,7 @@
     {
       "id": 6,
       "priority": 2,
-      "status": "pending",
+      "status": "completed",
       "title": "Research: External Views & Criticisms",
       "description": "Research how the world views Greg Abel - comparisons, criticisms, perspectives",
       "details": [
@@ -315,7 +315,7 @@
     "BHE shows his utility and infrastructure thinking",
     "Less documented - needs more research per source"
   ],
-  "currentPhase": "等待Leo确认plan.json",
-  "nextStep": "等待Leo确认后开始Task 1: Research Background & Career",
+  "currentPhase": "Research completed, documents being written",
+  "nextStep": "Write all reference files",
   "completedOrRemoved": []
 }
