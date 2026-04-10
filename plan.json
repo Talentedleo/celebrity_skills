@@ -4,7 +4,7 @@
   "目标": "产出符合 Anthropic Skill 规范的 Greg Abel Skill，结构对齐 warren_buffett",
   "version": "1.0.0",
   "lastUpdated": "2026-04-10",
-  "notes": "Leo要求：1.搜索资料要查英语原文信息 2.编写文档要用英文 3.先写入plan.json，等确认后再开始",
+  "notes": "Leo要求：1.搜索资料要查英语原文信息 2.编写文档要用英文 3.先写入plan.json，等确认后再开始 | Greg Abel skill不需要README.md文件",
   "styleGuide": {
     "language": "English (US)",
     "quotes": "Always use original English quotes, never translate",
@@ -153,7 +153,10 @@
         "Key frameworks and principles stated in writings"
       ],
       "output": "references/01-writings.md",
-      "dependsOn": [1, 4],
+      "dependsOn": [
+        1,
+        4
+      ],
       "confirmed": false
     },
     {
@@ -169,7 +172,9 @@
         "Unique insights from each conversation"
       ],
       "output": "references/02-conversations.md",
-      "dependsOn": [4],
+      "dependsOn": [
+        4
+      ],
       "confirmed": false
     },
     {
@@ -185,7 +190,9 @@
         "Communication do's and don'ts"
       ],
       "output": "references/03-expression-dna.md",
-      "dependsOn": [5],
+      "dependsOn": [
+        5
+      ],
       "confirmed": false
     },
     {
@@ -201,7 +208,9 @@
         "Succession readiness views"
       ],
       "output": "references/04-external-views.md",
-      "dependsOn": [6],
+      "dependsOn": [
+        6
+      ],
       "confirmed": false
     },
     {
@@ -217,7 +226,10 @@
         "Decision patterns and logic"
       ],
       "output": "references/05-decisions.md",
-      "dependsOn": [2, 3],
+      "dependsOn": [
+        2,
+        3
+      ],
       "confirmed": false
     },
     {
@@ -233,7 +245,9 @@
         "Succession announcement and beyond"
       ],
       "output": "references/06-timeline.md",
-      "dependsOn": [1],
+      "dependsOn": [
+        1
+      ],
       "confirmed": false
     },
     {
@@ -250,7 +264,14 @@
         "BYD and specific investment questions"
       ],
       "output": "examples/demo-conversation.md",
-      "dependsOn": [7, 8, 9, 10, 11, 12],
+      "dependsOn": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "confirmed": false
     },
     {
@@ -269,25 +290,15 @@
         "Sources table"
       ],
       "output": "SKILL.md",
-      "dependsOn": [7, 8, 9, 10, 11, 12, 13],
-      "confirmed": false
-    },
-    {
-      "id": 15,
-      "priority": 3,
-      "status": "pending",
-      "title": "Write: README.md",
-      "description": "Write README.md - Project documentation",
-      "details": [
-        "Badge section",
-        "Effect examples",
-        "Installation instructions",
-        "Mental models table",
-        "Decision heuristics",
-        "Repository structure"
+      "dependsOn": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
       ],
-      "output": "README.md",
-      "dependsOn": [14],
       "confirmed": false
     }
   ],
