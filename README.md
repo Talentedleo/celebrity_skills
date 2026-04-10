@@ -1,171 +1,185 @@
 <div align="center">
 
-# Warren Buffett .skill
+# Celebrity Skills
 
-> *"The secret to investing has nothing to do with how smart you are. It's about whether you have the temperament to think independently."*
+> *"Great minds don't die — they get distilled into frameworks that outlive them."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 
 <br>
 
-**Warren Buffett's cognitive operating system — not quotes, a working framework.**
+**The Cyber Immortality Project** — Turn legendary thinkers into AI skills.
+
+We distill the wisdom of the world's greatest investors and tech leaders into practical AI skills. Not quotes. Working frameworks.
 
 <br>
 
-5 mental models · 8 decision heuristics · 60+ years of shareholder letters · 40+ years of interviews
-
-[Examples](#examples) · [Install](#install) · [What Was Distilled](#what-was-distilled) · [Sources](#sources)
+[Warren Buffett](#warren-buffett-skill) · [Greg Abel](#greg-abel-skill) · [Contributing](#contributing)
 
 </div>
 
 ---
 
-## Examples
+## The Mission
 
-### "Should I invest in stocks or bonds?"
+**Celebrity Skills** is a project to create **AI-native representations** of the world's most influential thinkers.
 
-```
-Warren Buffett ❯  Here's what I tell people.
+### What We Mean by "Cyber Immortality"
 
-              Put 90% of your money in a low-cost S&P 500 index fund. Put 10% in short-term government bonds.
+When Buffett, Munger, or any great mind shares their wisdom, it's locked in:
+- Books that go unread
+- Letters buried in archives
+- Interviews watched by thousands, remembered by dozens
 
-              Don't check the price. Don't read the news. Just keep working and adding money.
+**We fix this.**
 
-              The stock market is a device for transferring money from the impatient to the patient.
-              Most people can't handle that. If you can't, stick with the index fund.
+By distilling their thinking into structured skills, we create AI agents that:
+1. **Think like them** — Not parroting quotes, but reasoning through their mental models
+2. **Advise in their voice** — Match their communication style
+3. **Outlive them** — Their wisdom becomes permanently accessible
 
-              That's my view. You can write it down.
-```
+### The Value
 
-### "What is a moat?"
-
-```
-Warren Buffett ❯  A moat is what makes a business hard to复制.
-
-              Think about Coca-Cola. You can't go to another company and get that brand power,
-              that distribution, that history. That's the moat.
-
-              But here's the thing — a moat that needs to be constantly rebuilt isn't a moat.
-              A truly great business has a moat that gets wider over time.
-```
+| Before | After |
+|--------|-------|
+| "What would Buffett do?" | Ask Buffett directly |
+| Scroll through 60 years of letters | Get the answer in seconds |
+| Misremember a quote | Verify from source |
+| Wonder about edge cases | Apply the framework |
 
 ---
 
-## Install
+## Current Skills
+
+### Warren Buffett .skill
+
+> *"The secret to investing has nothing to do with how smart you are. It's about whether you have the temperament to think independently."*
+
+**The Oracle of Omaha. 60+ years of documented investing wisdom.**
+
+| Specs | Detail |
+|-------|--------|
+| Mental Models | 5 (Moat, Intrinsic Value, Circle of Competence, Mr. Market, CAP) |
+| Decision Heuristics | 8 |
+| Investment Cases | 11 (Coca-Cola, Apple, GEICO, Airlines, etc.) |
+| Source Material | 60+ years of shareholder letters |
+
+**Links:** [SKILL.md](./warren_buffett/SKILL.md) · [References](./warren_buffett/references/)
+
+---
+
+### Greg Abel .skill
+
+> *"It's really the investment philosophy and how Warren and the team have allocated capital for the past 60 years. Really, it will not change."*
+
+**Berkshire Hathaway CEO since 2026. The operator who inherited Buffett's empire.**
+
+| Specs | Detail |
+|-------|--------|
+| Focus | Operational excellence, culture preservation |
+| Key Decision | BYD investment oversight (2008-2025, ~3,890% return) |
+| Challenge | No public investing philosophy — he's an operator, not an investor |
+| Source Material | <5 direct interviews, ~90% secondhand from Buffett/Munger |
+
+**Links:** [SKILL.md](./greg_abel/SKILL.md) · [References](./greg_abel/references/) · [_meta.json](./greg_abel/_meta.json)
+
+---
+
+## Why These Two?
+
+**Buffett** represents the gold standard of public investing wisdom — 60 years of letters, interviews, and documented decisions.
+
+**Abel** represents a different challenge: What happens when the successor has almost no public record? His skill is inherently limited, but represents the reality of great organizations — the **operator** who keeps the machine running, not the **investor** who makes headlines.
+
+Together, they show the full spectrum:
+- The legendary investor with documented wisdom
+- The quiet operator who inherited the legacy
+
+---
+
+## How to Use
+
+### For Claude Code / OpenClaw
 
 ```bash
-px skills add <path-to-warren_buffett-skill>
+# Warren Buffett
+> Analyze Apple using Buffett's moat framework
+> What's the five-minute test for Tesla?
+
+# Greg Abel
+> How would Greg Abel evaluate a new acquisition?
+> What's the Abel approach to capital allocation?
 ```
 
-Then in Claude Code:
+### For Development
+
+Each skill follows the same structure:
 
 ```
-> Analyze Apple using Buffett's framework
-> What's the most important quality in a CEO?
-> Should I buy airline stocks?
-> How do I value a business?
+skill_name/
+├── SKILL.md              ← Core skill file (Anthropic format)
+├── _meta.json            ← Metadata for distribution
+├── references/
+│   ├── 01-writings.md    ← Original writings + summaries
+│   ├── 02-conversations.md ← Interviews + transcripts
+│   ├── 03-expression-dna.md ← Communication style
+│   ├── 04-external-views.md ← Criticisms + perspectives
+│   ├── 05-decisions.md   ← Key decisions + cases
+│   └── 06-timeline.md    ← Complete timeline
+└── _meta.json
 ```
 
 ---
 
-## What Was Distilled
+## Quality Standards
 
-### 5 Mental Models
+Every skill we produce meets these criteria:
 
-| Model | One-Line Definition | Source |
-|-------|---------------------|--------|
-| **Economic Moat** | Durable competitive advantage that widens over time | 1993 letter |
-| **Intrinsic Value** | Present value of all future cash flows | 1992 letter |
-| **Circle of Competence** | Know your boundaries, not your reach | 1996 letter |
-| **Mr. Market** | Market is a voting machine short-term, weighing machine long-term | 1987 letter |
-| **Competitive Advantage Period** | Time is friend of wonderful business, enemy of mediocre | 2007 letter |
-
-### 8 Decision Heuristics
-
-1. **Ten-Year Test** — "If you won't own it 10 years, don't own it 10 minutes"
-2. **Five-Minute Test** — Can you explain it in 5 minutes?
-3. **Integrity Check** — Honesty is the #1 quality in a CEO
-4. **Would You Own It Forever?** — If market closed 10 years
-5. **Opportunity Cost** — Every retained dollar must generate equal value
-6. **Leverage Warning** — Be wary of heavy-debt businesses
-7. **Capital Allocation** — Cash returns when businesses can't productively reinvest
-8. **Circle Humility** — It's knowing where the circle ends that matters
-
-### Expression DNA
-
-- **Simple over complex** — Short words, not long ones
-- **Specific over vague** — Always actual numbers, years, names
-- **Humble** — "I've been wrong. Charlie's been wrong."
-- **The Rule** — "Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."
-- **Story before lesson** — Concrete example, then principle
+1. **Primary Sources Only** — All content from original English sources
+2. **Full Transparency** — Every claim linked to source
+3. **Quantified Uncertainty** — We tell you when information is secondhand
+4. **Honest Limitations** — Greg Abel's skill explicitly acknowledges what we don't know
+5. **Living Documents** — Skills are updated as new information emerges
 
 ---
 
-## Investment Cases
+## Contributing
 
-| Case | Year | Result | Lesson |
-|------|------|--------|--------|
-| Coca-Cola | 1988 | $1B → $25B+ | Moat + patience |
-| American Express | 1964 | +40x in 41 years | Crisis = opportunity |
-| Apple | 2016 | $36B → $175B+ | Circle evolution |
-| 2008 Crisis | 2008 | +$3B profit | Be greedy when fearful |
-| GEICO | 1996 | Float >$190B | Insurance float |
-| Dexter Shoe | 1993 | Worthless | No moat = no value |
-| Airlines | 1989/2016 | -$5B total | Flawed business model |
-| ConocoPhillips | 2008 | -$2.6B | Momentum mistake |
-| Kraft Heinz | 2015 | -50% | Moat erosion |
-| Tesco | 2006 | -$800M | Delayed exit |
+Have a suggestion for a new skill? Open an issue.
 
----
-
-## Sources
-
-### Primary
-
-| Source | Coverage | Link |
-|--------|----------|------|
-| Shareholder Letters | 1957–2025 | [berkshirehathaway.com/letters](https://www.berkshirehathaway.com/letters/letters.html) |
-| Annual Meetings | 1965–2025 | [buffett.com/meetings](https://www.buffett.com) |
-| CNBC Interviews | 1966–2026 | [cnbc.com/warren-buffett](https://www.cnbc.com/warren-buffett/) |
-
-### Secondary
-
-| Source | Notes |
-|--------|-------|
-| The Snowball (2008) | Only authorized biography |
-| Fortune Magazine (50 years) | Carol Loomis's coverage |
-| The Making of an American Capitalist (1999) | Roger Lowenstein |
+We're particularly interested in:
+- **Investors:** Charlie Munger, Peter Lynch, Ray Dalio, Carl Icahn
+- **Tech Leaders:** Steve Jobs, Jeff Bezos, Elon Musk, Satya Nadella
+- **Thinkers:** Naval Ravikant, Shane Parrish, Morgan Housel
 
 ---
 
 ## Repository Structure
 
 ```
-warren_buffett/
-├── README.md
-├── LICENSE                    ← MIT License
-├── SKILL.md                  ← Core skill file (Anthropic format)
-├── references/
-│   ├── 01-writings.md        ← All writings + summaries
-│   ├── 02-conversations.md   ← All interviews + transcripts
-│   ├── 03-expression-dna.md  ← Expression patterns
-│   ├── 04-external-views.md  ← Criticisms + perspectives
-│   ├── 05-decisions.md       ← 11 investment cases
-│   └── 06-timeline.md        ← Full life timeline
-└── examples/
-    └── demo-conversation.md   ← 10 demo conversations
+celebrity_skills/
+├── README.md              ← This file
+├── plan.json             ← Current project plans
+├── warren_buffett/
+│   ├── SKILL.md
+│   └── references/
+└── greg_abel/
+    ├── SKILL.md
+    ├── _meta.json
+    └── references/
 ```
 
 ---
 
 ## Disclaimer
 
-This skill is distilled from Buffett's public writings and interviews. It is for learning purposes only, not investment advice.
+These skills are distilled from public writings and interviews for learning purposes only. They do not constitute financial, investment, or professional advice.
 
 ---
 
 <div align="center">
+
+**The best minds, working for you, forever.**
 
 MIT License © [Leo Li](https://github.com/Talentedleo)
 
