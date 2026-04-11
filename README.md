@@ -7,6 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://openclaw.ai)
+[![中文](https://img.shields.io/badge/Language-中文-blue)](README.zh-CN.md)
 
 <br>
 
@@ -159,8 +160,9 @@ We're particularly interested in:
 
 ```
 celebrity_skills/
-├── README.md              ← This file
-├── plan.json             ← Current project plans
+├── README.md              ← English version
+├── README.zh-CN.md        ← 中文版
+├── plan.json              ← Current project plans
 ├── warren_buffett/
 │   ├── SKILL.md
 │   └── references/
