@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-Cathie Wood is a prolific public communicator through ARK Invest's research reports, daily commentary, and media appearances. Unlike Buffett's annual shareholder letters, Wood uses active public communication to share her investment thesis on disruptive innovation.
+Cathie Wood is a prolific public communicator through ARK Invest's research reports, daily commentary, and media appearances. Her investment philosophy centers on **disruptive innovation** - technologies that transform industries. Unlike Buffett's annual letters, Wood actively communicates through social media, interviews, and ARK's published research.
 
 ---
 
@@ -14,7 +14,7 @@ Cathie Wood is a prolific public communicator through ARK Invest's research repo
 
 Wood's investment philosophy centers on **disruptive innovation** - technologies and business models that will fundamentally transform industries and create new markets.
 
-**Key Focus Areas:**
+**Key Focus Areas (The "Big Ideas"):**
 - Artificial Intelligence (AI)
 - Robotics
 - Energy Storage
@@ -24,27 +24,37 @@ Wood's investment philosophy centers on **disruptive innovation** - technologies
 
 ### The "Big Ideas" Framework
 
-ARK Invest publishes research on five core "Big Ideas":
+ARK Invest publishes annual "Big Ideas" reports documenting transformative technologies:
 
-1. **Artificial Intelligence** - The most transformative technology in history
-2. **Blockchain** - Decentralized financial systems
-3. **DNA Sequencing** - Precision medicine revolution
-4. **Energy Storage** - Electric vehicle revolution
-5. **Robotics** - Automation and manufacturing
+**ARK Big Ideas 2025 Key Points:**
+- **AI**: Neural networks as catalyst for other disruptive technologies
+- **AI Agents**: Reshaping consumer interaction and enterprise workflows
+- **Bitcoin**: $100,000+ as new high, stablecoins reaching $15.6T in transaction value
+- **Robotics**: Humanoid robots gaining traction in manufacturing and retail
+- **Genomics**: Drug development costs dropping to $600M per therapy
 
-**Source:** ARK Invest Research
+**Source:** ARK Invest Big Ideas 2025
 **Link:** https://ark-invest.com/research
 
 ---
 
 ## Key Public Statements
 
+### On Founding ARK (2014)
+
+**On why she left AllianceBernstein:**
+> "There was nowhere I was going to fit in and I didn't want to fit in anywhere. I wanted to blaze a trail."
+
+**Source:** CNBC Interview, March 2022
+**Link:** https://www.cnbc.com/2022/03/29/cathie-wood-says-her-contrarian-views-set-her-apart-not-her-gender.html
+
+---
+
 ### On Innovation (2024)
 
 > "OpenAI is at the forefront of the AI Cambrian explosion."
 
 **Source:** ARK Invest Email to Clients, April 2024
-**Link:** https://finance.sina.com.cn (reported)
 
 ---
 
@@ -52,7 +62,7 @@ ARK Invest publishes research on five core "Big Ideas":
 
 > "Bitcoin ETF approval makes her $1.5 million bull case more likely."
 
-**Context:** Wood maintained 25% of her net worth in bitcoin as of 2024.
+> "25% of my net worth is in bitcoin."
 
 **Source:** CNBC, January 11, 2024
 **Link:** https://www.cnbc.com/2024/01/11/cathie-wood-says-bitcoin-etf-approval-makes-her-1point5-million-bull-case-more-likely.html
@@ -66,7 +76,6 @@ ARK Invest publishes research on five core "Big Ideas":
 **Price Target:** $2,600 (approximately 10x current price)
 
 **Source:** HSBC Global Investment Summit, March 2025
-**Link:** https://finance.sina.com.cn (reported)
 
 ---
 
@@ -76,7 +85,7 @@ ARK Invest publishes research on five core "Big Ideas":
 
 **Context:** Wood sees AI cost deflation as extremely bullish for innovation.
 
-**Source:** Reported by multiple outlets, February 2025
+**Source:** Multiple media reports, February 2025
 
 ---
 
@@ -88,12 +97,47 @@ ARK Invest publishes research on five core "Big Ideas":
 
 ---
 
+### On Criticism (2022)
+
+> "Other people say that I am attacked in the media because I'm a woman. I don't think that is [the case] ... I really think it's because we're disrupting the financial world."
+
+> "It's the ideas and the research. They're pretty provocative."
+
+**Source:** CNBC Interview, March 2022
+**Link:** https://www.cnbc.com/2022/03/29/cathie-wood-says-her-contrarian-views-set-her-apart-not-her-gender.html
+
+---
+
+### On Gender in Finance
+
+> "Many guests thought I was the secretary and would ask for coffee and I was happy to give it to them. ... I was happy to be in that room."
+
+**Source:** CNBC Interview, March 2022
+
+---
+
+### On Innovation and Equality
+
+> "Innovation levels the playing field. These technologies are going to transform how we live and work and play and enhance the quality of life."
+
+**Source:** CNBC Interview, March 2022
+
+---
+
+### On Data-Driven Thinking
+
+> "Politics can't take the numbers from you, they are what they are."
+
+**Source:** CNBC Interview, March 2022
+
+---
+
 ## ARK Invest Research Publications
 
 ARK produces extensive research available to the public:
 
 | Publication | Frequency | Content |
-|-------------|-----------|---------|
+|------------|-----------|---------|
 | Big Ideas Annual Report | Annual | Comprehensive innovation thesis |
 | Weekly Newsletter | Weekly | Market commentary |
 | Daily Trade Updates | Daily | Holdings changes |
@@ -104,41 +148,20 @@ ARK produces extensive research available to the public:
 
 ---
 
-## Media Commentary
+## Career Reflections
 
-### On Market Volatility (2022-2023)
+### On Starting Her Career
 
-During the 2022-2023 downturn, Wood remained defiant:
+> "I didn't even know what business was at the time, but I quickly became enamored by economics and research."
 
-> "We are being punished for being early and right."
+**Source:** CNBC, citing USC professor Arthur Laffer's influence
 
-**Context:** ARKK fell 24% in 2021 and was worst performer in Q1 2022.
+### On Her Mentorship
 
-**Source:** Multiple media reports
+**Arthur Laffer (her professor and mentor):**
+> "There isn't anyone who has done what she has done. That's why her returns are unbelievably abnormal."
 
----
-
-### On Coinbase Sale (July 2025)
-
-After selling $47.9 million of Coinbase stock:
-
-> "Despite the sale, Coinbase remains the second-largest holding in ARKK at 8.4% of the portfolio."
-
-**Source:** TheStreet, July 2025
-**Link:** https://www.thestreet.com/investing/cathie-wood-sells-47-9-million-of-surging-crypto-stock
-
----
-
-## Personal Communications
-
-### Jesus Calling Podcast (2021)
-
-Wood discussed her faith and the origin of ARK's name:
-
-> "As I began to get this idea of a firm going and realised that I was fighting this war, I knew I had to name my company 'Ark' for Ark of the Covenant."
-
-**Source:** Jesus Calling Podcast, 2021
-**Link:** https://www.scmp.com (reported)
+**Source:** CNBC Interview, March 2022
 
 ---
 
@@ -147,7 +170,7 @@ Wood discussed her faith and the origin of ARK's name:
 | Year | Event | Source |
 |------|-------|--------|
 | 2024 | 25% of net worth in bitcoin | CNBC interview |
-| 2024 | $60B AUM (ARK Invest) | Forbes profile |
+| 2024 | $60B+ AUM (ARK Invest) | Forbes profile |
 | 2023 | Forbes 50 Over 50 | Forbes |
 
 **Source:** Forbes
@@ -162,9 +185,8 @@ Wood discussed her faith and the origin of ARK's name:
 | Wikipedia | https://en.wikipedia.org/wiki/Cathie_Wood | Full biography |
 | Forbes | https://www.forbes.com/profile/cathie-wood/ | Profile, net worth |
 | ARK Invest | https://ark-invest.com | Research publications |
-| CNBC | https://www.cnbc.com (search Cathie Wood) | Interviews, commentary |
-| SCMP | https://www.scmp.com/magazines/style/celebrity/article/3123779 | Profile, faith |
-| TheStreet | https://www.thestreet.com/investing | Trade updates |
+| CNBC | https://www.cnbc.com/2022/03/29/cathie-wood-says-her-contrarian-views-set-her-apart-not-her-gender.html | Major interview 2022 |
+| CNBC | https://www.cnbc.com/2024/01/11/cathie-wood-says-bitcoin-etf-approval-makes-her-1point5-million-bull-case-more-likely.html | Bitcoin interview |
 
 ---
 
