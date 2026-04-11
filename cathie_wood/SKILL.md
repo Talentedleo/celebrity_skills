@@ -305,7 +305,8 @@ The most powerful investments are where multiple Big Ideas meet — AI + robotic
 | 2021 | -24% | +28% | Major drawdown |
 | 2022 | Worst US equity | -18% | Morningstar worst |
 | 2023 | Top performer | +24% | Recovery |
-| 2025 | +35.5% (best year since 2020) | S| 2025 | +23.4% | +6.8% | Strong outperformance |P +6.8% | ARKK best year |
+| 2025 | +31.97% | S&P +6.8% | Best year since 2020 |
+| 2026 YTD | -12.14% | S&P ~-6% | Market volatility |
 
 **The pattern:** Extremely volatile but trend-setting when innovation stocks work.
 
