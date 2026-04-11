@@ -1,0 +1,263 @@
+{
+  "project": "Cathie Wood .skill",
+  "description": "Build a Cathie Wood cognitive framework skill following the Buffett/Abel structure. Cathie Wood is founder and CEO of ARK Invest, known for concentrated bets on disruptive technology.",
+  "version": "1.0.0",
+  "lastUpdated": "2026-04-11",
+  "notes": "Leo要求：1.先完善references 2.再编写SKILL.md 3.所有搜索用英文 4.所有文档用英文 5.长文档附链接 6.等待确认后每执行一个任务",
+  "styleGuide": {
+    "language": "English (US)",
+    "quotes": "Always use original English quotes, never translate",
+    "format": "Follow Anthropic Skill specification strictly",
+    "sources": "Cite original English sources with URLs",
+    "skil_mdNote": "SKILL.md should be concise, reference detailed content in references/ files"
+  },
+
+  "searchTools": {
+    "1": "playwright-mcp - Google search (primary)",
+    "2": "minimax-coding-plan-tool - web search (backup)",
+    "3": "web_fetch - content extraction"
+  },
+
+  "skillStructure": {
+    "folder": "cathie_wood",
+    "files": [
+      "SKILL.md",
+      "_meta.json",
+      "references/01-writings.md",
+      "references/02-conversations.md",
+      "references/03-expression-dna.md",
+      "references/04-external-views.md",
+      "references/05-decisions.md",
+      "references/06-timeline.md"
+    ]
+  },
+
+  "tasks": [
+    {
+      "id": 1,
+      "priority": 1,
+      "phase": "Phase 1: Foundational Research",
+      "status": "pending",
+      "title": "Wikipedia - Cathie Wood Full Biography",
+      "description": "Extract full Wikipedia article on Cathie Wood for accurate biographical data",
+      "searchQuery": "Cathie Wood Wikipedia biography",
+      "action": "web_fetch Wikipedia + Google search",
+      "output": "references/01-writings.md + 06-timeline.md",
+      "successCriteria": "Complete birth date, education, career timeline, Ark founding",
+      "note": "Use full content, extract all facts"
+    },
+    {
+      "id": 2,
+      "priority": 1,
+      "phase": "Phase 1: Foundational Research",
+      "status": "pending",
+      "title": "ARK Invest Official - Cathie Wood Bio",
+      "description": "ARK Invest's official page on Cathie Wood",
+      "searchQuery": "site:ark.com Cathie Wood biography",
+      "action": "web_fetch ARK official site",
+      "output": "references/01-writings.md",
+      "successCriteria": "Official biography, investment focus, company details"
+    },
+    {
+      "id": 3,
+      "priority": 1,
+      "phase": "Phase 1: Foundational Research",
+      "status": "pending",
+      "title": "Forbes / Bloomberg Profile",
+      "description": "Major media profile of Cathie Wood",
+      "searchQuery": "Forbes Bloomberg Cathie Wood profile interview",
+      "action": "Google search + web_fetch",
+      "output": "references/02-conversations.md",
+      "successCriteria": "Full profile content, quotes, career details"
+    },
+    {
+      "id": 4,
+      "priority": 1,
+      "phase": "Phase 1: Foundational Research",
+      "status": "pending",
+      "title": "CNBC - Cathie Wood Interviews",
+      "description": "CNBC coverage and interviews with Cathie Wood",
+      "searchQuery": "CNBC Cathie Wood interview 2023 2024 2025",
+      "action": "Google search + web_fetch",
+      "output": "references/02-conversations.md",
+      "successCriteria": "Recent interviews, investment thesis, market views"
+    },
+    {
+      "id": 5,
+      "priority": 1,
+      "phase": "Phase 1: Foundational Research",
+      "status": "pending",
+      "title": "Investment Philosophy - Big Ideas",
+      "description": "Cathie Wood's documented investment philosophy and thesis",
+      "searchQuery": "Cathie Wood investment philosophy disruptive innovation thesis Big Ideas",
+      "action": "Google search + web_fetch",
+      "output": "references/01-writings.md + 05-decisions.md",
+      "successCriteria": "Innovation thesis, 5-year investment horizon, concentrated bets"
+    },
+
+    {
+      "id": 6,
+      "priority": 2,
+      "phase": "Phase 2: Key Investments & Decisions",
+      "status": "pending",
+      "title": "Tesla Investment - ARK's Biggest Bet",
+      "description": "ARK's Tesla investment and thesis",
+      "searchQuery": "ARK Invest Tesla investment thesis Cathie Wood",
+      "action": "Google search + web_fetch",
+      "output": "references/05-decisions.md",
+      "successCriteria": "When ARK bought, thesis, results, current position"
+    },
+    {
+      "id": 7,
+      "priority": 2,
+      "phase": "Phase 2: Key Investments & Decisions",
+      "status": "pending",
+      "title": "Other Key Investments - Bitcoin, CRISPR, etc",
+      "description": "ARK's major positions and investment thesis",
+      "searchQuery": "ARK Invest biggest holdings Bitcoin CRISPR genetic editing Tesla",
+      "action": "Google search + web_fetch",
+      "output": "references/05-decisions.md",
+      "successCriteria": "Investment cases, thesis for each major holding"
+    },
+    {
+      "id": 8,
+      "priority": 2,
+      "phase": "Phase 2: Key Investments & Decisions",
+      "status": "pending",
+      "title": "ARK ETF Performance History",
+      "description": "Performance of ARK funds under Cathie Wood",
+      "searchQuery": "ARK ETF performance ARKK ARKG returns 2020 2021 2022 2023 2024",
+      "action": "Google search + web_fetch",
+      "output": "references/05-decisions.md",
+      "successCriteria": "Returns, volatility, benchmark comparison"
+    },
+
+    {
+      "id": 9,
+      "priority": 3,
+      "phase": "Phase 3: Expression & External Views",
+      "status": "pending",
+      "title": "Communication Style Analysis",
+      "description": "How Cathie Wood speaks - Twitter, interviews, presentations",
+      "searchQuery": "Cathie Wood Twitter communication style interview",
+      "action": "Google search + web_fetch",
+      "output": "references/03-expression-dna.md",
+      "successCriteria": "Communication patterns, key phrases, tone"
+    },
+    {
+      "id": 10,
+      "priority": 3,
+      "phase": "Phase 3: Expression & External Views",
+      "status": "pending",
+      "title": "External Criticism & Defense",
+      "description": "Criticisms of Cathie Wood and her responses",
+      "searchQuery": "Cathie Wood criticism bull case bear case ARK Invest",
+      "action": "Google search + web_fetch",
+      "output": "references/04-external-views.md",
+      "successCriteria": "Main criticisms, market reactions, ARK defense"
+    },
+
+    {
+      "id": 11,
+      "priority": 4,
+      "phase": "Phase 4: Write Reference Files",
+      "status": "pending",
+      "title": "Write: references/01-writings.md",
+      "description": "Cathie Wood's writings, statements, and official communications",
+      "action": "Write comprehensive reference with summaries of all collected sources",
+      "output": "references/01-writings.md",
+      "dependsOn": [1, 2, 5],
+      "successCriteria": "All public statements, investment philosophy, sources"
+    },
+    {
+      "id": 12,
+      "priority": 4,
+      "phase": "Phase 4: Write Reference Files",
+      "status": "pending",
+      "title": "Write: references/02-conversations.md",
+      "description": "Interviews and conversations featuring Cathie Wood",
+      "action": "Write comprehensive reference with interview summaries and quotes",
+      "output": "references/02-conversations.md",
+      "dependsOn": [3, 4],
+      "successCriteria": "All interviews summarized with direct quotes and source links"
+    },
+    {
+      "id": 13,
+      "priority": 4,
+      "phase": "Phase 4: Write Reference Files",
+      "status": "pending",
+      "title": "Write: references/03-expression-dna.md",
+      "description": "Cathie Wood's communication patterns and expression style",
+      "action": "Write comprehensive analysis of Wood's speech patterns",
+      "output": "references/03-expression-dna.md",
+      "dependsOn": [9],
+      "successCriteria": "Complete expression DNA analysis with examples"
+    },
+    {
+      "id": 14,
+      "priority": 4,
+      "phase": "Phase 4: Write Reference Files",
+      "status": "pending",
+      "title": "Write: references/04-external-views.md",
+      "description": "External perspectives, criticisms, and analysis of Cathie Wood",
+      "action": "Write comprehensive coverage of media and analyst views",
+      "output": "references/04-external-views.md",
+      "dependsOn": [10],
+      "successCriteria": "All external views categorized and sourced"
+    },
+    {
+      "id": 15,
+      "priority": 4,
+      "phase": "Phase 4: Write Reference Files",
+      "status": "pending",
+      "title": "Write: references/05-decisions.md",
+      "description": "Key investment decisions by Cathie Wood and ARK",
+      "action": "Write comprehensive decision case studies",
+      "output": "references/05-decisions.md",
+      "dependsOn": [6, 7, 8],
+      "successCriteria": "Tesla case study, other major investments, performance analysis"
+    },
+    {
+      "id": 16,
+      "priority": 4,
+      "phase": "Phase 4: Write Reference Files",
+      "status": "pending",
+      "title": "Write: references/06-timeline.md",
+      "description": "Complete career and life timeline of Cathie Wood",
+      "action": "Write comprehensive timeline based on all research",
+      "output": "references/06-timeline.md",
+      "dependsOn": [1],
+      "successCriteria": "Complete timeline with sourced events"
+    },
+
+    {
+      "id": 17,
+      "priority": 5,
+      "phase": "Phase 5: Final Files",
+      "status": "pending",
+      "title": "Create: _meta.json for clawhub",
+      "description": "Create _meta.json with version, author, tags for clawhub",
+      "action": "Create new file",
+      "output": "_meta.json",
+      "successCriteria": "Contains name, version, author, tags, triggers"
+    },
+    {
+      "id": 18,
+      "priority": 5,
+      "phase": "Phase 5: Final Files",
+      "status": "pending",
+      "title": "Write: SKILL.md - Main Skill File",
+      "description": "Write final SKILL.md following Anthropic skill specification",
+      "action": "Write concise SKILL.md with references to detailed content",
+      "output": "SKILL.md",
+      "dependsOn": [11, 12, 13, 14, 15, 16, 17],
+      "successCriteria": "Under 300 lines, follows Anthropic spec, all content in English"
+    }
+  ],
+
+  "executionRule": "每执行一个任务都要等Leo确认后再继续下一个",
+
+  "currentPhase": "Plan - awaiting Leo confirmation",
+  "nextStep": "等待Leo确认后执行Task 1: Wikipedia Biography",
+  "confirmed": false
+}
