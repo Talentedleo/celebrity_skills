@@ -203,7 +203,7 @@ Aswath Damodaran is a Professor of Finance at NYU Stern School of Business, know
 2. Damodaran, A. (2018). Corporate Finance (5th ed.). McGraw-Hill Education.
 3. Damodaran, A. (2011). The Little Book of Valuation. Wiley.
 4. https://aswathdamodaran.substack.com/ - Active newsletter (2024-2025)
-5. https://aswathdamodaran.blogspot.com/ - Investment Philosophers Blog
+5. https://aswathdamodaran.blogspot.com/ - Investment Philosophies Blog
 6. https://www.youtube.com/@AswathDamodaran - YouTube Channel
 
 
@@ -293,11 +293,11 @@ Aswath Damodaran is a Professor of Finance at NYU Stern School of Business, know
 
 ---
 
-### Blogspot: Investment Philosophers Book (3rd Edition, 2026)
+### Blogspot: Investment Philosophies Book (3rd Edition, 2026)
 **URL:** https://aswathdamodaran.blogspot.com/2026/
 
 **News:**
-- Third edition of "Investment Philosophers" book coming soon
+- Third edition of "Investment Philosophies" book coming soon
 - Updated free online class on YouTube
 - NYU certificate program available
 

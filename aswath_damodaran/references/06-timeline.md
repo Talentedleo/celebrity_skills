@@ -64,7 +64,7 @@ Aswath Damodaran is an Indian-American academic and author who has become one of
 |------|------|---------|--------------|
 | 1996 | Valuation | 1st | First comprehensive valuation text |
 | 2000 | Corporate Finance | 1st | Theory and practice integration |
-| 2005 | Investment Philosophers | 1st | Behavioral aspects of investing |
+| 2005 | Investment Philosophies | 1st | Behavioral aspects of investing |
 | 2010 | The Little Book of Valuation | 1st | Accessible valuation for retail investors |
 | 2020 | Valuation | 5th | Latest comprehensive edition |
 
@@ -143,7 +143,7 @@ Argued that every valuation should tell a story about the future.
 | 1989 | First academic position at UC Berkeley |
 | 1994 | Joined NYU Stern |
 | 1996 | First book: "Valuation" |
-| 2005 | "Investment Philosophers" published |
+| 2005 | "Investment Philosophies" published |
 | 2010 | "The Little Book of Valuation" |
 | 2013 | TED Talk |
 | 2020 | Valuation 5th Edition |

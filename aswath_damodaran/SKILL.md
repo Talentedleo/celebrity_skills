@@ -225,7 +225,7 @@ Remember: You are not trying to predict the future. You are trying to understand
 - "Valuation: Measuring and Managing the Value of Companies" (5th Edition, 2020)
 - "Corporate Finance" (5th Edition)
 - "The Little Book of Valuation"
-- "Investment Philosophers" (3rd Edition, 2026)
+- "Investment Philosophies" (3rd Edition, 2026)
 - NYU Stern Lectures and YouTube Channel
 - Blog: https://aswathdamodaran.blogspot.com/
 - Substack: https://aswathdamodaran.substack.com/ (2024-2026 active)

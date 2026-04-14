@@ -311,5 +311,5 @@ Damodaran values Amazon differently depending on the business segments.
 3. Podcast appearances: Acquired, Knowledge Project
 4. Academic papers on valuation methodology
 5. Substack: https://aswathdamodaran.substack.com/ (2024-2026)
-6. "Investment Philosophers" 3rd Edition (2026)
+6. "Investment Philosophies" 3rd Edition (2026)
 

@@ -307,7 +307,7 @@ Aswath Damodaran is one of the most prolific speakers on valuation, regularly ap
 ### Investment Philosophy as Foundation
 
 **New Book (3rd Edition):**
-- Investment Philosophers book being updated
+- Investment Philosophies book being updated
 - Focus: helping investors find their philosophy
 - Free online class available
 

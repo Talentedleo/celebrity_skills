@@ -262,5 +262,5 @@ These phrases are now used by valuation practitioners worldwide.
 1. Damodaran's Blog: https://aswathdamodaran.blogspot.com/
 2. YouTube Channel: https://www.youtube.com/@AswathDamodaran
 3. Substack: https://aswathdamodaran.substack.com/ (2024-2026 active)
-4. "Investment Philosophers" 3rd Edition (2026)
+4. "Investment Philosophies" 3rd Edition (2026)
 
