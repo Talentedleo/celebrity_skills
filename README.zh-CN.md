@@ -1,171 +1,154 @@
 <div align="center">
 
-# 名人技能库 Celebrity Skills
+# Celebrity Skills
 
-> *"伟大的头脑不会消亡——它们被提炼成框架，永远延续下去。"*
+> *"伟大思想不会消亡 — 它们会被提炼成框架，比创造者活得更久。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://openclaw.ai)
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 
 <br>
 
-**赛博永生计划** — 将传奇思想家转化为 AI 技能。
+**赛博永生项目** — 将传奇思想家转化为 AI 技能。
 
-我们将全球最伟大的投资者和科技领袖的智慧提炼成实用的 AI 技能。不是语录，是可工作的思维框架。
-
-<br>
-
-[沃伦·巴菲特](#warren-buffett-skill) · [格雷格·阿贝尔](#greg-abel-skill) · [贡献指南](#贡献)
+我们将世界上最伟大的投资者和科技领袖的智慧提炼成实用的 AI 技能。不是语录，而是可运行的思维框架。
 
 </div>
 
 ---
 
-## 我们的使命
+## 核心理念
 
-**名人技能库** 是一个将世界最具影响力的思想家转化为**AI原生表示**的项目。
+### 我们相信什么
 
-### 什么是"赛博永生"
+1. **智慧应该比创造者更长寿** — 书籍无人问津，信件沉睡档案，采访被遗忘。技能让智慧永存。
 
-当巴菲特、芒格或任何伟人分享他们的智慧时，它们被困在：
-- 无人阅读的书籍里
-- 埋藏在档案馆的信件中
-- 被数千人观看、只有数十人记住的采访里
+2. **思维 > 引用** — 真正的致敬是推理他们的思维模型，而非鹦鹉学舌。
 
-**我们解决这个问题。**
+3. **声音很重要** — 每项技能都以其本来的真实声音说话，而非通用 AI 语气。
 
-通过将他们的思维提炼成结构化的技能，我们创造出能够：
-1. **像他们一样思考** — 不是鹦鹉学舌，而是用他们的心智模型推理
-2. **用他们的声音建议** — 匹配他们的沟通风格
-3. **永远延续** — 他们的智慧变得永久可访问
+4. **透明优先** — 每个观点都附有来源，每个局限都被承认。
 
-### 价值
+### 质量标准
 
-| 之前 | 之后 |
+| 标准 | 描述 |
 |------|------|
-| "巴菲特会怎么做？" | 直接问巴菲特 |
-| 翻阅60年的信件 | 几秒钟得到答案 |
-| 记错语录 | 从源头验证 |
-| 纠结边缘案例 | 应用框架 |
+| 仅用一手来源 | 所有内容来自原始英文资料 |
+| 完全透明 | 每个观点都附有来源链接 |
+| 量化不确定性 | 当信息为二手时明确告知 |
+| 诚实局限性 | 不虚构缺失信息 |
+| 活的文档 | 随着新信息出现持续更新 |
 
 ---
 
-## 当前技能
+## 精选技能
 
-### 沃伦·巴菲特 .skill {#warren-buffett-skill}
-
-> *"投资的秘诀与你有多聪明无关。重要的是你是否有独立思考的气质。"*
+### Warren Buffett
 
 **奥马哈先知。60+ 年有据可查的投资智慧。**
 
 | 指标 | 详情 |
 |------|------|
-| 心智模型 | 5个（护城河、内在价值、能力圈、市场先生、竞争壁垒期） |
-| 决策启发法 | 8个 |
-| 投资案例 | 11个（可口可乐、苹果、GEICO、航空等） |
-| 源材料 | 60+ 年股东信 |
+| 思维模型 | 护城河、内在价值、能力圈、市场先生、CAP |
+| 决策启发法 | 8 条 |
+| 投资案例 | 11 个（可口可乐、苹果、GEICO、航空等） |
+| 来源资料 | 60+ 年股东信 |
 
-**链接：** [SKILL.md](./warren_buffett/SKILL.md) · [参考文档](./warren_buffett/references/)
+> *"投资的秘诀不在于你有多聪明，而在于你是否有独立思考的性情。"*
+
+**[SKILL.md](./warren_buffett/SKILL.md)** · **[References](./warren_buffett/references/)**
 
 ---
 
-### 格雷格·阿贝尔 .skill {#greg-abel-skill}
+### Cathie Wood
 
-> *"真正不变的是投资理念，是沃伦和团队在过去60年里配置资本的方式。真的，不会变。我们会继续这样做下去。"*
-
-**2026年起任伯克希尔·哈撒韦CEO。继承巴菲特帝国的运营商。**
+**ARK Invest 创始人。专注颠覆性创新的主题投资。**
 
 | 指标 | 详情 |
 |------|------|
-| 专注领域 | 运营卓越、文化传承 |
-| 关键决策 | 比亚迪投资监管（2008-2025年，~3890%回报） |
-| 挑战 | 没有公开的投资理念——他是运营商，不是投资者 |
-| 源材料 | <5次直接采访，~90%来自巴菲特/芒格的转述 |
+| 专注领域 | 颠覆性创新、技术变革 |
+| 核心主题 | AI、比特币、特斯拉、基因编辑、机器人 |
+| 投资哲学 |  convergence、5 年 conviction 窗口 |
+| 来源资料 | ARK 研究、采访、"Big Ideas" 年度信 |
 
-**链接：** [SKILL.md](./greg_abel/SKILL.md) · [参考文档](./greg_abel/references/) · [_meta.json](./greg_abel/_meta.json)
+> *"我无处容身，也不想融入任何地方。我想开辟一条自己的道路。"*
 
----
-
-## 为什么是这两位？
-
-**巴菲特**代表了公共投资智慧的金标准——60年的信件、采访和记录在案的决策。
-
-**阿贝尔**代表了一个不同的挑战：当继承者几乎没有公开记录时会发生什么？他的技能本质上是有限的，但代表了伟大组织的现实——**运营商**维持机器运转，而不是**投资者**制造头条。
-
-两者共同展示了完整的光谱：
-- 有记录智慧的传奇投资者
-- 继承遗产的安静运营商
+**[SKILL.md](./cathie_wood/SKILL.md)** · **[References](./cathie_wood/references/)**
 
 ---
 
-## 如何使用
+## 全部技能
 
-### Claude Code / OpenClaw
+| 技能 | 专注领域 | 来源资料 |
+|------|----------|----------|
+| [Benjamin Graham](./benjamin_graham/) | 价值投资、聪明投资者 | Security Analysis、The Intelligent Investor |
+| [Peter Lynch](./peter_lynch/) | 合理价格成长、知道你所持有 | One Up on Wall Street、Beating the Street |
+| [Aswath Damodaran](./aswath_damodaran/) | DCF 估值、故事驱动分析 | 纽约大学讲座、估值书籍 |
+| [Greg Abel](./greg_abel/) | 运营卓越、伯克希尔文化 | Buffett 继任、运营管理 |
+
+---
+
+## 快速开始
+
+### For OpenClaw
 
 ```bash
-# 沃伦·巴菲特
-> 用巴菲特的护城河框架分析苹果
-> 特斯拉的五分钟测试是什么？
+# Warren Buffett
+> Analyze Apple using Buffett's moat framework
+> What's the five-minute test for Tesla?
 
-# 格雷格·阿贝尔
-> 阿贝尔如何评估新收购？
-> 阿贝尔的资本配置方法是什么？
+# Cathie Wood  
+> What does ARK mean by "convergence"?
+> How does Wood evaluate Tesla's bull case?
+
+# Peter Lynch
+> How do I know if I understand a stock?
+> Tell me about the "cut flowers, water weeds" approach
+```
+
+### 技能结构
+
+每个技能遵循相同结构：
+
+```
+skill_name/
+├── SKILL.md              ← 核心技能文件（Anthropic 格式）
+├── _meta.json            ← 元数据
+└── references/
+    ├── 01-writings.md     ← 原始著作 + 摘要
+    ├── 02-conversations.md ← 采访 + 记录
+    ├── 03-expression-dna.md ← 沟通风格
+    ├── 04-external-views.md ← 批评 + 观点
+    ├── 05-decisions.md    ← 关键决策 + 案例
+    └── 06-timeline.md    ← 完整时间线
 ```
 
 ---
 
-## 质量标准
+## 路线图
 
-我们制作的每个技能都符合以下标准：
+想看我们下一步要做谁？
 
-1. **仅一手源** — 所有内容来自原始英文资料
-2. **完全透明** — 每个声明都链接到源
-3. **量化不确定性** — 我们告诉你何时信息是二手的
-4. **诚实说明局限** — 阿贝尔技能明确承认我们的未知
-5. **活文档** — 技能会随新信息更新
+- [ ] Charlie Munger
+- [ ] Ray Dalio
+- [ ] Carl Icahn
+- [ ] Steve Jobs
+- [ ] Jeff Bezos
 
----
-
-## 贡献指南 {#贡献}
-
-有新的技能建议？提交 issue。
-
-我们特别感兴趣：
-- **投资者：** 查理·芒格、彼得·林奇、雷·达里奥、卡尔·伊坎
-- **科技领袖：** 史蒂夫·乔布斯、杰夫·贝索斯、埃隆·马斯克、萨提亚·纳德拉
-- **思想家：** 纳瓦尔·拉维坎特、谢恩·帕里什、摩根·豪塞尔
-
----
-
-## 仓库结构
-
-```
-celebrity_skills/
-├── README.md              ← 英文版
-├── README.zh-CN.md        ← 中文版
-├── plan.json              ← 当前项目计划
-├── warren_buffett/
-│   ├── SKILL.md
-│   └── references/
-└── greg_abel/
-    ├── SKILL.md
-    ├── _meta.json
-    └── references/
-```
+有建议？[提交 issue](https://github.com/Talentedleo/celebrity_skills/issues)。
 
 ---
 
 ## 免责声明
 
-这些技能是从公共著作和采访中提炼出来供学习之用，不构成财务、投资或专业建议。
+这些技能是从公开著作和采访中有学习目的地提炼的。它们不构成财务、投资或专业建议。
 
 ---
 
 <div align="center">
 
-**最优秀的大脑，永远为你工作。**
+**最伟大的思想，为你永续工作。**
 
 MIT License © [Leo Li](https://github.com/Talentedleo)
 

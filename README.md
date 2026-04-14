@@ -5,7 +5,6 @@
 > *"Great minds don't die — they get distilled into frameworks that outlive them."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://openclaw.ai)
 [![中文](https://img.shields.io/badge/Language-中文-blue)](README.zh-CN.md)
 
@@ -15,162 +14,129 @@
 
 We distill the wisdom of the world's greatest investors and tech leaders into practical AI skills. Not quotes. Working frameworks.
 
-<br>
-
-[Warren Buffett](#warren-buffett-skill) · [Greg Abel](#greg-abel-skill) · [Contributing](#contributing)
-
 </div>
 
 ---
 
-## The Mission
+## Core Philosophy
 
-**Celebrity Skills** is a project to create **AI-native representations** of the world's most influential thinkers.
+### What We Believe
 
-### What We Mean by "Cyber Immortality"
+1. **Wisdom should outlive its creators** — Books go unread, letters get archived, interviews are forgotten. Skills keep their wisdom alive.
 
-When Buffett, Munger, or any great mind shares their wisdom, it's locked in:
-- Books that go unread
-- Letters buried in archives
-- Interviews watched by thousands, remembered by dozens
+2. **Thinking > Quoting** — True tribute is reasoning through their mental models, not parroting their words.
 
-**We fix this.**
+3. **Voice matters** — Each skill speaks in its owner's authentic voice, not a generic AI tone.
 
-By distilling their thinking into structured skills, we create AI agents that:
-1. **Think like them** — Not parroting quotes, but reasoning through their mental models
-2. **Advise in their voice** — Match their communication style
-3. **Outlive them** — Their wisdom becomes permanently accessible
+4. **Transparency first** — Every claim linked to source, every limitation acknowledged.
 
-### The Value
+### Quality Standards
 
-| Before | After |
-|--------|-------|
-| "What would Buffett do?" | Ask Buffett directly |
-| Scroll through 60 years of letters | Get the answer in seconds |
-| Misremember a quote | Verify from source |
-| Wonder about edge cases | Apply the framework |
+| Standard | Description |
+|----------|-------------|
+| Primary Sources Only | All content from original English sources |
+| Full Transparency | Every claim linked to source |
+| Quantified Uncertainty | Tell you when information is secondhand |
+| Honest Limitations | No fabrication of missing information |
+| Living Documents | Skills updated as new information emerges |
 
 ---
 
-## Current Skills
+## Featured Skills
 
-### Warren Buffett .skill {#warren-buffett-skill}
-
-> *"The secret to investing has nothing to do with how smart you are. It's about whether you have the temperament to think independently."*
+### Warren Buffett
 
 **The Oracle of Omaha. 60+ years of documented investing wisdom.**
 
 | Specs | Detail |
 |-------|--------|
-| Mental Models | 5 (Moat, Intrinsic Value, Circle of Competence, Mr. Market, CAP) |
+| Mental Models | Moat, Intrinsic Value, Circle of Competence, Mr. Market, CAP |
 | Decision Heuristics | 8 |
 | Investment Cases | 11 (Coca-Cola, Apple, GEICO, Airlines, etc.) |
 | Source Material | 60+ years of shareholder letters |
 
-**Links:** [SKILL.md](./warren_buffett/SKILL.md) · [References](./warren_buffett/references/)
+> *"The secret to investing has nothing to do with how smart you are. It's about whether you have the temperament to think independently."*
+
+**[SKILL.md](./warren_buffett/SKILL.md)** · **[References](./warren_buffett/references/)**
 
 ---
 
-### Greg Abel .skill {#greg-abel-skill}
+### Cathie Wood
 
-> *"It's really the investment philosophy and how Warren and the team have allocated capital for the past 60 years. Really, it will not change."*
-
-**Berkshire Hathaway CEO since 2026. The operator who inherited Buffett's empire.**
+**ARK Invest founder. Thematic investing on disruptive innovation.**
 
 | Specs | Detail |
 |-------|--------|
-| Focus | Operational excellence, culture preservation |
-| Key Decision | BYD investment oversight (2008-2025, ~3,890% return) |
-| Challenge | No public investing philosophy — he's an operator, not an investor |
-| Source Material | <5 direct interviews, ~90% secondhand from Buffett/Munger |
+| Focus | Disruptive innovation, technological transformation |
+| Key Themes | AI, Bitcoin, Tesla, genomic editing, robotics |
+| Philosophy | Convergence, 5-year conviction windows |
+| Source Material | ARK research, interviews, "Big Ideas" annual letters |
 
-**Links:** [SKILL.md](./greg_abel/SKILL.md) · [References](./greg_abel/references/) · [_meta.json](./greg_abel/_meta.json)
+> *"There was nowhere I was going to fit in and I didn't want to fit in anywhere. I wanted to blaze a trail."*
 
----
-
-## Why These Two?
-
-**Buffett** represents the gold standard of public investing wisdom — 60 years of letters, interviews, and documented decisions.
-
-**Abel** represents a different challenge: What happens when the successor has almost no public record? His skill is inherently limited, but represents the reality of great organizations — the **operator** who keeps the machine running, not the **investor** who makes headlines.
-
-Together, they show the full spectrum:
-- The legendary investor with documented wisdom
-- The quiet operator who inherited the legacy
+**[SKILL.md](./cathie_wood/SKILL.md)** · **[References](./cathie_wood/references/)**
 
 ---
 
-## How to Use
+## All Skills
 
-### For Claude Code / OpenClaw
+| Skill | Focus | Source Material |
+|-------|-------|-----------------|
+| [Benjamin Graham](./benjamin_graham/) | Value investing, intelligent investor | Security Analysis, The Intelligent Investor |
+| [Peter Lynch](./peter_lynch/) | Growth at reasonable price, know-what-you-own | One Up on Wall Street, Beating the Street |
+| [Aswath Damodaran](./aswath_damodaran/) | DCF valuation, story-driven analysis | NYU lectures, valuation books |
+| [Greg Abel](./greg_abel/) | Operational excellence, Berkshire culture | Buffett's succession, operational management |
+
+---
+
+## Quick Start
+
+### For OpenClaw
 
 ```bash
 # Warren Buffett
 > Analyze Apple using Buffett's moat framework
 > What's the five-minute test for Tesla?
 
-# Greg Abel
-> How would Greg Abel evaluate a new acquisition?
-> What's the Abel approach to capital allocation?
+# Cathie Wood  
+> What does ARK mean by "convergence"?
+> How does Wood evaluate Tesla's bull case?
+
+# Peter Lynch
+> How do I know if I understand a stock?
+> Tell me about the "cut flowers, water weeds" approach
 ```
 
-### For Development
+### Skill Structure
 
 Each skill follows the same structure:
 
 ```
 skill_name/
 ├── SKILL.md              ← Core skill file (Anthropic format)
-├── _meta.json            ← Metadata for distribution
-├── references/
-│   ├── 01-writings.md    ← Original writings + summaries
-│   ├── 02-conversations.md ← Interviews + transcripts
-│   ├── 03-expression-dna.md ← Communication style
-│   ├── 04-external-views.md ← Criticisms + perspectives
-│   ├── 05-decisions.md   ← Key decisions + cases
-│   └── 06-timeline.md    ← Complete timeline
+├── _meta.json            ← Metadata
+└── references/
+    ├── 01-writings.md     ← Original writings + summaries
+    ├── 02-conversations.md ← Interviews + transcripts
+    ├── 03-expression-dna.md ← Communication style
+    ├── 04-external-views.md ← Criticisms + perspectives
+    ├── 05-decisions.md    ← Key decisions + cases
+    └── 06-timeline.md    ← Complete timeline
 ```
 
 ---
 
-## Quality Standards
+## Roadmap
 
-Every skill we produce meets these criteria:
+Want to see who we are working on next?
 
-1. **Primary Sources Only** — All content from original English sources
-2. **Full Transparency** — Every claim linked to source
-3. **Quantified Uncertainty** — We tell you when information is secondhand
-4. **Honest Limitations** — Greg Abel's skill explicitly acknowledges what we don't know
-5. **Living Documents** — Skills are updated as new information emerges
+- [ ] Charlie Munger
+- [ ] Ray Dalio
+- [ ] Carl Icahn
+- [ ] Steve Jobs
+- [ ] Jeff Bezos
 
----
-
-## Contributing {#contributing}
-
-Have a suggestion for a new skill? Open an issue.
-
-We're particularly interested in:
-- **Investors:** Charlie Munger, Peter Lynch, Ray Dalio, Carl Icahn
-- **Tech Leaders:** Steve Jobs, Jeff Bezos, Elon Musk, Satya Nadella
-- **Thinkers:** Naval Ravikant, Shane Parrish, Morgan Housel
-
----
-
-## Repository Structure
-
-```
-celebrity_skills/
-├── README.md              ← English version
-├── README.zh-CN.md        ← 中文版
-├── plan.json              ← Current project plans
-├── warren_buffett/
-│   ├── SKILL.md
-│   └── references/
-└── greg_abel/
-    ├── SKILL.md
-    ├── _meta.json
-    └── references/
-```
+Have a suggestion? [Open an issue](https://github.com/Talentedleo/celebrity_skills/issues).
 
 ---
 
