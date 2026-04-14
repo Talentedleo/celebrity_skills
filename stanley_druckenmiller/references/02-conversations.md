@@ -163,3 +163,91 @@
 ---
 
 *Last updated: 2026-04-15*
+
+**2026 Updates:**
+- Feb 2026: Morgan Stanley "Hard Lessons" (extended version)
+- Mar 2026: "2026 Credit Collapse" video (Druckenmiller Official YouTube)
+- Apr 2026: Stablecoin prediction (The Motley Fool) — "Global payments will run on stablecoins in 10-15 years"
+- Q1 2026: Alphabet +276.7%, Meta closed, Natera largest position (~13.2%)*
+
+---
+
+## 2026 Updates (Latest)
+
+### On Stablecoins — The Motley Fool (April 10, 2026)
+
+**Q: Will stablecoins replace Visa and Mastercard?**
+
+> "I think the global payments system will largely run on stablecoins within the next 10 to 15 years."
+
+**Why:**
+- Stablecoins are "efficient, quicker, and cheaper"
+- "Incredibly useful in terms of productivity"
+- 2025 global stablecoin transaction value: $33 trillion (+72% from 2024)
+- Bloomberg Intelligence predicts $56 trillion by 2030
+
+**On Visa/Mastercard:**
+- Not immediately threatened — "90% of stablecoin volume is still used to trade other cryptocurrencies"
+- They view it as opportunity, not existential threat
+- Will need to adapt business models over time
+
+---
+
+### On Markets: Late Cycle but Not End Cycle — Various (Q1 2026)
+
+**Portfolio positioning (as of March 2026):**
+
+| Holding | Weight | Notes |
+|---------|--------|-------|
+| Natera Inc (NTRA) | ~13.2% | Genetic testing, largest position |
+| Financial Select Sector SPDR (XLF) | Major | Financials |
+| Invesco S&P 500 Equal Weight ETF (RSP) | Major | Diversification |
+| Alphabet | +276.7% increase | AI/cloud conviction |
+| Amazon | Added late 2025 | Renewed AI bet |
+| Meta Platforms | **Closed** | Exited Q1 2026 |
+
+**Market view:**
+- Market is in "late cycle" but not necessarily "end cycle"
+- Sees "massive disruption and massive change ahead"
+- After AI-driven portfolio for 3 years, no longer AI-driven
+- Portfolio is eclectic, with focus on dislocations away from heated AI names
+
+---
+
+### Currency Plays — Unfiltered Wealth YouTube (December 30, 2025)
+
+> "The Only 3 Currency Plays I'd Make in 2026"
+
+- Dollar weakness continues to be a theme
+- Yen reversal potential
+- Euro vulnerabilities
+
+---
+
+### The 2026 Credit Collapse — Druckenmiller Official (March 2026)
+
+YouTube: "Stanley Druckenmiller: The 2026 Credit Collapse Has Begun (Here's How I'd Protect My Money)"
+
+- Structural credit issues emerging
+- 39-minute analysis of risks and positioning
+
+---
+
+### Key Quote on Current Philosophy (March 2026)
+
+> "If you look at today, you're not going to make any money. If you try and look ahead and what might change and how investors might perceive something ahead."
+
+**Contrast with AI era:**
+- 2022-2025: AI-driven portfolio, concentrated in Nvidia, Palantir
+- 2026: More eclectic, hunting for dislocations while AI names are "disturbingly heated"
+- Example: Teva Pharmaceuticals (generic → biosimilars transition) while growth investors and value investors were both misaligned
+
+---
+
+*Last updated: 2026-04-15*
+
+**2026 Updates:**
+- Feb 2026: Morgan Stanley "Hard Lessons" (extended version)
+- Mar 2026: "2026 Credit Collapse" video (Druckenmiller Official YouTube)
+- Apr 2026: Stablecoin prediction (The Motley Fool) — "Global payments will run on stablecoins in 10-15 years"
+- Q1 2026: Alphabet +276.7%, Meta closed, Natera largest position (~13.2%)*

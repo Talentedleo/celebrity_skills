@@ -131,3 +131,52 @@
 ---
 
 *Last updated: 2026-04-15*
+
+---
+
+## 2026 Portfolio Decisions
+
+### Q1 2026 — Major Reallocation
+
+**Top holdings (March 2026):**
+| Stock/ETF | Action | Rationale |
+|-----------|--------|----------|
+| Natera (NTRA) | Largest position (~13.2%) | Genetic testing; personalized medicine |
+| Alphabet | **+276.7% increase** | AI and cloud growth |
+| Amazon | Added late 2025 | Renewed AI infrastructure bet |
+| Meta Platforms | **Closed position** | Q1 2026 exit |
+| Invesco S&P 500 Equal Weight (RSP) | Major holding | Diversification hedge |
+| Financial Select Sector SPDR (XLF) | Major holding | Financials exposure |
+
+**Strategic shift:**
+- No longer AI-driven (vs. 2022-2025 concentrated AI positions)
+- Seeking dislocations in non-AI names
+- More eclectic, less concentrated
+
+---
+
+## 2026 Credit Collapse Thesis
+
+**Source:** YouTube — "Druckenmiller Official" channel, March 2026  
+**Title:** "The 2026 Credit Collapse Has Begun" (39:51)
+
+**Core thesis:**
+- Structural credit issues are emerging
+- Positioned defensively while maintaining risk assets
+- Focus on protecting capital in potential credit squeeze
+
+---
+
+### Stablecoin Prediction (April 2026)
+
+> "The global payments system will largely run on stablecoins within the next 10 to 15 years."
+
+**Implications:**
+- Visa/Mastercard face long-term disruption risk
+- Short-term: 90% of stablecoin volume still crypto trading
+- Tether (USDT): ~$184B market cap; USDC: ~$78B
+- Transaction value 2025: $33 trillion (+72% YoY)
+
+---
+
+*Last updated: 2026-04-15*

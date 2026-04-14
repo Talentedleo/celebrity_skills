@@ -106,3 +106,34 @@
 ---
 
 *Last updated: 2026-04-15*
+
+---
+
+## 2026 Updates
+
+| Date | Event | Details |
+|------|-------|---------|
+| **Feb 2026** | Morgan Stanley "Hard Lessons" | Extended interview on portfolio construction, AI, psychology |
+| **Feb 2026** | MarketWatch interview | "How I'd build a portfolio from scratch right now" |
+| **Mar 2026** | "2026 Credit Collapse" video | YouTube analysis of credit market risks |
+| **Mar 2026** | Alphabet position increased | +276.7% quarter-over-quarter |
+| **Q1 2026** | Meta Platforms — position closed | Exited after significant gains |
+| **Apr 2026** | Stablecoin prediction | "Global payments will run on stablecoins in 10-15 years" |
+| **Apr 2026** | Natera — largest holding | ~13.2% of portfolio (genetic testing) |
+
+---
+
+## 2026 Portfolio Snapshot (~$4B AUM)
+
+| Position | Type |
+|----------|------|
+| Natera (NTRA) | Largest — genetic testing |
+| Alphabet (GOOGL) | Major — AI/cloud |
+| Amazon (AMZN) | Major — AI infrastructure |
+| Financial Select Sector SPDR | Major — financials |
+| Invesco S&P 500 Equal Weight | Major — diversification |
+| Invesco QQQ | Some — tech exposure |
+
+---
+
+*Last updated: 2026-04-15*
