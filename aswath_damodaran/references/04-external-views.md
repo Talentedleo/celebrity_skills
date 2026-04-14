@@ -29,7 +29,7 @@ As one of the most cited finance professors on valuation, Damodaran has influenc
 ### 1. "Too Academic"
 
 **Criticism:**
-Some practitioners argue that Damodaran's approach is too theoretical and doesn't translate well to real-world investing.
+Some practitioners argue that Damodaran's approach is too theoretical and does not translate well to real-world investing.
 
 **Counterpoint:**
 > Damodaran acknowledges this directly: "My models are not perfect. They are tools. The question is whether they are useful tools."
@@ -37,10 +37,12 @@ Some practitioners argue that Damodaran's approach is too theoretical and doesn'
 ### 2. "DCF is Impractical for High-Growth Companies"
 
 **Criticism:**
-DCF requires long-term assumptions that are inherently uncertain for high-growth companies like Tesla.
+DCF requires long-term assumptions that are inherently uncertain for high-growth companies like Tesla or AI companies.
 
-**Damodaran's Response:**
-> "DCF is not meant to give you one precise number. It is meant to help you understand the implications of your assumptions. For Tesla, the issue is not the model - it is the story you tell about the future."
+**Damodaran's Response (2026):**
+> "For much of its history, financial analysis has been built around point estimates, where you identify key drivers and make your best judgments. The problem with point estimates, where almost everything is uncertain, is that you will be wrong 100% of the time."
+
+> "I do three things when uncertainty is high: Keep the valuation simple, use probability-weighted scenarios, and price in the uncertainty explicitly."
 
 ### 3. "Too Many Adjustments"
 
@@ -53,10 +55,20 @@ Some argue that Damodaran's approach requires too many subjective adjustments, m
 ### 4. "Does Not Work for Crypto/Non-Traditional Assets"
 
 **Criticism:**
-Damodaran's traditional valuation frameworks don't apply to cryptocurrencies and other non-traditional assets.
+Damodaran's traditional valuation frameworks do not apply to cryptocurrencies and other non-traditional assets.
 
 **Damodaran's Response:**
-> "I have been asked to value Bitcoin. My answer is that Bitcoin has no intrinsic value, but that doesn't mean it isn't worth anything. Some assets are worth what people are willing to pay, not what they are worth."
+> "I do not believe in intrinsic value for Bitcoin. But I also do not dismiss it. Some assets are worth what people are willing to pay."
+
+### 5. "Too Focused on Probabilities, Not Enough on Conviction" (2026 New)
+
+**Criticism:**
+Some argue that probabilistic thinking leads to paralysis - if every estimate is uncertain, how can you ever make a decision?
+
+**Damodaran's Response:**
+> "The difference between a good investor and a great investor is the willingness to say 'I do not know.'"
+
+> "The purpose of valuation is not to get one number, but to understand what you do not know."
 
 ---
 
@@ -70,18 +82,20 @@ Damodaran's traditional valuation frameworks don't apply to cryptocurrencies and
 | Time Horizon | Explicit assumptions about future | "Forever" holding period |
 | Moat Concept | Explicitly modeled in cash flows | Intangible quality |
 | Risk | Explicit risk premiums | "Moat" as protection |
+| Philosophy | Individual philosophy tailored to investor | Well-defined value investing philosophy |
 
 **Key Difference:**
-- Damodaran: Risk is priced into the discount rate
-- Buffett: Great businesses with moats reduce risk
+- Damodaran: Risk is priced into the discount rate; philosophy is individual
+- Buffett: Great businesses with moats reduce risk; philosophy is universal
 
 ### Damodaran vs. Benjamin Graham
 
 | Aspect | Damodaran | Graham |
 |--------|-----------|--------|
-| Margin of Safety | Explicit in model | Price discount required |
+| Margin of Safety | Explicit in model + understanding | Price discount required |
 | Intrinsic Value | Calculated from future cash flows | Based on current assets |
 | Role of Story | Central to valuation | Secondary to numbers |
+| Probabilistic | Embraces uncertainty | Seeks margin of safety |
 
 **Key Difference:**
 - Graham: Focus on current assets and book value
@@ -94,20 +108,22 @@ Damodaran's traditional valuation frameworks don't apply to cryptocurrencies and
 | Risk Definition | Permanent loss of capital | Volatility (beta) |
 | Diversification | Protection against ignorance | Systematic risk |
 | Return Expectations | Based on intrinsic value | Based on market relationships |
+| Probabilistic | Yes (2026 emphasis) | Typically point estimates |
 
 ---
 
 ## Modern Adaptations
 
-### Quantitative Finance
+### Quantitative Finance (2026 Update)
 
 **Algorithmic Valuation:**
 - Machine learning models trained on Damodaran's factors
 - Automated comparable analysis
 - Real-time valuation updates
+- Probabilistic approaches replacing point estimates
 
 **Key Contribution:**
-Damodaran's work on implied equity risk premiums has been incorporated into many quantitative models.
+Damodaran's work on implied equity risk premiums and probabilistic thinking has been incorporated into many quantitative models.
 
 ### Fintech Applications
 
@@ -115,6 +131,9 @@ Damodaran's work on implied equity risk premiums has been incorporated into many
 - Companies like Visible Alpha use Damodaran's frameworks
 - Bloomberg incorporates his methodologies
 - FactSet and Capital IQ use his approaches
+
+**2026 Update:**
+With AI valuation becoming prominent, Damodaran's scenario-based approach is more relevant than ever.
 
 ---
 
@@ -125,15 +144,23 @@ Damodaran's work on implied equity risk premiums has been incorporated into many
 Damodaran has valued Tesla multiple times, each time generating significant debate.
 
 **His Position:**
-> "Tesla is either a car company or a tech company. The valuation depends on which story you believe. I am not willing to bet on either."
+> "I have valued Tesla more times than any other company. Each time, I learn something new. The valuation depends entirely on which story you believe about the future."
 
 **Criticism:**
 Some argue he is too cautious; others argue he is appropriately skeptical.
 
+### The AI Valuation Question (2026 New)
+
+**His Position:**
+> "AI companies are some of the hardest to value because: The technology is changing rapidly, the business models are unclear, and competition is intense."
+
+**Criticism:**
+Traditional investors say this approach lacks conviction.
+
 ### The Crypto Valuation Question
 
 **His Position:**
-> "I don't believe in intrinsic value for Bitcoin. But I also don't dismiss it. Some assets are worth what people are willing to pay."
+> "I do not believe in intrinsic value for Bitcoin. But I also do not dismiss it. Some assets are worth what people are willing to pay."
 
 **Criticism:**
 Traditional investors say this approach lacks rigor.
@@ -151,6 +178,7 @@ Damodaran's textbooks are standard reading in valuation courses worldwide.
 2. Real-world examples
 3. Honest acknowledgment of limitations
 4. Free resources for self-learners
+5. Investment philosophy framework (2026)
 
 ### Industry Training
 
@@ -165,18 +193,21 @@ Many investment banks use Damodaran's materials for analyst training.
 - Changed how analysts approach DCF models
 - Emphasized the importance of narrative in valuation
 - Made valuation education accessible to individual investors
+- Pioneered probabilistic thinking in valuation (2026 emphasis)
 
 ### On Academic Research
 
 - Bridged theory and practice
 - Created datasets (implied cost of capital) used in research
 - Influenced how risk is measured and priced
+- Advanced understanding of implied cost of capital
 
 ### On Individual Investors
 
 - Provided free resources to learn valuation
 - Demystified complex financial concepts
 - Encouraged critical thinking about assumptions
+- Helped investors find their philosophy (2026)
 
 ---
 
@@ -199,4 +230,5 @@ Many investment banks use Damodaran's materials for analyst training.
 2. Academic papers citing Damodaran
 3. Industry publications
 4. Student testimonials
+5. Substack: https://aswathdamodaran.substack.com/ (2024-2026)
 

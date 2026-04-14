@@ -8,7 +8,7 @@ Unlike traditional value investors who publish their portfolios, Damodaran is kn
 
 ## Famous Valuation Cases
 
-### 1. Tesla (Multiple Times, 2010-2024)
+### 1. Tesla (Multiple Times, 2010-2026)
 
 **Timeline of Valuations:**
 
@@ -19,13 +19,15 @@ Unlike traditional value investors who publish their portfolios, Damodaran is kn
 | 2018 | $220-250/share | Tech company with autonomous potential |
 | 2020 | $350-500/share | Energy company + Auto |
 | 2021 | Variable | High uncertainty |
+| 2024 | Updated | Story continues to shift |
+| 2026 | Ongoing | AI and autonomy questions |
 
 **Methodology Used:**
 - DCF with multiple scenarios
 - Comparable company analysis
 - Probability-weighted outcomes
 
-**Key Quote (2021):**
+**Key Quote (2021, referenced 2026):**
 > "I have valued Tesla more times than any other company. Each time, I learn something new. The valuation depends entirely on which story you believe about the future."
 
 **The Tesla Framework:**
@@ -74,7 +76,7 @@ Damodaran values Amazon differently depending on the business segments.
 ### 3. Bitcoin/Cryptocurrency
 
 **Damodaran's Position:**
-> "I have been asked to value Bitcoin. My answer is that Bitcoin has no intrinsic value, but that doesn't mean it isn't worth anything."
+> "I have been asked to value Bitcoin. My answer is that Bitcoin has no intrinsic value, but that does not mean it is not worth anything."
 
 **Framework Applied:**
 1. **Intrinsic Value:** None (no cash flows)
@@ -86,7 +88,25 @@ Damodaran values Amazon differently depending on the business segments.
 
 ---
 
-### 4. IPO Valuations
+### 4. AI Companies (2026 New)
+
+**Damodaran's Position (2026):**
+> "AI companies are some of the hardest to value because:
+> 1. The technology is changing rapidly
+> 2. The business models are unclear
+> 3. Competition is intense"
+
+**Framework for AI Valuations:**
+1. **Do not pick one scenario** - use probability-weighted scenarios
+2. **Look at history** (PCs, internet) for analogs
+3. **Consider the inconsistencies** in doom scenarios
+
+**Key Quote (2026):**
+> "My intent in this post is less about promoting my favored AI scenario, and more about providing a framework for you to develop your own."
+
+---
+
+### 5. IPO Valuations
 
 **General Approach:**
 
@@ -141,12 +161,13 @@ Damodaran values Amazon differently depending on the business segments.
 **Damodaran's Approach:**
 > "Comparables are only useful if you understand why a company trades at a multiple. The multiple tells a story about future expectations."
 
-### 3. Probability-Weighted Scenarios
+### 3. Probability-Weighted Scenarios (2026 Emphasized)
 
 **When Applied:**
 - High uncertainty companies
 - IPOs
 - Turnaround situations
+- AI/tech companies
 
 **Framework:**
 1. Build 3-5 scenarios
@@ -160,25 +181,43 @@ Damodaran values Amazon differently depending on the business segments.
 - 20% probability of bear case: $20/share
 - Expected value: $55/share
 
+**Key Quote (2026):**
+> "For much of its history, financial analysis has been built around point estimates, where you identify key drivers, estimate the effects on your bottom line, and make your best judgments. The problem with point estimates, where almost everything is uncertain, is that you will be wrong 100% of the time, though you may still make money, if you are wrong in the right direction."
+
 ---
 
 ## Key Investment Principles
 
 ### 1. Story-Driven Investing
 
-> "The best investments are the ones where you can tell a coherent story about the future. If you can't tell a story, you are speculating."
+> "The best investments are the ones where you can tell a coherent story about the future. If you cannot tell a story, you are speculating."
 
 ### 2. Uncertainty Pricing
 
-> "I don't try to eliminate uncertainty. I try to price it. If you are not being compensated for uncertainty, you should not be making the investment."
+> "I do not try to eliminate uncertainty. I try to price it. If you are not being compensated for uncertainty, you should not be making the investment."
 
 ### 3. Margin of Safety
 
-> "The margin of safety is not just about price. It is about being comfortable with your assumptions. If you need a large discount to feel comfortable, you probably don't understand the business."
+> "The margin of safety is not just about price. It is about being comfortable with your assumptions. If you need a large discount to feel comfortable, you probably do not understand the business."
 
 ### 4. Long-Term Focus
 
 > "The market is a weighing machine in the long run. If you believe in the story, you need to be patient."
+
+### 5. Investment Philosophy (2026 New)
+
+> "There is a right investment philosophy for each individual that reflects that individual's views and beliefs about markets and characteristics as a person."
+
+> "The problem with not having a core philosophy is that it exposes you, as an investor, to a whole host of consequences, most of which are negative."
+
+### 6. Probabilistic Thinking (2026 New)
+
+> "I do three things when uncertainty is high:
+> 1. Keep the valuation simple
+> 2. Use probability-weighted scenarios
+> 3. Price in the uncertainty explicitly"
+
+> "The worst thing you can do is pretend uncertainty does not exist."
 
 ---
 
@@ -202,6 +241,12 @@ Damodaran values Amazon differently depending on the business segments.
 - Model assumptions
 - Terminal value sensitivity
 - Discount rate uncertainty
+
+### 4. Philosophical Risk (2026 New)
+
+- Do you have a core philosophy?
+- Are you chasing winners?
+- Can you stay the course?
 
 ---
 
@@ -233,20 +278,29 @@ Damodaran values Amazon differently depending on the business segments.
    - Is there a margin of safety?
    - Can you tolerate being wrong?
    - What is your time horizon?
+   - Do you have a philosophy to guide you?
 
 ---
 
 ## Famous Quotes on Investment Decisions
 
-> "I don't try to predict the future. I try to understand the range of possible futures and price them appropriately."
+> "I do not try to predict the future. I try to understand the range of possible futures and price them appropriately."
 
-> "The difference between a good investor and a great investor is the willingness to say 'I don't know.'"
+> "The difference between a good investor and a great investor is the willingness to say 'I do not know.'"
 
 > "If you want to be a contrarian, you have to be right when the market is wrong. If you are contrarian for the sake of being contrarian, you will lose money."
 
 > "The best investments are the ones where you can tell a coherent story about the future."
 
-> "Diversification is protection against ignorance. If you don't understand a business, diversify."
+> "Diversification is protection against ignorance. If you do not understand a business, diversify."
+
+**2026 New Quotes:**
+
+> "For much of its history, financial analysis has been built around point estimates. The problem with point estimates, where almost everything is uncertain, is that you will be wrong 100% of the time."
+
+> "The problem with not having a core philosophy is that it exposes you, as an investor, to a whole host of consequences, most of which are negative."
+
+> "I have learned that the market is far better at making sense of complexity and uncertainty than experts are."
 
 ---
 
@@ -256,4 +310,6 @@ Damodaran values Amazon differently depending on the business segments.
 2. YouTube: Valuation Master Class
 3. Podcast appearances: Acquired, Knowledge Project
 4. Academic papers on valuation methodology
+5. Substack: https://aswathdamodaran.substack.com/ (2024-2026)
+6. "Investment Philosophers" 3rd Edition (2026)
 
