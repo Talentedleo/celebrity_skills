@@ -206,3 +206,101 @@ Aswath Damodaran is a Professor of Finance at NYU Stern School of Business, know
 5. https://aswathdamodaran.blogspot.com/ - Investment Philosophers Blog
 6. https://www.youtube.com/@AswathDamodaran - YouTube Channel
 
+
+---
+
+## 7. 2026 Latest Articles
+
+### Substack: "Finding your investment lodestar" (March 2026)
+**URL:** https://aswathdamodaran.substack.com/p/finding-your-investment-lodestar
+
+**Key Insights:**
+
+1. **Active Investing is Difficult**
+   - Very few active investors win consistently over time
+   - Index funds effortlessly match the average investor at low cost
+   - Most active investors cannot beat their benchmarks after costs
+
+2. **Luck vs. Skill**
+   - It is very difficult to separate luck from skill in investing
+   - Even successful investors have diverse pathways to success
+
+3. **No One Philosophy Fits All**
+   > "There can be no one dominant investment philosophy that is the best for all investors"
+   > "There is a right investment philosophy for each individual that reflects that individual's views and beliefs"
+
+4. **Without Philosophy, You Chase Winners**
+   - Without a core philosophy, investors chase last year's winners
+   - Portfolio suffers from whiplash
+
+**Core Message:**
+> "The problem with not having a core philosophy is that it exposes you, as an investor, to a whole host of consequences, most of which are negative."
+
+---
+
+### Substack: "The AI Disruption" (March 2026)
+**URL:** https://aswathdamodaran.substack.com/p/the-ai-disruption-from-doomsday-destruction
+
+**Key Insights:**
+
+1. **AI Hype vs. Reality**
+   - Since ChatGPT debuted (Nov 2022), AI has been oversold by advocates
+   - Now cracks are emerging - investors wonder when AI investments will pay off
+
+2. **On AI Scenarios**
+   > "The problem with all of these AI scenarios is that they are rooted in the weakest of responses to uncertainty, which is to either pick a scenario and describe it in detail, without establishing how likely that scenario is."
+
+3. **Probabilistic Approach**
+   > "For much of its history, financial analysis has been built around point estimates... The problem with point estimates, where almost everything is uncertain, is that you will be wrong 100% of the time."
+
+4. **Framework for AI Assessment**
+   - Do not pick one scenario - use probability-weighted scenarios
+   - Look at history (PCs, internet) for analogs
+   - Consider the inconsistencies in doom scenarios
+
+**Core Message:**
+> "I do not try to predict the future. I try to understand the range of possible futures and price them appropriately."
+
+---
+
+### Substack: "Oil, War and the Global Economy" (April 2026)
+**URL:** https://aswathdamodaran.substack.com/p/oil-war-and-the-global-economy-the
+
+**Key Insights:**
+
+1. **Markets Play Expectations Game**
+   - March 2026: Iran War → oil prices surge → stocks drop
+   - Uncertainty about war duration, oil price impact, government response
+
+2. **Market is Smarter Than Experts**
+   > "Over the last decade, I have learned that the market is far better at making sense of complexity and uncertainty than experts are, and it behooves us therefore to listen to what it is saying."
+
+3. **Oil Price Shock Analysis**
+   - Brent crude rose 49.9% in March
+   - WTI rose 48.6%
+   - Market sees disruptions as temporary, not permanent
+
+4. **Inflation and Interest Rates**
+   - 10-year Treasury rate rose from 3.97% to 4.30%
+   - Market expects persistent inflation increase
+
+5. **Equity Risk Premium**
+   - S&P 500 ERP rose from 4.37% to 4.77% in March 2026
+   - Modest increase given the uncertainty
+
+**Core Message:**
+> "It is during those times [of maximal uncertainty] that it helps to have a core set of beliefs about markets, and an investment philosophy that reflects those beliefs."
+
+---
+
+### Blogspot: Investment Philosophers Book (3rd Edition, 2026)
+**URL:** https://aswathdamodaran.blogspot.com/2026/
+
+**News:**
+- Third edition of "Investment Philosophers" book coming soon
+- Updated free online class on YouTube
+- NYU certificate program available
+
+**Core Message from Book:**
+> "The end game was not to find the 'best' philosophy, but to provide a framework for investors to find the philosophy that best fits them."
+
