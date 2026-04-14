@@ -31,7 +31,7 @@ Peter Lynch is famous for his stock-picking success. His documented investment c
 
 ---
 
-### 2. Taco Bell (Early Holdings)
+### 2. Taco Bell (Non-First-Hand)
 
 **Situation:**
 - Small restaurant chain
@@ -52,7 +52,7 @@ Peter Lynch is famous for his stock-picking success. His documented investment c
 
 ---
 
-### 3. Hanes (Pantyhose Discovery)
+### 3. Hanes (Non-First-Hand)
 
 **Situation:**
 - Lynch noticed his wife bought Hanes pantyhose
