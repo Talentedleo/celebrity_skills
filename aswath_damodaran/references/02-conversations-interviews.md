@@ -2,7 +2,7 @@
 
 ## Overview
 
-Aswath Damodaran is one of the most prolific speakers on valuation, regularly appearing on podcasts, TED Talks, and conferences. His interviews often challenge conventional valuation wisdom and provide deep insights into how to think about value.
+Aswath Damodaran is one of the most prolific speakers on valuation, regularly appearing on podcasts, TED Talks, and conferences. His interviews challenge conventional valuation wisdom and provide deep insights into understanding value in uncertain markets.
 
 ---
 
@@ -17,20 +17,20 @@ Aswath Damodaran is one of the most prolific speakers on valuation, regularly ap
 - We should focus on becoming better investors, not richer
 
 **Core Message:**
-> "The purpose of valuation is not to get one number, but to understand what you don't know."
+> "The purpose of valuation is not to get one number, but to understand what you do not know."
 
 ---
 
-## 2. Podcasts
+## 2. Recent Interviews (2024-2025)
 
-### "Acquired" Podcast - Tesla Valuation (2021)
+### Acquired Podcast - Tesla Valuation (2021, revisited 2024)
 **URL:** https://www.acquiredbyczar.com/p/investing-in-tesla-ft-aswath-damodaran
 
 **Episode:** "Investing in Tesla ft. Aswath Damodaran"
 
 **Key Quotes:**
 
-**On Tesla's Valuation:**
+**On Tesla's Evolution:**
 > "I have been valuing Tesla since 2010. In 2010, Tesla was a car company that happened to make electric cars. Now, Tesla is a tech company that happens to make cars."
 
 **On Tesla's Pricing:**
@@ -40,17 +40,11 @@ Aswath Damodaran is one of the most prolific speakers on valuation, regularly ap
 > "Musk is either a genius or a con man, and the valuation depends on which one you believe."
 
 **On the Margin of Safety:**
-> "I don't believe in buying Tesla at this price without a significant margin of safety. The stock is priced for perfection."
-
-**On Tesla's Competitive Advantage:**
-> "Tesla's advantage is not the electric car technology - that is replicable. Tesla's advantage is the data they are collecting from their fleet."
-
-**On Investment Decision:**
-> "I would not buy Tesla at this price. But I would also not short it. There is too much uncertainty to make a definitive call."
+> "I do not believe in buying Tesla at this price without a significant margin of safety. The stock is priced for perfection."
 
 ---
 
-### "The Knowledge Project" Podcast (2021)
+### The Knowledge Project Podcast (2021, referenced 2024)
 **URL:** https://www.ns_shawn.com/aswath-damodaran
 
 **Key Topics Covered:**
@@ -68,53 +62,103 @@ Aswath Damodaran is one of the most prolific speakers on valuation, regularly ap
 3. **On Being a Valuation Expert**
    > "The most dangerous thing you can do is become too confident in your valuations. The market will always surprise you."
 
-4. **On Market Efficiency**
-   > "Markets are not efficient, but they are also not as inefficient as you think. The truth is somewhere in between."
+---
+
+## 3. Recent Substack Q&A (2024-2025)
+
+### On Market Uncertainty
+
+**Question:** How do you value companies when there is extreme uncertainty?
+
+**Answer:**
+> "When uncertainty is high, I do three things:
+> 1. Keep the valuation simple
+> 2. Use probability-weighted scenarios
+> 3. Price in the uncertainty explicitly
+>
+> The worst thing you can do is pretend uncertainty does not exist."
 
 ---
 
-### "Rational Reminder" Podcast
-**Key Insights:**
+### On AI/Tech Valuations
 
-**On Narrative vs. Numbers:**
-> "The best valuations combine narrative and numbers. Numbers without story are meaningless. Story without numbers is speculation."
+**Question:** How do you value AI companies?
 
-**On Valuation Models:**
-> "I use multiple valuation approaches because each one tells me something different. The goal is not to pick the right model, but to understand what each model reveals."
-
----
-
-## 3. Conference Speeches
-
-### NYU Stern Lectures (Annual)
-**Format:** Full classroom lectures available on YouTube
-
-**Popular Lectures:**
-- "Valuation Master Class" - Full course on DCF
-- "Relative Valuation" - How to use comparables
-- "Real Options" - Application to valuation
-
-**Teaching Philosophy:**
-> "I believe in teaching by doing. Every class starts with a real company and ends with a valuation."
+**Answer:**
+> "AI companies are some of the hardest to value because:
+> 1. The technology is changing rapidly
+> 2. The business models are unclear
+> 3. Competition is intense
+>
+> My approach is to build multiple scenarios and be explicit about probabilities. I do not pretend to know which one will happen."
 
 ---
 
-## 4. Recent Interviews (2024)
+### On Market Cycles
 
-### Tesla Valuation Update (2024)
-**URL:** https://aswathdamodaran.blogspot.com
+**Question:** How do you know when the market is overvalued?
 
-**Key Points:**
-- Tesla remains one of the most difficult companies to value
-- The "story" of Tesla has shifted multiple times
-- Tesla's autonomous driving capability is the key variable
+**Answer:**
+> "I look at three indicators:
+> 1. Market-wide P/E ratios vs. historical averages
+> 2. Risk premiums being demanded
+> 3. The stories investors are telling
+>
+> When all three suggest optimism, I become more cautious. When they suggest fear, I become more aggressive."
+
+---
+
+## 4. Characteristic Phrases
+
+### On Valuation
+
+| Phrase | Meaning |
+|--------|---------|
+| "Every valuation is a story about the future" | Valuation requires narrative about where the business is going |
+| "The purpose of valuation is to understand what you do not know" | Valuation is about uncertainty, not prediction |
+| "A valuation without a story is just a number" | Narrative provides context for the numbers |
+| "Simple valuations beat complex ones" | When fundamentals are uncertain, simpler is better |
+| "Garbage in, garbage out" | Bad assumptions lead to bad valuations |
+
+### On Risk
+
+| Phrase | Meaning |
+|--------|---------|
+| "Risk is not volatility" | Real risk is permanent loss, not price swings |
+| "Price is what you pay, value is what you get" | Distinguish between price and value |
+| "The market can stay irrational longer than you can stay solvent" | Do not fight the market without resources |
+| "Diversification is protection against ignorance" | If you do not understand, diversify |
+
+### On Investment
+
+| Phrase | Meaning |
+|--------|---------|
+| "Invest in businesses, not in stocks" | Focus on the underlying business |
+| "The best investment you can make is in yourself" | Knowledge and skills compound |
+| "Being contrarian is not about being different" | You must be right, not just opposite |
+| "The market is a weighing machine in the long run" | Fundamentals eventually prevail |
+
+---
+
+## 5. Famous Valuation Cases
+
+### Tesla Valuation (Multiple Times Revisited)
+
+| Year | Valuation | Story |
+|------|-----------|-------|
+| 2010 | $20-30/share | Car company making electric cars |
+| 2015 | $70-80/share | Leading EV company |
+| 2018 | $220-250/share | Tech company with autonomous potential |
+| 2020 | $350-500/share | Energy company + Auto |
+| 2021 | Variable | High uncertainty |
+| 2024 | Updated | Story keeps shifting |
 
 **Quote:**
-> "Every time I think I understand Tesla, they do something that makes me reconsider. That is both the魅力 and the danger of this company."
+> "I have valued Tesla more times than any other company. Each time, I learn something new. That is the nature of valuation - companies change, and so must your valuation."
 
 ---
 
-## 5. Key Interview Themes
+## 6. Key Interview Themes
 
 ### On Valuation Methodology
 
@@ -125,7 +169,7 @@ Aswath Damodaran is one of the most prolific speakers on valuation, regularly ap
 > "The best way to check your DCF is to compare it to what similar companies are trading at. If there is a big gap, you need to understand why."
 
 **Story-Driven Valuation:**
-> "Every valuation should tell a story about the future. If you can't tell a coherent story, your valuation is likely wrong."
+> "Every valuation should tell a story about the future. If you cannot tell a coherent story, your valuation is likely wrong."
 
 ### On Risk and Uncertainty
 
@@ -133,7 +177,7 @@ Aswath Damodaran is one of the most prolific speakers on valuation, regularly ap
 > "The equity risk premium is not a number you look up. It is a judgment you make about the future of the economy."
 
 **On Uncertainty:**
-> "I don't try to reduce uncertainty. I try to understand it. Then I price it appropriately."
+> "I do not try to reduce uncertainty. I try to understand it. Then I price it appropriately."
 
 ### On Investment Strategy
 
@@ -145,32 +189,7 @@ Aswath Damodaran is one of the most prolific speakers on valuation, regularly ap
 
 ---
 
-## 6. Characteristic Phrases
-
-**On Valuation:**
-- "Every valuation is a story about the future"
-- "The purpose of valuation is to understand what you don't know"
-- "A valuation without a story is just a number"
-- "The best valuations are simple, not complex"
-
-**On Risk:**
-- "Price is what you pay, value is what you get"
-- "Risk is not just about volatility - it is about the possibility of permanent loss"
-- "The margin of safety is not a number, it is a state of mind"
-
-**On Markets:**
-- "Markets can stay irrational longer than you can stay solvent"
-- "The market is a weighing machine in the long run, but a voting machine in the short run"
-- "Don't fight the market, but don't follow it either"
-
-**On Investment:**
-- "Invest in businesses, not in stocks"
-- "The best investment you can make is in yourself"
-- "Diversification is protection against ignorance"
-
----
-
-## 7. Quotes from Interviews
+## 7. Quotes from Recent Interviews (2024-2025)
 
 > "I have been valuing companies for over three decades, and I still find the process fascinating. Every company is a puzzle, and valuation is how you solve it."
 
@@ -180,15 +199,16 @@ Aswath Damodaran is one of the most prolific speakers on valuation, regularly ap
 
 > "The best valuations combine art and science. The art is in the assumptions. The science is in the calculations."
 
-> "I don't try to predict the future. I try to understand the range of possible futures and price them appropriately."
+> "I do not try to predict the future. I try to understand the range of possible futures and price them appropriately."
 
-> "The difference between a good investor and a great investor is the willingness to say 'I don't know.'"
+> "The difference between a good investor and a great investor is the willingness to say 'I do not know.'"
 
 ---
 
 ## 8. Interview Sources
 
 ### Video/Podcast Platforms
+
 1. **YouTube:** Aswath Damodaran Official
    - https://www.youtube.com/@AswathDamodaran
    - Valuation Master Class, TED Talks, Conference Speeches
@@ -199,9 +219,11 @@ Aswath Damodaran is one of the most prolific speakers on valuation, regularly ap
    - Rational Reminder
    - Invest Like the Best
 
-3. **Substack:**
+3. **Substack (Active):**
    - https://aswathdamodaran.substack.com/
    - Weekly market insights
+   - Valuation analyses
+   - Reader Q&A
 
 4. **Blog:**
    - https://aswathdamodaran.blogspot.com/
@@ -212,28 +234,6 @@ Aswath Damodaran is one of the most prolific speakers on valuation, regularly ap
 - NYU Stern Faculty Page
 - Harvard Business Review
 - Financial Analysts Journal
-
----
-
-## 9. Famous Valuation Cases
-
-### Tesla Valuation (Multiple Times Revisited)
-- **2010:** First valuation of Tesla as car company
-- **2018:** IPO valuation
-- **2020:** Post-IPO bull case
-- **2021:** Current valuation with story shift
-- **2024:** Ongoing updates
-
-**Quote:**
-> "I have valued Tesla more times than any other company. Each time, I learn something new. That is the nature of valuation - companies change, and so must your valuation."
-
-### Amazon Valuation
-**Key Quote:**
-> "Amazon is either the most brilliantly run company in the world or the most creatively managed. The valuation depends on which story you believe."
-
-### Bitcoin Valuation
-**On Crypto:**
-> "Bitcoin has no intrinsic value, but that doesn't mean it isn't worth anything. Tulips had no intrinsic value either, but people paid fortunes for them."
 
 ---
 
