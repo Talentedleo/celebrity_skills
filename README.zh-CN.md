@@ -78,6 +78,9 @@
 
 ---
 
+
+---
+
 ## 全部技能
 
 | 技能 | 专注领域 | 来源资料 |
@@ -86,6 +89,9 @@
 | [Peter Lynch](./peter_lynch/) | 合理价格成长、知道你所持有 | One Up on Wall Street、Beating the Street |
 | [Aswath Damodaran](./aswath_damodaran/) | DCF 估值、故事驱动分析 | 纽约大学讲座、估值书籍 |
 | [Greg Abel](./greg_abel/) | 运营卓越、伯克希尔文化 | Buffett 继任、运营管理 |
+| [Stanley Druckenmiller](./stanley_druckenmiller/) | 宏观投资、全球宏观、流动性 | Morgan Stanley 采访、Ira Sohn |
+| [Michael Burry](./michael_burry/) | 逆向价值投资、安全边际、泡沫识别 | Cassandra Unchained、大空头交易记录 |
+| [Bill Ackman](./bill_ackman/) | 激进投资、高信念、集中持仓 | Pershing Square信函、国会证词 |
 
 ---
 
@@ -130,9 +136,6 @@ skill_name/
 
 想看我们下一步要做谁？
 
-- [ ] Charlie Munger
-- [ ] Ray Dalio
-- [ ] Carl Icahn
 - [ ] Steve Jobs
 - [ ] Jeff Bezos
 

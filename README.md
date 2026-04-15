@@ -78,6 +78,9 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 
 ---
 
+
+---
+
 ## All Skills
 
 | Skill | Focus | Source Material |
@@ -86,6 +89,9 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 | [Peter Lynch](./peter_lynch/) | Growth at reasonable price, know-what-you-own | One Up on Wall Street, Beating the Street |
 | [Aswath Damodaran](./aswath_damodaran/) | DCF valuation, story-driven analysis | NYU lectures, valuation books |
 | [Greg Abel](./greg_abel/) | Operational excellence, Berkshire culture | Buffett's succession, operational management |
+| [Stanley Druckenmiller](./stanley_druckenmiller/) | Macro investing, global macro, liquidity | Morgan Stanley interview, Ira Sohn |
+| [Michael Burry](./michael_burry/) | Contrarian value, margin of safety, bubble identification | Cassandra Unchained, Big Short trades |
+| [Bill Ackman](./bill_ackman/) | Activist investing, high-conviction, concentrated bets | Pershing Square letters, Congressional testimony |
 
 ---
 
@@ -130,9 +136,6 @@ skill_name/
 
 Want to see who we are working on next?
 
-- [ ] Charlie Munger
-- [ ] Ray Dalio
-- [ ] Carl Icahn
 - [ ] Steve Jobs
 - [ ] Jeff Bezos
 
