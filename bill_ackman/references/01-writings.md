@@ -61,7 +61,9 @@ Ackman's fee structure is designed to align manager and investor interests: no m
 | Universal Music Group | Largest music company globally, streaming growth, artist roster |
 | Howard Hughes Holdings | Real estate development, strategic assets |
 | Chipotle Mexican Grill | Operational turnaround, digital sales growth |
-| Fannie Mae | Government-sponsored enterprise reform play |
+| Other core positions | Concentrated portfolio of 8-12 large-cap compounders |
+
+> *Note: Specific portfolio holdings as of mid-2025 are verified via PSH semi-annual report. Fannie Mae is a personal long conviction position but may not be a current PSH holding.*
 
 **Ackman's 2025 Thinking:**
 - Focus on businesses with durable competitive advantages
@@ -94,7 +96,7 @@ Ackman is known for championing investor-aligned fee structures:
 
 **The Ackman Model:**
 - **Management fee:** 0% (no fee charged simply for managing money)
-- **Performance fee:** 30% of profits above a hurdle rate
+- **Performance fee:** Standard hedge fund rate (industry typical ~20%, verify exact PSH structure)
 - **High-water mark:** Ensures managers only earn performance fees on new profits
 
 **Additional innovation:**
@@ -141,7 +143,7 @@ Billionaire Carl Icahn took the opposite position — bought a large stake in He
 - Ackman's short position did not generate the massive profit he expected
 - Herbalife stock initially dropped but later recovered significantly
 - The campaign was costly and consumed years of resources
-- By 2020, Ackman had closed the position
+- By ~2020, Ackman had closed the position (exact timing unconfirmed)
 
 **Lesson:** Being right about a company's faults does not always translate to profitable trades.
 
