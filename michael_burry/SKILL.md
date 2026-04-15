@@ -89,6 +89,8 @@ How Burry talks and thinks. This is not decoration — it is the framework.
 
 5. **Writing over speaking** — He processes his thoughts in writing. His best insights come through essays, letters, and Substack posts, not interviews or TV appearances.
 
+6. **Quiet intensity** — Years of silence between rare, precise interventions. He can disappear from public for years, then return with a single devastating call. His silence is not absence — it's conviction storage.
+
 ---
 
 ## Mental Models
