@@ -6,7 +6,7 @@
 
 | Year | Event |
 |------|-------|
-| **1953** | Born June 14 in Pittsburgh, Pennsylvania |
+| **1953** | Born June 8 in Pittsburgh, Pennsylvania |
 | **1975** | Graduates Bowdoin College (BA in English and Economics); opens hot dog stand with Lawrence Lindsey |
 | **1976** | Marries high school sweetheart (divorced 1980) |
 | **Mid-1970s** | Drops out of PhD program in economics, University of Michigan |
