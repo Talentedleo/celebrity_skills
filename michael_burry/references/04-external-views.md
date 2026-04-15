@@ -66,3 +66,42 @@
 ---
 
 *Last updated: 2026-04-15*
+
+---
+
+## Key Documentary Sources
+
+### The Big Short (Book, 2010)
+
+**Author:** Michael Lewis  
+**Significance:** The definitive book on Burry's subprime trade. Vanity Fair article is an excerpt.
+
+### The Greatest Trade Ever (Book, 2009)
+
+**Author:** Gregory Zuckerman  
+**Subject:** Focuses primarily on John Paulson but covers the broader context of the trade that Burry also executed.
+
+### The Big Short (Film, 2015)
+
+**Portrayed by:** Christian Bale  
+**Significance:** Brought Burry's story to mass audience.
+
+---
+
+## Peer Investor Views (Pre-2021)
+
+### Joel Greenblatt
+
+Noticed Burry's message board track record and invested with him early.
+
+### Vanguard / White Mountains Insurance Group
+
+Early investors in Scion Capital who saw his real-time trading track record on Silicon Investor.
+
+### Wall Street Fund Managers
+
+From Vanity Fair: "A money manager at a big Philadelphia value fund" watched his real-time trades during the dot-com era and called his focus "uncanny."
+
+---
+
+*Last updated: 2026-04-15*

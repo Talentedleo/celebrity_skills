@@ -127,3 +127,61 @@
 ---
 
 *Last updated: 2026-04-15*
+
+---
+
+## Pre-2021 Trading Decisions
+
+### Early Track Record (Scion Capital, before subprime)
+
+| Year | Return | vs S&P 500 |
+|------|--------|-------------|
+| Year 1 | +55% | S&P fell 12% |
+| Year 2 | +16% | Market fell dramatically |
+| Year 3 | +50% | Market continued falling |
+
+**Investor composition:** Vanguard, White Mountains Insurance Group, Joel Greenblatt  
+**AUM at peak:** $600 million (before subprime trade)
+
+---
+
+### The Subprime CDS Trade — Full Details (from Vanity Fair, 2010)
+
+**Timing:**
+- Early 2004: First started analyzing subprime
+- End of 2004 to early 2005: Reading actual mortgage bond prospectuses
+- March 19, 2005: Got the idea for CDS on subprime mortgage bonds
+
+**How he found the trade:**
+- Read about the evolution of the US bond market and J.P. Morgan's creation of corporate CDS
+- Realized Wall Street would create CDS on subprime bonds
+- Called Goldman Sachs, Morgan Stanley, Deutsche Bank, Bank of America, UBS, Merrill Lynch, Citigroup
+- Bear Stearns and Lehman: didn't even bother calling (too exposed to mortgage market)
+- 5 firms had no idea what he was talking about
+- Only Deutsche Bank and Goldman Sachs continued the conversation
+
+**Why he needed CDS:**
+- Shorting stocks of homebuilding companies (Pulte Homes, Toll Brothers) was "expensive, indirect, and dangerous"
+- Stock prices could rise longer than he could stay solvent
+
+**His CDS insight:**
+> "The most you could lose were the chips you put on the table, but if your number came up, you made 30, 40, even 50 times your money."
+
+**The teaser rate mechanism:**
+- Mortgages created in early 2005 had 2-year fixed teaser rates (e.g., 6%)
+- In 2007, those rates would jump to 11% and provoke a wave of defaults
+- He figured the trade would take 3 years to pay off (not 30 years theoretical maximum)
+
+---
+
+### Water Investment (Post-2008, from Business Insider 2017)
+
+After closing Scion, Burry invested personal wealth into **water** as the single commodity thesis:
+
+> "Burry's putting all of his money into just one commodity: water."
+
+**Thesis:** Water scarcity as a long-term structural problem, similar to how he analyzed subprime before anyone else.
+
+---
+
+*Last updated: 2026-04-15*

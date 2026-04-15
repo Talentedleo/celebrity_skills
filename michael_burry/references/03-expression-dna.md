@@ -91,3 +91,51 @@ Burry constantly uses history as a lens:
 ---
 
 *Last updated: 2026-04-15*
+
+---
+
+## Additional Pre-2021 Psychology (from Vanity Fair, March 2010)
+
+### The Prosthetic Eye and Social Interaction
+
+> "A boy with one eye sees the world differently from everyone else... If I am looking at you, that's the one time I know I won't be listening to you."
+
+> "His left eye didn't line up with whomever he was trying to talk to; when he was in social situations, trying to make chitchat, the person to whom he was speaking would steadily drift left."
+
+**Social consequence:** Other kids called him cross-eyed, even though he wasn't. The eye "oozed and wept" and required constant attention.
+
+### Pattern Recognition as Compensation
+
+Burry believes his unusual pattern recognition — which serves him so well in investing — is partly compensation for his social limitations:
+
+> "He attributed his unusual powers of concentration to his lack of interest in human interaction, and his lack of interest in human interaction... he was able to argue that basically everything that happened was caused, one way or the other, by his fake left eye."
+
+### The Bipolar Misdiagnosis (Stanford, 1998)
+
+> "In 1998, as a resident in neurology at Stanford Hospital, he mentioned to his superiors that, between 14-hour hospital shifts, he had stayed up two nights in a row taking apart and putting back together his personal computer in an attempt to make it run faster. His superiors sent him to a psychiatrist, who diagnosed Mike Burry as bipolar."
+
+> "He knew instantly he'd been misdiagnosed: how could you be bipolar if you were never depressed?"
+
+### Obsessiveness as Core Trait
+
+> "His mind had no temperate zone: he was either possessed by a subject or not interested in it at all."
+
+> "Even as a small child he had a fantastic ability to focus and learn, with or without teachers."
+
+### On Fairness and Competition
+
+> "His obsession with fairness, for example. When he noticed that pro basketball stars were far less likely to be called for traveling than lesser players, he didn't just holler at the refs. He stopped watching basketball altogether; the injustice of it killed his interest in the sport."
+
+### The Silicon Investor Period (1996-2000)
+
+From his first post on November 1996 ( cardiology rotation at Saint Thomas Hospital):
+
+> "Late one night in November 1996, while on a cardiology rotation at Saint Thomas Hospital, in Nashville, Tennessee, he logged on to a hospital computer and went to a message board called techstocks.com. There he created a thread called 'value investing.'"
+
+He dominated the discussion. Fund managers watched his real-time trades. A Philadelphia fund manager said:
+
+> "The first thing I wondered was: When is he doing this? The guy was a medical intern. I only saw the nonmedical part of his day, and it was simply awesome."
+
+---
+
+*Last updated: 2026-04-15*
