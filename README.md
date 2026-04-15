@@ -79,35 +79,7 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 ---
 
 
-### Michael Burry
-
-**The Cassandra of Wall Street. The physician-turned-investor who predicted the 2008 subprime crisis.**
-
-| Specs | Detail |
-|-------|--------|
-| Mental Models | Margin of Safety, Supply-Side Gluttony, Historical Parallels, Cassandra Framework |
-| Key Trades | Big Short (CDS on subprime bonds), Amazon short (2000), China tech (2024) |
-| Source Material | Cassandra Unchained Substack, Vanity Fair, NY Times Op-Ed, Silicon Investor archives |
-
-> *"All my stock picking is 100% based on the concept of a margin of safety."*
-
-**[SKILL.md](./michael_burry/SKILL.md)** · **[References](./michael_burry/references/)**
-
 ---
-
-### Bill Ackman
-
-**Activist investor. Pershing Square founder. High-conviction, concentrated bets.**
-
-| Specs | Detail |
-|-------|--------|
-| Mental Models | Activist Engagement, Due Diligence, Business Model Durability, Concentration, Fee Alignment |
-| Key Trades | Canadian Pacific, Chipotle, Valeant disaster, Herbalife, Universal Music |
-| Source Material | Pershing Square annual letters, PSH website, CNBC appearances, Congressional testimony |
-
-> *"We make a small number of very high-conviction investments and then we go to work."*
-
-**[SKILL.md](./bill_ackman/SKILL.md)** · **[References](./bill_ackman/references/)**
 
 ## All Skills
 
@@ -117,6 +89,7 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 | [Peter Lynch](./peter_lynch/) | Growth at reasonable price, know-what-you-own | One Up on Wall Street, Beating the Street |
 | [Aswath Damodaran](./aswath_damodaran/) | DCF valuation, story-driven analysis | NYU lectures, valuation books |
 | [Greg Abel](./greg_abel/) | Operational excellence, Berkshire culture | Buffett's succession, operational management |
+| [Stanley Druckenmiller](./stanley_druckenmiller/) | Macro investing, global macro, liquidity | Morgan Stanley interview, Ira Sohn |
 | [Michael Burry](./michael_burry/) | Contrarian value, margin of safety, bubble identification | Cassandra Unchained, Big Short trades |
 | [Bill Ackman](./bill_ackman/) | Activist investing, high-conviction, concentrated bets | Pershing Square letters, Congressional testimony |
 

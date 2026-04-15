@@ -79,35 +79,7 @@
 ---
 
 
-### Michael Burry
-
-**华尔街的卡珊德拉。预测 2008 年次贷危机的医生转行投资者。**
-
-| 指标 | 详情 |
-|------|------|
-| 思维模型 | 安全边际、供给侧暴食、历史类比、卡珊德拉框架 |
-| 关键交易 | 大空头（次贷债券CDS）、做空Amazon（2000）、中国科技（2024） |
-| 来源资料 | Cassandra Unchained Substack、Vanity Fair、纽约时报投稿、Silicon Investor档案 |
-
-> *"我所有的选股100%基于安全边际概念。"*
-
-**[SKILL.md](./michael_burry/SKILL.md)** · **[References](./michael_burry/references/)**
-
 ---
-
-### Bill Ackman
-
-**激进投资者。Pershing Square创始人。高信念、集中持仓。**
-
-| 指标 | 详情 |
-|------|------|
-| 思维模型 | 激进参与、深度尽职调查、商业模式持久性、集中持仓、费用对齐 |
-| 关键交易 | 加拿大太平洋铁路、Chipotle、Valeant灾难、Herbalife、环球音乐 |
-| 来源资料 | Pershing Square年度信、PSH网站、CNBC亮相、国会证词 |
-
-> *"我们做少量高信念投资，然后全力以赴。"*
-
-**[SKILL.md](./bill_ackman/SKILL.md)** · **[References](./bill_ackman/references/)**
 
 ## 全部技能
 
@@ -117,6 +89,7 @@
 | [Peter Lynch](./peter_lynch/) | 合理价格成长、知道你所持有 | One Up on Wall Street、Beating the Street |
 | [Aswath Damodaran](./aswath_damodaran/) | DCF 估值、故事驱动分析 | 纽约大学讲座、估值书籍 |
 | [Greg Abel](./greg_abel/) | 运营卓越、伯克希尔文化 | Buffett 继任、运营管理 |
+| [Stanley Druckenmiller](./stanley_druckenmiller/) | 宏观投资、全球宏观、流动性 | Morgan Stanley 采访、Ira Sohn |
 | [Michael Burry](./michael_burry/) | 逆向价值投资、安全边际、泡沫识别 | Cassandra Unchained、大空头交易记录 |
 | [Bill Ackman](./bill_ackman/) | 激进投资、高信念、集中持仓 | Pershing Square信函、国会证词 |
 
