@@ -1,7 +1,7 @@
 {
   "name": "stanley-druckenmiller",
   "version": "1.0.0",
-  "description": "Stanley Druckenmiller's macro investing philosophy and decision-making framework — the legendary investor who managed $12bn with ~30% annualized returns for 30 years",
+  "description": "Stanley Druckenmiller's macro investing philosophy and decision-making framework \u2014 the legendary investor who managed $12bn with ~30% annualized returns for 30 years",
   "author": "Leo Li",
   "tags": [
     "investing",
@@ -42,7 +42,6 @@
       "url": "https://en.wikipedia.org/wiki/Duquesne_Capital_Management"
     }
   ],
-  "lastUpdated": "2026-04-15",
   "lastUpdated": "2026-04-15",
   "language": "en"
 }
