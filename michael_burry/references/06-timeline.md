@@ -75,6 +75,7 @@
 | **2000** | Dot-com bubble burst | Short Amazon correctly |
 | **2008** | Financial crisis | Short subprime; makes $100M personal |
 | **2021** | Meme stock / crypto mania | Warns of bubbles; exits GameStop early |
+| **2020** | COVID lockdowns | Highly critical of lockdowns; saw economic damage as predictable |
 | **2022** | Crypto collapse | Correct on crypto — held short thesis |
 | **2025** | AI stock mania | Short Nvidia + Palantir via puts |
 | **2025–2026** | Substack era | Writes full analysis, unchained from fund restrictions |

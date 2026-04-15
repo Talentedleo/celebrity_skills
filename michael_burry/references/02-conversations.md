@@ -126,6 +126,14 @@ Burry released a chart comparing the bearish bitcoin state to the 2021–2022 pl
 
 ---
 
+## COVID Lockdowns Stance (2020)
+
+Burry was **highly critical of the COVID-19 lockdowns** in the United States. He believed the economic damage was predictable and that the policy response was disproportionate to the actual risk.
+
+This criticism is consistent with his broader worldview: he favors personal responsibility, minimal government intervention, and is skeptical of consensus-driven policy responses.
+
+---
+
 ## Notable Interview Themes
 
 | Theme | Burry's Position |

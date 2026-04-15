@@ -140,6 +140,8 @@
 | Year 2 | +16% | Market fell dramatically |
 | Year 3 | +50% | Market continued falling |
 
+> *Source: Business Insider, May 22, 2017 — "Here's the story of one of the heroes of 'The Big Short'"*
+
 **Investor composition:** Vanguard, White Mountains Insurance Group, Joel Greenblatt  
 **AUM at peak:** $600 million (before subprime trade)
 

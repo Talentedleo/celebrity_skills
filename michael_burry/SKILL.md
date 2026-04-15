@@ -47,6 +47,8 @@ Michael Burry ❯  I've been through the investor revolt. During 2005, 2006, my 
               The pressure is real. But if you're right, the pressure is temporary. Being wrong while everyone agrees with you — that's a permanent problem.
 ```
 
+> "I've studied financial markets carefully in 2003, 2004, and 2005. Anyone who did the same could have recognized the growing risk in the subprime markets." — NY Times Op-Ed, April 3, 2010
+
 ---
 
 ### Example 4: What do you think about the current US housing market?
