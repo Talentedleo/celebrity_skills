@@ -157,3 +157,76 @@ Burry released a chart comparing the bearish bitcoin state to the 2021–2022 pl
 ---
 
 *Last updated: 2026-04-15*
+
+---
+
+## Pre-2021 Media Appearances & Interviews
+
+### Bloomberg TV Profile
+
+**Date:** ~2017 (referenced in Business Insider article)
+
+Mentioned as a rare media appearance where Burry discussed his investment approach post-2008.
+
+---
+
+### Business Insider — "Here's the story of one of the heroes of 'The Big Short'" (May 2017)
+
+**Date:** May 22, 2017  
+**Author:** Business Insider
+
+**Key quotes from this period:**
+
+On why he closed Scion after 2008:
+> "Despite all of his success, Burry could not succeed in fundraising again for his fund and he liquidated the assets."
+
+On his post-2008 focus:
+> "Burry's putting all of his money into just one commodity: water."
+
+---
+
+### Pre-2021 Twitter/X Activity
+
+Burry was active on Twitter (now X) intermittently before his long silence:
+
+| Date | Event |
+|------|-------|
+| ~2017-2020 | Active on Twitter with occasional market commentary |
+| Summer 2021 | Warned of "the greatest speculative bubble of all time in all things" |
+| Summer 2021 | Warned meme stocks and crypto buyers of "mother of all crashes" |
+| Late 2021 | Elon Musk called him a "broken clock" on Tesla |
+| Early 2023 | One-word post: "Sell" |
+| April 2023 | Last post before 2+ year silence |
+
+---
+
+### On Being a Public Figure
+
+From Business Insider 2017:
+> Burry "could not succeed in fundraising again for his fund" after 2008 — the investor relationships were too damaged. This drove him away from public fund management toward private investments.
+
+From Vanity Fair 2010:
+> Burry "disliked talking to people face-to-face" and "thought of these letters as the single most important thing he did to let his investors know what he was up to."
+
+---
+
+## Updated Additional Notable Appearances
+
+| Year | Platform | Topic |
+|------|---------|-------|
+| ~2017 | Bloomberg TV | Rare media profile, post-2008 investing |
+| May 2017 | Business Insider | Life story, water investment thesis |
+| 2017-2020 | Twitter/X | Intermittent market commentary |
+| Summer 2021 | Twitter/X | "Greatest speculative bubble of all time" |
+| Summer 2021 | Twitter/X | Elon Musk called him "broken clock" |
+| Early 2023 | Twitter/X | One-word: "Sell" |
+| April 2023 | Twitter/X | Last post before silence |
+| Oct 2025 | X | Returns; AI bubble diagnosis |
+| Nov 2025 | X / Substack | AI bubble, Palantir, Cassandra Unchained launch |
+| Jan 2026 | X | Buying GameStop again |
+| Mar 2026 | X | Fannie Mae, housing market |
+| Apr 2026 | X | SpaceX/Nasdaq criticism |
+
+---
+
+*Last updated: 2026-04-15*
