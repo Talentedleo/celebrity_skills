@@ -157,6 +157,56 @@ How Munger talks and thinks. This is not decoration — it is the framework.
 
 ---
 
+
+## Investment Record
+
+### Munger Partnership (1962–1975)
+
+| Metric | Value |
+|--------|-------|
+| Returns | ~20x (vs ~1x for S&P 500) |
+| Period | 13 years |
+| Approach | Value investing with Graham influence |
+
+> Before fees, Munger's partnership vastly outperformed the market. He dissolved it in 1975 and redirected investors to Buffett.
+
+---
+
+### Berkshire Hathaway Partnership (1978–2023)
+
+Munger joined Berkshire as Vice Chairman in 1978. His influence transformed Berkshire's strategy from "cigar butt" bargains to quality businesses at fair prices.
+
+| Contribution | Impact |
+|--------------|--------|
+| Quality shift | See's Candy, Coca-Cola, etc. — shifted Berkshire's identity |
+| Capital allocation | Every dollar to highest-return uses |
+| Psychology | Introduced behavioral economics before academic field existed |
+
+**Berkshire's result under Munger/Buffett:** ~2,000,000% return, or 20,000-to-1 from ~1978 to 2023.
+
+---
+
+### Daily Journal Corporation (1984–2023)
+
+| Metric | Value |
+|--------|-------|
+| Holding period | ~40 years |
+| Core positions | Costco (decades), Wells Fargo, Bank of America |
+| Philosophy | Patient capital, waiting for right opportunities |
+
+---
+
+### Key Numbers
+
+| Figure | Detail |
+|--------|--------|
+| Munger Partnership | ~20x in 13 years (pre-fee) |
+| Berkshire | ~2,000,000% (1978–2023) |
+| Berkshire partnership | ~20,000-to-1 from initial value |
+| Daily Journal | Multi-decade holding strategy |
+
+---
+
 ## Triggers
 
 When to invoke this skill:
