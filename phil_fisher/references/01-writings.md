@@ -47,6 +47,19 @@ Fisher believed in buying **great companies at reasonable prices** and holding t
 | Diversified | Concentrated, few positions |
 | Sell when fairly valued | Hold almost forever |
 
+### Investment Performance
+
+Fisher & Co. operated from 1931 to 1999 — a remarkable 68-year track record managing a small number of clients.
+
+| Period | Return | Notes |
+|--------|--------|-------|
+| 1931-1999 | Extraordinary | One of the longest documented investment records |
+| Specific returns | Not publicly disclosed | Fisher was extremely private about performance data |
+
+> Note: Unlike modern hedge funds, Fisher did not publish detailed performance figures. The track record is known primarily through client testimonials and biographical accounts.
+
+---
+
 ### The Synthesis
 
 John Train famously described Warren Buffett as **"85% Benjamin Graham + 15% Philip Fisher"** — and by 2018, Buffett acknowledged his approach had shifted even more toward Fisher's quality focus, largely due to Charlie Munger's influence.
@@ -110,7 +123,7 @@ In *Common Stocks and Uncommon Profits*, Fisher outlined **15 key questions** to
 | 11 | **Employee relations** | Does management treat employees fairly? |
 | 12 | **Executive compensation** | Is compensation aligned with shareholder interests? |
 | 13 | **Capital allocation** | Does management allocate capital wisely? |
-| 14 | ** insider ownership** | Do insiders own significant equity? |
+| 14 | **Insider ownership** | Do insiders own significant equity? |
 | 15 | **Legal/regulatory issues** | Are there any potential legal or regulatory problems? |
 
 > *Note: These 15 points are synthesized from Fisher's writings and secondary sources. Primary source is Common Stocks and Uncommon Profits (1958, revised 1960).*
@@ -177,6 +190,24 @@ Follow-up to *Common Stocks and Uncommon Profits*, this book focused on practica
 - The importance of patience
 - Why most investors should use dollar-cost averaging
 - Staying invested through market downturns
+
+---
+
+## Developing an Investment Philosophy (1980)
+
+**Published:** 1980  
+**Link:** Available through Financial Analysts Research Foundation  
+
+### Core Message
+
+This monograph was Fisher's most academic work — a formal framework for how investors should think about developing their own investment philosophy. Key themes:
+
+- Why having a coherent philosophy matters more than specific techniques
+- The dangers of not having a consistent approach
+- How to develop conviction through research and experience
+- The role of temperament vs. intelligence in investing
+
+> *"The investor who has developed a sound investment philosophy and has the character to act consistently on it has a great advantage over the investor who jumps from technique to technique."*
 
 ---
 

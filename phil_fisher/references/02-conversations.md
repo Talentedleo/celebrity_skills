@@ -48,6 +48,20 @@ He also noted that Fisher's scuttlebutt technique is still used at Berkshire:
 
 > *"Using Fisher's scuttlebutt technique continues to be a good way of investing"* — and specifically mentioned that **Ted Weschler and Todd Combs** (Berkshire's portfolio managers) continue to use this approach.
 
+### The 85% Graham + 15% Fisher
+
+John Train first described Buffett's approach as "85% Benjamin Graham and 15% Philip Fisher." Buffett later acknowledged this had shifted:
+
+> *"Charlie Munger pushed me in the direction of Fisher... I was 85% Graham and 15% Fisher in those days, but now I'm maybe 70% Graham and 30% Fisher."*
+
+This shift was most visible in the **See's Candy acquisition (1972)** — the first time Berkshire paid a premium for a quality business rather than hunting for bargains. Pure Fisher.
+
+### On Motorola
+
+Buffett also commented on Fisher's Motorola hold:
+
+> *"Phil bought Motorola in 1955 and held it until he died. That's what conviction looks like."*
+
 ### The Munger Connection
 
 Charlie Munger pushed Buffett toward Fisher's quality-focused approach. The investment in **See's Candy** was an early example where Berkshire paid up for a quality business — pure Fisher.
@@ -148,6 +162,28 @@ Fisher's work is taught in business schools as part of the evolution of value/gr
 | **2004** | New York Times | Obituary |
 | **2004** | Forbes | Obituary by Kenneth Fisher |
 | **2004** | The Motley Fool | Tribute to Phil Fisher |
+
+---
+
+## Direct Quotes from Phil Fisher
+
+### From Common Stocks and Uncommon Profits
+
+> *"There are two fundamental approaches to investment. There's the approach Ben Graham pioneered — find something intrinsically so cheap that there's little chance of it having a big decline. Then there's my approach — find something so good that if you don't pay too much for it, it will have very, very large growth."*
+
+> *"If the job has been correctly done when a common stock is purchased, the time to sell it is almost never."*
+
+> *"The big money isn't made in the buying or the selling, but in the waiting."*
+
+> *"More money has probably been lost by investors holding a stock they really did not want until they could 'at least come out even' than from any other single reason."*
+
+> *"The successful investor is usually an individual who is inherently interested in business problems."*
+
+### On Finding Opportunities
+
+> *"Great stocks are extremely hard to find. If they weren't, then everyone would own them. The record is crystal clear that fortune-producing growth stocks can be found. However, they cannot be found without hard work and they cannot be found every day."*
+
+> *"Focus on buying these companies when they are out of favor — when either because of general market conditions or because the financial community at the moment has misconceptions of its true worth, the stock is selling at prices well under what it will be when it's true merit is better understood."*
 
 ---
 

@@ -52,6 +52,28 @@
 
 ---
 
+## Other Notable Investments
+
+Beyond Motorola, Fisher was known for owning a very small number of positions. Some of his known investment themes:
+
+### Technology and Growth Companies
+
+Fisher specialized in innovative companies driven by research and development — decades before "Silicon Valley" became a known term. His focus on R&D-driven companies was unusual for his era.
+
+### The Concentration Approach
+
+Because Fisher concentrated so heavily, his known positions were few:
+- **Motorola** — the most famous, held 49 years
+- **Other growth companies** — names not publicly documented due to his extreme privacy
+
+> *"I don't want a lot of good investments; I want a few outstanding ones."*
+
+### Why So Few Positions?
+
+With only a small number of clients and a research-intensive approach, Fisher could only deeply cover a handful of companies at a time. This forced concentration — and the compounding in those few positions was extraordinary.
+
+---
+
 ## Notable Investment Principles
 
 ### On Selling
