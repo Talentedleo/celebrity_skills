@@ -156,6 +156,38 @@ Before you can be a good investor, you need a foundation of **multidisciplinary 
 | **Physics** | Equilibrium, threshold effects | Markets seek equilibrium; breaks above/below thresholds |
 | **Biology** | Evolution, natural selection | Competitive advantages must evolve or die |
 | **Psychology** | All 25 tendencies | Understanding misjudgment is essential |
+
+### The Complete 25 Psychological Tendencies
+
+| # | Tendency | Antidote |
+|---|---------|----------|
+| 1 | Reward/Punishment Superpower | Be aware of incentive bias |
+| 2 | Liking/Loving Tendency | Watch for bias toward people you like |
+| 3 | Disliking/Hating Tendency | Counteract with fairness |
+| 4 | Doubt-Avoidance Tendency | Embrace uncertainty slowly |
+| 5 | Inconsistency-Avoidance Tendency | Welcome new information |
+| 6 | Curiosity Tendency | Channel productively |
+| 7 | Paternalistic Tendency | Verify independently |
+| 8 | Optimism/Pessimism Tendency | Calibrate realistically |
+| 9 | Excessive Self-Regard Tendency | Use objective benchmarks |
+| 10 | Dehumanization Tendency | Recognize shared humanity |
+| 11 | Influence from Motivation | Check motives transparently |
+| 12 | Mental Simulation Tendency | Stress-test scenarios |
+| 13 | Confabulation Tendency | Verify facts independently |
+| 14 | Authority Bias | Question experts |
+| 15 | Testing/Confirmation Bias | Seek disconfirming evidence |
+| 16 | Stress Effect | Pause before major decisions |
+| 17 | Outcome Misweighting | Judge decisions by process, not results |
+| 18 | Change Affinity | Distinguish change from progress |
+| 19 | Contrast Effect | Use absolute standards |
+| 20 | Availability Heuristic | Use base rates |
+| 21 | Underestimating Randomness | Recognize random patterns |
+| 22 | Coarse Sorting | Use continuous distributions |
+| 23 | Authority Bias from Authority | Challenge credentials |
+| 24 | Commonfollower Bias | Think independently |
+| 25 | Present-Bias | Discount present heavily |
+
+> *Source: Poor Charlie's Almanack — The Psychology of Human Misjudgment (full list with detailed descriptions available at fs.blog/great-talks/psychology-human-misjudgment/)*
 | **Economics** | Comparative advantage, network effects | Understanding market structures |
 | **Engineering** | Back-up systems, margin of safety | Building in redundancy; never over-leverage |
 

@@ -16,7 +16,7 @@
 
 ---
 
-### 2. Costco — The "Hell Yes" Decision (2002)
+### 2. Costco — The "Hell Yes" Decision (Early 2000s)
 
 | Detail | Value |
 |--------|-------|
@@ -91,7 +91,7 @@ Unlike many hedge fund operators, Munger rarely used significant leverage. Berks
 |-------|----------------|--------|
 | **Early fund performance** | Munger Partnership (1972-73) was too concentrated early on | Concentration risk is real |
 | **See's Candies timing** | Initial hesitation before Berkshire acquired See's | Patience in deploying capital is hard |
-| **Not buying Google early** | Munger admitted missing Google was a mistake | Even legends miss some |
+| **Not buying Google early** | Munger admitted missing Google was a mistake — described it as a clear oversight | Munger acknowledged he underestimated Google's商业模式 durability |
 
 ---
 
