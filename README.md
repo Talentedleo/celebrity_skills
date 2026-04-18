@@ -92,6 +92,8 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 | [Stanley Druckenmiller](./stanley_druckenmiller/) | Macro investing, global macro, liquidity | Morgan Stanley interview, Ira Sohn |
 | [Michael Burry](./michael_burry/) | Contrarian value, margin of safety, bubble identification | Cassandra Unchained, Big Short trades |
 | [Bill Ackman](./bill_ackman/) | Activist investing, high-conviction, concentrated bets | Pershing Square letters, Congressional testimony |
+| [Charlie Munger](./charlie_munger/) | Multidisciplinary thinking, lollapalooza, inversion | Poor Charlie's Almanack, Berkshire Hathaway |
+| [Phil Fisher](./phil_fisher/) | Growth investing, scuttlebutt, GARP | Common Stocks and Uncommon Profits |
 
 ---
 

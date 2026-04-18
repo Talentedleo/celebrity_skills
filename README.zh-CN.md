@@ -92,6 +92,8 @@
 | [Stanley Druckenmiller](./stanley_druckenmiller/) | 宏观投资、全球宏观、流动性 | Morgan Stanley 采访、Ira Sohn |
 | [Michael Burry](./michael_burry/) | 逆向价值投资、安全边际、泡沫识别 | Cassandra Unchained、大空头交易记录 |
 | [Bill Ackman](./bill_ackman/) | 激进投资、高信念、集中持仓 | Pershing Square信函、国会证词 |
+| [Charlie Munger](./charlie_munger/) | 多学科思维、lollapalooza、倒置法 | Poor Charlie's Almanack、伯克希尔 |
+| [Phil Fisher](./phil_fisher/) | 成长股投资、scuttlebutt、GARP | Common Stocks and Uncommon Profits |
 
 ---
 
