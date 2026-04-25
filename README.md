@@ -94,6 +94,11 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 | [Bill Ackman](./bill_ackman/) | Activist investing, high-conviction, concentrated bets | Pershing Square letters, Congressional testimony |
 | [Charlie Munger](./charlie_munger/) | Multidisciplinary thinking, lollapalooza, inversion | Poor Charlie's Almanack, Berkshire Hathaway |
 | [Phil Fisher](./phil_fisher/) | Growth investing, scuttlebutt, GARP | Common Stocks and Uncommon Profits |
+| [Jim Simons](./jim-simons/) | Quantitative investing, signal detection, mathematical models | The Man Who Solved the Market, Renaissance Technologies, Simons Foundation |
+| [Ken Griffin](./ken-griffin/) | Multi-strategy hedge fund, platform building, market making | Citadel LLC, Citadel Securities, Congressional testimony |
+| [Cathie Wood](./cathie-wood/) | Disruptive innovation, ARK Invest, thematic investing | ARK Big Ideas reports, TED Talks, Twitter |
+| [Ray Dalio](./ray-dalio/) | Principles-based macro, bridgewater risk parity | Principles book, Economic Machine video |
+| [Warren Buffett](./warren-buffett/) | Value investing, moats, capital allocation, circle of competence | Berkshire Hathaway letters, annual meetings, shareholder interviews |
 
 ---
 

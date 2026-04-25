@@ -94,6 +94,11 @@
 | [Bill Ackman](./bill_ackman/) | 激进投资、高信念、集中持仓 | Pershing Square信函、国会证词 |
 | [Charlie Munger](./charlie_munger/) | 多学科思维、lollapalooza、倒置法 | Poor Charlie's Almanack、伯克希尔 |
 | [Phil Fisher](./phil_fisher/) | 成长股投资、scuttlebutt、GARP | Common Stocks and Uncommon Profits |
+| [Jim Simons](./jim-simons/) | 量化投资、信号检测、数学模型 | The Man Who Solved the Market、Renaissance Technologies、Simons Foundation |
+| [Ken Griffin](./ken-griffin/) | 多策略对冲基金、平台建设、做市商 | Citadel LLC、Citadel Securities、国会证词 |
+| [Cathie Wood](./cathie-wood/) | 颠覆性创新、ARK Invest、主题投资 | ARK Big Ideas 报告、TED 演讲、Twitter |
+| [Ray Dalio](./ray-dalio/) | 原则驱动宏观、桥水风险平价 | 《原则》书籍、《经济机器》视频 |
+| [Warren Buffett](./warren-buffett/) | 价值投资、护城河、资本配置、能力圈 | 伯克希尔年报、股东大会、股东访谈 |
 
 ---
 
