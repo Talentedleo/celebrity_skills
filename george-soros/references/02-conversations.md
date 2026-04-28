@@ -4,107 +4,77 @@
 
 ---
 
-## 1. Davos Address: "The Fight of Our Lives" (May 2022)
-
-**Source:** [Project Syndicate](https://www.project-syndicate.org/onpoint/davos-address-open-society-against-russia-china-by-george-soros-2022-05)
-
-Soros framed the Ukraine war as the latest battle for open-society ideals, implicating China as well.
-
-> "The European Union was built on the principle that economic integration would lead to political integration. But that principle proved false."
-
----
-
-## 2. Project Syndicate Column: "Can Democracy Survive the Polycrisis?" (June 2023)
-
-**Source:** [Project Syndicate](https://www.project-syndicate.org/commentary/can-democracy-survive-polycrisis-artificial-intelligence-climate-change-ukraine-war-by-george-soros-2023-06)
-
-Soros called attention to growing challenges posed by AI, climate change, and the war in Ukraine as a "polycrisis" threatening democratic institutions worldwide.
-
----
-
-## 3. Anecdote: The Holocaust and Survival
+## 1. Michael Lewis Interview: On Surviving the Holocaust
 
 **Source:** [Wikipedia](https://en.wikipedia.org/wiki/George_Soros)
 
-At age 13 (1944), Soros was asked by the Jewish Council to deliver deportation notices. His father recognized the slips:
+In a memorable interview with writer Michael Lewis, Soros described his experience at age 13 during the Nazi occupation of Hungary:
 
-> "You deliver the slips of paper and tell the people that if they report they will be deported."
+> "The Jewish Council asked the little kids to hand out the deportation notices. I was told to go to the Jewish Council. And there I was given these small slips of paper... I took this piece of paper to my father. He instantly recognized it. This was a list of Hungarian Jewish lawyers. He said, 'You deliver the slips of paper and tell the people that if they report they will be deported.' I'm not sure to what extent he knew they were going to be gassed. I did what my father said."
 
 Soros later wrote that 1944 had been "the happiest year of his life" — not because of the horror, but because it gave him the opportunity to witness his father's heroism.
 
 ---
 
-## 4. Anecdote: Karl Popper's Influence at LSE
+## 2. LA World Affairs Council (2006): From Immigrant to Financier
 
-**Source:** [Wikipedia](https://en.wikipedia.org/wiki/George_Soros)
+**Source:** [LA World Affairs Council](https://en.wikipedia.org/wiki/George_Soros)
 
-At the London School of Economics, Soros studied under the philosopher Karl Popper. Popper's concept of the "Open Society" became the foundation of Soros' philanthropy, while Popper's scientific fallibilism informed his theory of reflexivity.
-
-> "I consider the situation as an algebraic equation with two variables — my views and the actual course of events — that are mutually determining."
-
----
-
-## 5. Anecdote: The London Merchant Bank Rejection
-
-**Source:** [LA World Affairs Council, 2006](https://en.wikipedia.org/wiki/George_Soros)
-
-When asked how he went from immigrant to financier:
+When asked by Alvin Shuster (former LA Times foreign editor) "How does one go from an immigrant to a financier?":
 
 > "I had a variety of jobs and I ended up selling fancy goods on the seaside, souvenir shops, and I thought, that's really not what I was cut out to do. So, I wrote to every managing director in every merchant bank in London, got just one or two replies, and eventually that's how I got a job in a merchant bank."
 
 ---
 
-## 6. Anecdote: Black Wednesday (September 16, 1992)
+## 3. Davos Address: "The Fight of Our Lives" (May 2022)
 
-**Source:** Various
+**Source:** [Project Syndicate](https://www.project-syndicate.org/onpoint/davos-address-open-society-against-russia-china-by-george-soros-2022-05)
 
-The defining trade of Soros' career. He shorted $10 billion of pounds sterling, betting against the Bank of England's ability to maintain the pound within the European Exchange Rate Mechanism (ERM).
-
-**The Call:** The UK's high interest rates were unsustainable. The reflexive loop between market pressure and government policy would force a devaluation.
-
-**The Result:** The UK withdrew from the ERM. Soros made $1 billion in profit. He became known as "The Man Who Broke the Bank of England."
+Soros framed the Ukraine war as the latest battle for open-society ideals — implicating China as well.
 
 ---
 
-## 7. Anecdote: The Super-Bubble Thesis (2007–2008)
+## 4. Project Syndicate Column: "Can Democracy Survive the Polycrisis?" (June 2023)
 
-**Source:** [The New Paradigm for Financial Markets, 2008](https://www.amazon.com/New-Paradigm-Financial-Markets-Credit/dp/1586486837)
+**Source:** [Project Syndicate](https://www.project-syndicate.org/commentary/can-democracy-survive-polycrisis-artificial-intelligence-climate-change-ukraine-war-by-george-soros-2023-06)
 
-Soros identified a "super-bubble" — a multi-decade, multi-layered bubble involving credit expansion, securitization, and financial deregulation — years before the 2008 crash.
+Soros called attention to AI, climate change, and the Ukraine war as a "polycrisis" threatening democratic institutions.
+
+---
+
+## 5. Karl Popper's Influence at LSE
+
+**Source:** [Wikipedia](https://en.wikipedia.org/wiki/George_Soros)
+
+At LSE, Soros studied under Karl Popper. The concept of "Open Society" became the foundation of his philanthropy, while scientific fallibilism informed his theory of reflexivity.
+
+---
+
+## 6. Black Wednesday — The Defining Trade (September 16, 1992)
+
+**Source:** Various
+
+Soros shorted $10 billion of pounds sterling against the Bank of England's ability to maintain the ERM. The UK withdrew, Soros made $1 billion in a single day — "The Man Who Broke the Bank of England."
+
+---
+
+## 7. The Super-Bubble Thesis (2007–2008)
+
+**Source:** [The New Paradigm for Financial Markets](https://www.amazon.com/New-Paradigm-Financial-Markets-Credit/dp/1586486837)
 
 > "The current financial crisis was not caused by some external shock like a rise in oil prices or a terrorist attack. It was generated by the financial system itself."
 
 ---
 
-## 8. Anecdote: The $18 Billion Transfer to OSF (2017)
-
-**Source:** [AP News, 2025](https://apnews.com/article/george-soros-philanthropy-open-society-foundations)
-
-In 2017, Soros transferred $18 billion to the Open Society Foundations endowment, cementing his transition from investor to philanthropist.
-
----
-
-## 9. Anecdote: Generational Transition to Alex Soros (2023)
-
-Soros transferred control of Open Society Foundations to his son Alexander Soros, marking the end of his direct involvement in the organization he founded.
-
----
-
-## 10. Anecdote: The Presidential Medal of Freedom (January 2025)
-
-Soros received the Presidential Medal of Freedom, the nation's highest civilian honor, recognizing his philanthropic contributions to democracy and human rights worldwide.
-
----
-
-## 11. Anecdote: On His Investment Method
+## 8. On His Investment Method
 
 > "I consider the situation as an algebraic equation with two variables — my views and the actual course of events — that are mutually determining. I am a participant whose thinking is part of the outcome I am trying to influence."
 
-This is Soros' single most important intellectual statement — expressing the essence of reflexivity in one sentence.
+Soros' single most important intellectual statement — reflexivity in one sentence.
 
 ---
 
-## 12. Key Soros Quotes on Markets
+## 9. Key Soros Quotes on Markets & Life
 
 > "Markets are constantly in a state of uncertainty and flux, and money is made by discounting the obvious and betting on the unexpected."
 
@@ -116,7 +86,7 @@ This is Soros' single most important intellectual statement — expressing the e
 
 ---
 
-## 13. Key Appearances Summary
+## 10. Key Appearances Summary
 
 | Date | Venue | Topic |
 |------|-------|-------|
@@ -126,7 +96,7 @@ This is Soros' single most important intellectual statement — expressing the e
 | 2022 Jul | Project Syndicate | US democracy under attack |
 | 2022 May | Davos / Project Syndicate | Ukraine war, fight for open society |
 | 2019 | Various | In Defense of Open Society book tour |
-| 2006 | LA World Affairs Council | Early career and immigrant story |
+| 2006 | LA World Affairs Council | From immigrant to financier story |
 
 ---
 

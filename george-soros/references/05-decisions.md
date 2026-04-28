@@ -123,3 +123,17 @@ Mainstream economists argue that Soros' theory is not a scientific theory becaus
 ---
 
 *Compiled April 2026. Sources linked. English only.*
+
+## Case 10: Founding Central European University (1991) and Relocation to Vienna (2019)
+
+**The Decision:** Founded CEU in 1991 in Budapest with a $250 million endowment — one of the largest university endowments in Europe at the time.
+
+**The Mission:** Promote open society values in post-communist Central Europe by creating a Western-modeled international university focused on social sciences and humanities.
+
+**The Success:** CEU became an elite institution, consistently ranked among the top universities in Europe for social sciences.
+
+**The Crisis (2018-2019):** Hungarian PM Viktor Orban's government passed "Lex CEU" legislation targeting the university's operations. Soros refused to comply with the new restrictions, moving the university to Vienna.
+
+**The Final Decision:** Rather than compromise academic freedom, Soros chose to relocate the entire university — a dramatic and expensive move.
+
+**The Lesson:** Some principles are worth more than the institution itself. Academic freedom > location.
