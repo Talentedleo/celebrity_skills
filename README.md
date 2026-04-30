@@ -84,22 +84,21 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 ## All Skills
 
 | Skill | Focus | Source Material |
-|-------|-------|-----------------|
-| [Benjamin Graham](./benjamin_graham/) | Value investing, intelligent investor | Security Analysis, The Intelligent Investor |
-| [Peter Lynch](./peter_lynch/) | Growth at reasonable price, know-what-you-own | One Up on Wall Street, Beating the Street |
 | [Aswath Damodaran](./aswath_damodaran/) | DCF valuation, story-driven analysis | NYU lectures, valuation books |
-| [Greg Abel](./greg_abel/) | Operational excellence, Berkshire culture | Buffett's succession, operational management |
-| [Stanley Druckenmiller](./stanley_druckenmiller/) | Macro investing, global macro, liquidity | Morgan Stanley interview, Ira Sohn |
-| [Michael Burry](./michael_burry/) | Contrarian value, margin of safety, bubble identification | Cassandra Unchained, Big Short trades |
+| [Benjamin Graham](./benjamin_graham/) | Value investing, intelligent investor | Security Analysis, The Intelligent Investor |
 | [Bill Ackman](./bill_ackman/) | Activist investing, high-conviction, concentrated bets | Pershing Square letters, Congressional testimony |
+| [Cathie Wood](./cathie-wood/) | Disruptive innovation, ARK Invest, thematic investing | ARK Big Ideas reports, TED Talks, Twitter |
 | [Charlie Munger](./charlie_munger/) | Multidisciplinary thinking, lollapalooza, inversion | Poor Charlie's Almanack, Berkshire Hathaway |
-| [Phil Fisher](./phil_fisher/) | Growth investing, scuttlebutt, GARP | Common Stocks and Uncommon Profits |
+| [George Soros](./george-soros/) | Reflexivity theory, macro investing, boom-bust cycles | The Alchemy of Finance, Soros on Soros, financial crisis trades |
+| [Greg Abel](./greg_abel/) | Operational excellence, Berkshire culture | Buffett's succession, operational management |
 | [Jim Simons](./jim-simons/) | Quantitative investing, signal detection, mathematical models | The Man Who Solved the Market, Renaissance Technologies, Simons Foundation |
 | [Ken Griffin](./ken-griffin/) | Multi-strategy hedge fund, platform building, market making | Citadel LLC, Citadel Securities, Congressional testimony |
-| [Cathie Wood](./cathie-wood/) | Disruptive innovation, ARK Invest, thematic investing | ARK Big Ideas reports, TED Talks, Twitter |
+| [Michael Burry](./michael_burry/) | Contrarian value, margin of safety, bubble identification | Cassandra Unchained, Big Short trades |
+| [Peter Lynch](./peter_lynch/) | Growth at reasonable price, know-what-you-own | One Up on Wall Street, Beating the Street |
+| [Phil Fisher](./phil_fisher/) | Growth investing, scuttlebutt, GARP | Common Stocks and Uncommon Profits |
 | [Ray Dalio](./ray-dalio/) | Principles-based macro, bridgewater risk parity | Principles book, Economic Machine video |
+| [Stanley Druckenmiller](./stanley_druckenmiller/) | Macro investing, global macro, liquidity | Morgan Stanley interview, Ira Sohn |
 | [Warren Buffett](./warren-buffett/) | Value investing, moats, capital allocation, circle of competence | Berkshire Hathaway letters, annual meetings, shareholder interviews |
-
 ---
 
 ## Quick Start
