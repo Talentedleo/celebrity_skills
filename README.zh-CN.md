@@ -84,6 +84,7 @@
 ## 全部技能
 
 | 技能 | 专注领域 | 来源资料 |
+|-------|---------|------------|
 | [Aswath Damodaran](./aswath_damodaran/) | DCF 估值、故事驱动分析 | 纽约大学讲座、估值书籍 |
 | [Benjamin Graham](./benjamin_graham/) | 价值投资、聪明投资者 | Security Analysis、The Intelligent Investor |
 | [Bill Ackman](./bill_ackman/) | 激进投资、高信念、集中持仓 | Pershing Square信函、国会证词 |

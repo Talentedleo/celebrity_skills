@@ -84,6 +84,7 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 ## All Skills
 
 | Skill | Focus | Source Material |
+|-------|---------|----------------|
 | [Aswath Damodaran](./aswath_damodaran/) | DCF valuation, story-driven analysis | NYU lectures, valuation books |
 | [Benjamin Graham](./benjamin_graham/) | Value investing, intelligent investor | Security Analysis, The Intelligent Investor |
 | [Bill Ackman](./bill_ackman/) | Activist investing, high-conviction, concentrated bets | Pershing Square letters, Congressional testimony |
