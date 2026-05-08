@@ -1,5 +1,8 @@
 # 01-writings.md — Edward O. Thorp's Writings & Core Ideas
 
+> 
+> ⚠️ **Note on sources:** Thorp's official site (edwardothorp.com/books/) lists only 3 books. Additional books listed below (The Mathematics of Gambling, Elementary Probability, The Kelly Capital Growth Investment Criterion) are verified via Wikipedia and Open Library catalog records, not Thorp's own books page.
+
 > All original English quotes. Sources linked where available.
 
 ---
