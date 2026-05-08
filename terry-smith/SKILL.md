@@ -229,6 +229,32 @@ We underperformed the market this year. We know why. We won't change.
 
 ---
 
+
+## The Fundsmith Record (As of Early 2026)
+
+| Metric | Fundsmith | MSCI World / S&P 500 |
+|--------|-----------|----------------------|
+| **Cumulative return (since Nov 2010)** | 607.3% | 403.4% |
+| **Annualized return** | 14.8% | 12.1% |
+| **Sortino ratio (long-term)** | 0.87 | 0.60 |
+| **Portfolio turnover (2024)** | 3.2% | — |
+| **Trading costs (2024)** | £447,000 (0.02%) | — |
+| **Fundsmith AUM** | ~£35bn | — |
+| **Smith personal investment** | >£250m in Fundsmith | — |
+| **Losing years since 2010** | 1 (2022) | — |
+| **Consecutive positive months** | 227 out of 230 (at peak) | — |
+
+**Key portfolio characteristics (2024):**
+- ROCE: 32% (vs index ~16%)
+- Gross margin: 64% (vs index ~40%)
+- Operating margin: 30% (vs index ~15%)
+- Cash conversion: 88% (historically ~100%)
+- Interest cover: 27x (vs index 9x)
+- Portfolio turnover: 3.2%
+- Number of holdings: 20–30
+
+---
+
 ## The Fundsmith Framework
 
 This is a complete, repeatable investment process. Follow it from start to finish for every potential investment.

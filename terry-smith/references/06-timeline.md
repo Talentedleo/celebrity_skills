@@ -94,6 +94,9 @@
 
 **2018:** Bought Meta (Facebook) during the Cambridge Analytica scandal. Stock had dropped 40% from highs.
 
+
+**2018 (October):** Launched Smithson Investment Trust (LSE:SSON) — a sister fund investing in smaller high-quality companies, managed by Fundsmith team under same high-ROCE framework. Raised £250m on day one, grew to over £2bn.
+
 **2018:** Published "The Case Against Active Fund Management — and Why I'm the Exception" in the Financial Times.
 
 **2018:** Appeared on BBC Radio 4's *Desert Island Discs*.
@@ -148,6 +151,12 @@
 ---
 
 ## 2026: Present
+
+**2012:** Appointed Member of the New Zealand Order of Merit (MNZM) for services to New Zealand–UK relations, for leading the Sir Keith Park Memorial Campaign that erected a statue of the wartime hero in Trafalgar Square.
+
+**2016:** Received Honorary Fellowship from Cardiff University (his alma mater).
+
+**2026 (February):** Held 16th Annual Shareholder Meeting at Central Hall Westminster. Fundsmith Equity Fund cumulative return since inception (Nov 2010): 607.3%. Annualized: 14.8%. Performance in 2025: lagged the market. Smith reiterated commitment to quality framework despite recent underperformance.
 
 Smith continues to run Fundsmith. Age 73. Still working. Still investing. Still straight-talking.
 
