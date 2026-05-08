@@ -92,6 +92,17 @@ Sleep's most distinctive trait is his ability to recognize "enough."
 
 ---
 
+
+### 7. Socratic Questioning
+
+Sleep's letters are structured around questions rather than declarations. He poses a problem, explores alternative answers, and arrives at his conclusion through dialogue with the reader.
+
+> "Why would a business deliberately leave money on the table? The answer tells you everything about its competitive position."
+
+> "If the best businesses share their scale economies, why don't all businesses do it?"
+
+**Application:** This style forces the reader (and the writer) to think from first principles rather than accepting received wisdom.
+
 ## Sleep's Decision-Making Heuristics
 
 | Heuristic | Description | Example |

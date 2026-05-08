@@ -81,6 +81,19 @@
 
 ---
 
+
+## Decision 6b: The "Parking Lot" Thesis — B&B Electronics / Service Businesses
+
+**Context:** Sleep identified small-cap service businesses that were effectively invisible to Wall Street but had powerful SES dynamics.
+
+**The Insight:** The best small businesses are "boring" — they operate in unglamorous industries where large competitors do not bother to compete. These businesses can grow for decades by being better, cheaper, and more reliable than fragmented local competition.
+
+**Examples from Nomad letters:** Small industrial distributors, niche manufacturers, and service companies where scale gave a genuine cost advantage that could be shared with customers.
+
+> "The best businesses are often the most boring. Nobody studies them. Nobody competes with them. They just compound quietly for decades."
+
+**Result:** These "parking lot" positions added diversification without sacrificing returns.
+
 ## Decision 7: Writing Letters Unmatched in Candor (Ongoing)
 
 **Context:** Most fund letters are marketing documents. Sleep's were not.

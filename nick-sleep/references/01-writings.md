@@ -134,6 +134,15 @@ Sleep invested in CarMax based on a SES analysis of the used car market. He argu
 
 ---
 
+
+### c. 2006-2012 — InterContinental Hotels Group (IHG)
+
+Sleep identified IHG as an SES business in a services context. IHG franchises hotel brands (Holiday Inn, Crowne Plaza) to independent owners. As IHG grows its network, it can offer franchisees better systems, lower cost global distribution, and more efficient marketing. The scale benefit is shared with franchisees through lower franchise fees and better service.
+
+> "IHG does not own hotels. It owns brands and systems. The more hotels in the system, the more valuable the system becomes to each hotel. This is SES applied to services."
+
+**Key insight:** SES applies not just to product businesses (Costco, Amazon) but to platform and network businesses where value increases with scale.
+
 ### 2014 — Final Letter: Closing the Fund
 
 **The most famous Nomad letter.** Sleep announced the closure of the partnership at the peak of its success.
