@@ -59,15 +59,6 @@ Pabrai is a frequent speaker at value investing conferences.
 
 ---
 
-## Sources
-
-| Source | Link |
-|--------|------|
-| Chai with Pabrai Podcast | [chaiwithpabrai.com](https://www.chaiwithpabrai.com) |
-| TIP120 - The Dhandho Investor | [youtube.com](https://www.youtube.com/watch?v=MNBck9wixkU) |
-| Smallcase Profile | [smallcase.com](https://www.smallcase.com/star-investors/mohnish-pabrai-portfolio/) |
-| The Financial Economics (Jan 2025) | [youtube.com](https://www.youtube.com/watch?v=OKz8uDf3hNA) |
-| The Financial Economics (Jan 2026) | [youtube.com](https://www.youtube.com/watch?v=uAOljcKRLS0) |
 
 ---
 
@@ -98,7 +89,24 @@ Pabrai is a frequent speaker at value investing conferences.
 
 ---
 
-## 8. My First Million Podcast (May 12, 2025)
+## 8. The Buffett Charity Lunch (2008)
+
+**Context:** Pabrai and Guy Spier won the bid for a private lunch with Warren Buffett.
+
+**Key Details:**
+- Price: $650,100
+- Winner: Pabrai and Spier (shared)
+- Three-hour lunch at Smith & Wollensky in New York
+- "The best money I ever spent on education"
+
+**Impact:**
+- Direct exposure to Buffett's thinking and personality
+- Reinforced Pabrai's cloning philosophy — hearing it from the source
+- Became a foundational story in Pabrai's investing career
+
+---
+
+## 9. My First Million Podcast (May 12, 2025)
 
 **Format:** Long-form podcast
 **Link:** [YouTube](https://www.youtube.com/watch?v=3xbhKOzNBW8)
@@ -108,7 +116,7 @@ Pabrai is a frequent speaker at value investing conferences.
 
 ---
 
-## 9. Capital Compounders Show (Mar 21, 2025)
+## 10. Capital Compounders Show (Mar 21, 2025)
 
 **Format:** Interview, 52 min
 **Link:** [YouTube](https://www.youtube.com/watch?v=Eww63NIxKew)
@@ -120,7 +128,7 @@ Pabrai is a frequent speaker at value investing conferences.
 
 ---
 
-## 10. European Value Investing Conference (Nov 25, 2025)
+## 11. European Value Investing Conference (Nov 25, 2025)
 
 **Format:** Fireside conversation
 - Pabrai spoke about value investing in cyclical industries
@@ -132,9 +140,14 @@ Pabrai is a frequent speaker at value investing conferences.
 
 | Source | Date | Link |
 |--------|------|------|
+| The Dhandho Investor (book) | 2007 | [geni.us](https://geni.us/The-Dhandho-Investor) |
 | TIP — Investor's Podcast | May 2026 | [youtube.com](https://www.youtube.com/watch?v=IBzSnyJ9z9M) |
 | VALUExBRK 2026 | May 7, 2026 | [youtube.com](https://www.youtube.com/watch?v=V3V7bqLGP9o) |
 | Acquirer's Multiple — Portfolio | Feb 2026 | [acquirersmultiple.com](https://acquirersmultiple.com/2026/02/mohnish-pabrais-latest-portfolio-big-bets-on-coal-energy-and-cyclical-recovery/) |
 | My First Million Podcast | May 2025 | [youtube.com](https://www.youtube.com/watch?v=3xbhKOzNBW8) |
 | Capital Compounders Show | Mar 2025 | [youtube.com](https://www.youtube.com/watch?v=Eww63NIxKew) |
 | European Value Investing Conf | Nov 2025 | Dataroma |
+| The Buffett Lunch | 2008 | Multiple sources |
+| Chai with Pabrai | 2020-Present | [chaiwithpabrai.com](https://www.chaiwithpabrai.com) |
+| TIP120 — Dhandho Investor | ~2017 | [youtube.com](https://www.youtube.com/watch?v=MNBck9wixkU) |
+| Smallcase Profile | 2026 | [smallcase.com](https://www.smallcase.com/star-investors/mohnish-pabrai-portfolio/) |

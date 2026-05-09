@@ -99,19 +99,28 @@ Inspired by Atul Gawande's *The Checklist Manifesto* and Munger's mental models,
 
 ---
 
-## Sources
-
-| Source | Link |
-|--------|------|
-| The Dhandho Investor (Amazon) | [geni.us](https://geni.us/The-Dhandho-Investor) |
-| StoryShots Summary | [getstoryshots.com](https://www.getstoryshots.com/books/the-dhandho-investor-summary/) |
-| Smallcase Profile | [smallcase.com](https://www.smallcase.com/star-investors/mohnish-pabrai-portfolio/) |
-| Pabrai Investment Funds | [pabraiinvestmentfunds.com](https://www.pabraiinvestmentfunds.com) |
-| Chai with Pabrai Podcast | [chaiwithpabrai.com](https://www.chaiwithpabrai.com) |
 
 ---
 
-## 6. Dalal Street LLC Portfolio (2024-2026)
+## 6. TransTech Inc. — The Entrepreneurial Foundation (1991-2000)
+
+Pabrai's experience building and selling a company taught him how businesses really work — a foundation that most pure investors lack.
+
+**The Story:**
+- Founded TransTech Inc. in 1991 with $30,000 from his 401(k) and $70,000 from credit card debt
+- IT consulting and systems integration company
+- Grew to over $20 million in revenue
+- Sold to Kurt Salmon Associates in 2000 for ~$20 million
+
+**Why it matters for his investing:**
+- Gave him deep understanding of business operations, not just financial statements
+- His experience as a founder informs his respect for owner-operated businesses
+- The sale provided the capital to start Pabrai Investment Funds
+- Teaches that building a business from nothing requires capital efficiency — a core Dhandho principle
+
+---
+
+## 7. Dalal Street LLC Portfolio (2024-2026)
 
 **Source:** 13F filings via Dalal Street LLC
 
@@ -132,3 +141,16 @@ Pabrai manages a separate vehicle, Dalal Street LLC, which held ~$402M in equiti
 - Multi-year holding horizons
 
 **Link:** [Acquirer's Multiple](https://acquirersmultiple.com/2026/02/mohnish-pabrais-latest-portfolio-big-bets-on-coal-energy-and-cyclical-recovery/)
+
+---
+
+## Sources
+
+| Source | Link |
+|--------|------|
+| The Dhandho Investor (Amazon) | [geni.us](https://geni.us/The-Dhandho-Investor) |
+| StoryShots Summary | [getstoryshots.com](https://www.getstoryshots.com/books/the-dhandho-investor-summary/) |
+| Smallcase Profile | [smallcase.com](https://www.smallcase.com/star-investors/mohnish-pabrai-portfolio/) |
+| Pabrai Investment Funds | [pabraiinvestmentfunds.com](https://www.pabraiinvestmentfunds.com) |
+| Chai with Pabrai Podcast | [chaiwithpabrai.com](https://www.chaiwithpabrai.com) |
+| Acquirer's Multiple — Portfolio | [acquirersmultiple.com](https://acquirersmultiple.com/2026/02/mohnish-pabrais-latest-portfolio-big-bets-on-coal-energy-and-cyclical-recovery/) |
