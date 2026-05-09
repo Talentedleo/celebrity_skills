@@ -1,0 +1,55 @@
+{
+  "name": "nicolas-darvas",
+  "version": "1.0.0",
+  "description": "Nicolas Darvas's momentum breakout trading system — box theory, volume-confirmed trend following based on pure price action and disciplined rule execution",
+  "author": "Leo Li",
+  "tags": [
+    "trading",
+    "nicolas-darvas",
+    "box-theory",
+    "momentum-trading",
+    "technical-analysis",
+    "trend-following",
+    "breakout-trading",
+    "swing-trading",
+    "volume-analysis",
+    "stop-loss"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Talentedleo/celebrity_skills",
+  "issues": "https://github.com/Talentedleo/celebrity_skills/issues",
+  "minimumOpenClawVersion": "1.0.0",
+  "skillSpecVersion": "1.0.0",
+  "triggers": [
+    "Nicolas Darvas",
+    "Darvas box",
+    "box theory trading",
+    "breakout trading system",
+    "momentum breakout",
+    "darvas system",
+    "trend following",
+    "volume breakout trading",
+    "how I made 2 million",
+    "Darvas method"
+  ],
+  "sources": [
+    {
+      "name": "How I Made $2,000,000 in the Stock Market (book)",
+      "url": "https://www.amazon.com/How-Made-000-Stock-Market/dp/1614271690"
+    },
+    {
+      "name": "Investopedia — Darvas Box",
+      "url": "https://www.investopedia.com/articles/trading/07/darvas-box.asp"
+    },
+    {
+      "name": "Wikipedia — Nicolas Darvas",
+      "url": "https://en.wikipedia.org/wiki/Nicolas_Darvas"
+    },
+    {
+      "name": "TraderLion Summary",
+      "url": "https://traderlion.com/trading-books/how-i-made-2-million-in-the-stock-market/"
+    }
+  ],
+  "lastUpdated": "2026-05-09",
+  "language": "en"
+}
