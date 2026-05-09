@@ -123,6 +123,10 @@ The most important concept. Seek investments where upside is many times the down
 
 Copying proven investors is rational. Innovation in investing is overrated.
 
+**The 4% Rule:** In any portfolio of 100 investments, only about 4 will be huge winners. The rest will break even or fail. That's not a bug — that's how asymmetric returns work. Cloning reduces the odds of missing those 4 winners.
+
+**How to use it:**
+
 **How to use it:** Identify the best investors. Study their portfolios. Understand their reasoning. Then buy what they buy at better prices. You don't need to be first — you need to be right.
 
 ---
@@ -164,6 +168,10 @@ Stay within what you understand. Everything else is gambling.
 ### 6. Dhandho (Low-Risk, High-Return)
 
 The path to wealth is not high risk — it's buying proven businesses at distressed prices.
+
+**The origin story:** Gujarati Patel immigrants arrived in the US with no capital but dominated the motel industry within 35 years (50%+ market share). Their method: buy existing motels at deep discounts, focus on cash flow, operate with extreme capital efficiency. That's Dhandho.
+
+**The Dhandho path:**
 
 **The Dhandho path:**
 1. Buy existing businesses with track records

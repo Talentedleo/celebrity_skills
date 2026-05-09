@@ -91,6 +91,58 @@
 
 ---
 
+
+## 6. Fiat Chrysler Automobiles (FCA) — Concentrated Value Bet
+
+**Context:** FCA was deeply undervalued in the early 2010s, trading at a fraction of its intrinsic value.
+
+**The Decision:** Made a large concentrated bet on FCA.
+- Within circle of competence (auto industry)
+- Strong management under Sergio Marchionne
+- Simple business model easily valued
+- Significant margin of safety
+
+**The Result:** Big returns as FCA re-rated and eventually merged with PSA to form Stellantis.
+
+---
+
+## 7. Fairfax Financial Holdings — Downside Protection
+
+**Context:** Fairfax was a well-managed insurance company trading below intrinsic value.
+
+**The Decision:** Significant position in Fairfax Financial.
+- Strong balance sheet provides downside protection
+- Conservative management (Prem Watsa = "Canadian Buffett")
+- Insurance float as competitive advantage
+- Within circle of competence
+
+**The Result:** Solid returns with limited downside.
+
+---
+
+## 8. Warrior Met Coal (HCC) — Current Largest Position
+
+**Context:** Metallurgical coal producer, deeply out of favor.
+
+**The Decision:** ~40% of portfolio in HCC (as of 2026).
+- Supply-constrained industry with pricing power
+- Asymmetric bet: limited downside at distressed prices
+- Multi-year holding horizon
+- Deep cyclical value with recovery catalyst
+
+---
+
+## 9. Transocean / Valaris — Offshore Drilling Recovery
+
+**Context:** Offshore drilling was in a multi-year downturn.
+
+**The Decision:** ~33% of portfolio combined.
+- Tightening rig supply with increasing day rates
+- Added to Transocean (+10.6%), trimmed Valaris (-57%)
+- Active management within conviction thesis
+
+---
+
 ## Sources
 
 | Decision | Primary Source |
@@ -100,3 +152,5 @@
 | Buffett lunch | Multiple interviews |
 | Horsehead mistake | TIP120, Various interviews |
 | Checklist adoption | Pabrai's writings, interviews |
+| FCA / Fairfax | Historical filings |
+| Warrior Met Coal / Transocean | Acquirer's Multiple (Feb 2026) |
