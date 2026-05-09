@@ -1,0 +1,77 @@
+{
+  "plan": "Paul Tudor Jones Skill Development Plan",
+  "status": "in-progress",
+  "steps": [
+    {
+      "step": 1,
+      "action": "search-writings",
+      "description": "Search for Paul Tudor Jones's key writings, interviews, trading philosophy, macroeconomic views. Focus on macro trading, crisis prediction (1987 crash), risk management, Tudor Investment Corporation strategy. Must include latest (2024-2026) publications/interviews.",
+      "tools": ["playwright-mcp", "web_fetch", "minimax-coding-plan-tool"],
+      "output": "01-writings.md",
+      "status": "pending"
+    },
+    {
+      "step": 2,
+      "action": "search-conversations",
+      "description": "Search for Paul Tudor Jones interviews, keynote speeches, CNBC/Bloomberg appearances, conference talks. Must include latest (2024-2026) interviews.",
+      "tools": ["playwright-mcp", "web_fetch", "minimax-coding-plan-tool"],
+      "output": "02-conversations.md",
+      "status": "pending"
+    },
+    {
+      "step": 3,
+      "action": "search-expression-dna",
+      "description": "Analyze Paul Tudor Jones's speaking/writing style, reasoning patterns, trading axioms, how he explains macro concepts.",
+      "output": "03-expression-dna.md",
+      "status": "pending"
+    },
+    {
+      "step": 4,
+      "action": "search-external-views",
+      "description": "Search for how others view Paul Tudor Jones (biographies, profiles, critiques, media coverage).",
+      "output": "04-external-views.md",
+      "status": "pending"
+    },
+    {
+      "step": 5,
+      "action": "search-decisions",
+      "description": "Research Paul Tudor Jones's key decisions: 1987 crash prediction, Tudor Investment Corp founding, Robin Hood Foundation, bitcoin allocation, market calls.",
+      "output": "05-decisions.md",
+      "status": "pending"
+    },
+    {
+      "step": 6,
+      "action": "search-timeline",
+      "description": "Build a comprehensive timeline of Paul Tudor Jones's life, career, Tudor Investment milestones, key market calls.",
+      "output": "06-timeline.md",
+      "status": "pending"
+    },
+    {
+      "step": 7,
+      "action": "write-skill",
+      "description": "Based on all references, write SKILL.md following Anthropic skill specification format. Include effect examples, expression DNA, mental models, decision heuristics, and investment cases.",
+      "output": "SKILL.md",
+      "status": "pending"
+    },
+    {
+      "step": 8,
+      "action": "write-metadata",
+      "description": "Write _meta.json with metadata, tags, triggers, sources.",
+      "output": "_meta.json",
+      "status": "pending"
+    }
+  ],
+  "rules": [
+    "All searches in English",
+    "All documents in English",
+    "Long documents must summarize core points + attach links",
+    "SKILL.md follows Anthropic skill specification",
+    "References 01-writings and 02-conversations are foundational — search thoroughly for latest materials",
+    "Wait for user confirmation after each step"
+  ],
+  "search_engines": {
+    "primary": "playwright-mcp (Google search)",
+    "content": "web_fetch (content scraping)",
+    "fallback": "minimax-coding-plan-tool"
+  }
+}
