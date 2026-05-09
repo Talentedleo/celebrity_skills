@@ -418,7 +418,6 @@ Secretly funded Hulk Hogan's $140M lawsuit against Gawker after they outed Thiel
 | Source | Date | Link |
 |--------|------|------|
 | Zero to One | 2014 | [Amazon](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) |
-| CS183 Lecture Notes | 2012 | [blakemasters.com](https://blakemasters.com/peter-thiels-cs183-startup) |
 | NYT — Interesting Times | Jun 2025 | [nytimes.com](https://www.nytimes.com/2025/07/11/podcasts/interesting-times-a-mind-bending-conversation-with-peter-thiel.html) |
 | Farnam Street Summary | - | [fs.blog](https://fs.blog/peter-thiel-zero-to-one/) |
 | Wikipedia | - | [wikipedia.org](https://en.wikipedia.org/wiki/Peter_Thiel) |
@@ -426,5 +425,3 @@ Secretly funded Hulk Hogan's $140M lawsuit against Gawker after they outed Thiel
 ---
 
 *Skill distilled from original sources. All quotes are Thiel's own words where attributed.*
-| Thiel Fellowship | 2011-present | [thielfellowship.org](https://thielfellowship.org) |
-| CS183 Lecture Notes | Spring 2012 | [blakemasters.com](https://blakemasters.com/peter-thiels-cs183-startup) |
