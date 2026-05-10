@@ -90,15 +90,26 @@
 | [Bill Ackman](./bill_ackman/) | 激进投资、高信念、集中持仓 | Pershing Square信函、国会证词 |
 | [Cathie Wood](./cathie-wood/) | 颠覆性创新、ARK Invest、主题投资 | ARK Big Ideas 报告、TED 演讲、Twitter |
 | [Charlie Munger](./charlie_munger/) | 多学科思维、lollapalooza、倒置法 | Poor Charlie's Almanack、伯克希尔 |
+| [Cliff Asness](./cliff-asness/) | 因子投资、多因子模型、量化理性 | AQR 研究论文、发表文章、市场评论 |
+| [Ed Thorp](./ed-thorp/) | 概率驱动决策框架、Kelly 准则、量化金融 | Beat the Dealer、Beat the Market、A Man for All Markets |
 | [George Soros](./george-soros/) | 反身性理论、宏观投资、繁荣-萧条周期 | 《金融炼金术》、Soros on Soros、金融危机操作 |
 | [Greg Abel](./greg_abel/) | 运营卓越、伯克希尔文化 | Buffett 继任、运营管理 |
+| [Howard Marks](./howard-marks/) | 周期理论、风险控制、第二层思维 | 投资最重要的事、橡树资本备忘录 |
 | [Jim Simons](./jim-simons/) | 量化投资、信号检测、数学模型 | The Man Who Solved the Market、Renaissance Technologies、Simons Foundation |
+| [Joel Greenblatt](./joel-greenblatt/) | Magic Formula、特殊情境、系统价值投资 | The Little Book That Beats the Market、Gotham Capital 回报 |
 | [Ken Griffin](./ken-griffin/) | 多策略对冲基金、平台建设、做市商 | Citadel LLC、Citadel Securities、国会证词 |
+| [Li Lu](./li-lu/) | 东方长期主义、文明周期论、价值投资 | 《文明、现代化、价值投资与中国》、Himalaya Capital |
 | [Michael Burry](./michael_burry/) | 逆向价值投资、安全边际、泡沫识别 | Cassandra Unchained、大空头交易记录 |
+| [Mohnish Pabrai](./mohnish-pabrai/) | Dhandho 框架、克隆策略、Checklist 投资、不对称风险回报 | The Dhandho Investor、Dhandho Holdings 信函、VALUExBRK 演讲 |
+| [Nick Sleep](./nick-sleep/) | 规模经济共享（SES）、Nomad Partnership、飞轮投资 | Nomad Partnership 信函、Q&A 会议 |
+| [Paul Tudor Jones](./paul-tudor-jones/) | 宏观交易、风险管理、模式识别 | Tudor Investment Corp、Robin Hood Foundation、市场采访 |
 | [Peter Lynch](./peter_lynch/) | 合理价格成长、知道你所持有 | One Up on Wall Street、Beating the Street |
+| [Peter Thiel](./peter-thiel/) | 逆向垄断理论、Zero-to-One、第一性原理科技投资 | Zero to One、Founders Fund、PayPal 黑帮 |
 | [Phil Fisher](./phil_fisher/) | 成长股投资、scuttlebutt、GARP | Common Stocks and Uncommon Profits |
 | [Ray Dalio](./ray-dalio/) | 原则驱动宏观、桥水风险平价 | 《原则》书籍、《经济机器》视频 |
+| [Seth Klarman](./seth-klarman/) | 安全边际、催化剂型困境投资、绝对回报 | Margin of Safety、Baupost Group 年度信函 |
 | [Stanley Druckenmiller](./stanley_druckenmiller/) | 宏观投资、全球宏观、流动性 | Morgan Stanley 采访、Ira Sohn |
+| [Terry Smith](./terry-smith/) | 高 ROCE 质量复利、买好公司然后什么都不做 | Fundsmith 年度信函、Investing for Growth |
 | [Warren Buffett](./warren-buffett/) | 价值投资、护城河、资本配置、能力圈 | 伯克希尔年报、股东大会、股东访谈 |
 ---
 
