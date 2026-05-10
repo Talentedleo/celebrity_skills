@@ -173,7 +173,6 @@ The path to wealth is not high risk — it's buying proven businesses at distres
 
 **The Dhandho path:**
 
-**The Dhandho path:**
 1. Buy existing businesses with track records
 2. Focus on simple, slow-changing industries
 3. Buy when they're distressed and unloved
@@ -241,11 +240,11 @@ Downside protection. Strong balance sheet. Conservative management. Good moat.
 | Pabrai Investment Funds | [pabraiinvestmentfunds.com](https://www.pabraiinvestmentfunds.com) |
 | Chai with Pabrai Podcast | [chaiwithpabrai.com](https://www.chaiwithpabrai.com) |
 | StoryShots Summary | - | [getstoryshots.com](https://www.getstoryshots.com/books/the-dhandho-investor-summary/) |
-| Smallcase Profile | [smallcase.com](https://www.smallcase.com/star-investors/mohnish-pabrai-portfolio/) |
+| Smallcase Profile | smallcase.com | [portfolio link](https://www.smallcase.com/star-investors/mohnish-pabrai-portfolio/) |
+| TIP — Investor Podcast | May 2026 | [youtube.com](https://www.youtube.com/watch?v=IBzSnyJ9z9M) |
+| VALUExBRK 2026 | May 7, 2026 | [youtube.com](https://www.youtube.com/watch?v=V3V7bqLGP9o) |
+| Acquirer's Multiple — Portfolio | Feb 2026 | [acquirersmultiple.com](https://acquirersmultiple.com/2026/02/mohnish-pabrais-latest-portfolio-big-bets-on-coal-energy-and-cyclical-recovery/) |
 
 ---
 
 *Skill distilled from original sources. All quotes are Pabrai's own words where attributed.*
-| TIP — Investor's Podcast | May 2026 | [youtube.com](https://www.youtube.com/watch?v=IBzSnyJ9z9M) |
-| VALUExBRK 2026 | May 7, 2026 | [youtube.com](https://www.youtube.com/watch?v=V3V7bqLGP9o) |
-| Acquirer's Multiple — Portfolio | Feb 2026 | [acquirersmultiple.com](https://acquirersmultiple.com/2026/02/mohnish-pabrais-latest-portfolio-big-bets-on-coal-energy-and-cyclical-recovery/) |
