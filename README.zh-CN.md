@@ -113,6 +113,7 @@
 | [Seth Klarman](./seth-klarman/) | 安全边际、催化剂型困境投资、绝对回报 | Margin of Safety、Baupost Group 年度信函 |
 | [Stanley Druckenmiller](./stanley_druckenmiller/) | 宏观投资、全球宏观、流动性 | Morgan Stanley 采访、Ira Sohn |
 | [Terry Smith](./terry-smith/) | 高 ROCE 质量复利、买好公司然后什么都不做 | Fundsmith 年度信函、Investing for Growth |
+| [Tom Russo](./tom-russo/) | 全球消费品牌、承受力/再投资能力框架、超低换手率 | Gardner Russo & Quinn、Latticework 2025、Graham & Dodd 奖 |
 | [Warren Buffett](./warren-buffett/) | 价值投资、护城河、资本配置、能力圈 | 伯克希尔年报、股东大会、股东访谈 |
 ---
 

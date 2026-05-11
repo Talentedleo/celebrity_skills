@@ -113,6 +113,7 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 | [Seth Klarman](./seth-klarman/) | Margin of safety, catalyst-driven distressed value investing | Margin of Safety, Baupost Group annual letters |
 | [Stanley Druckenmiller](./stanley_druckenmiller/) | Macro investing, global macro, liquidity | Morgan Stanley interview, Ira Sohn |
 | [Terry Smith](./terry-smith/) | High-ROCE quality compounding, buy good companies and do nothing | Fundsmith annual letters, Investing for Growth |
+| [Tom Russo](./tom-russo/) | Global consumer brands, capacity to suffer/reinvest, ultra-low turnover | Gardner Russo & Quinn, Latticework 2025, Graham & Dodd Prize |
 | [Warren Buffett](./warren-buffett/) | Value investing, moats, capital allocation, circle of competence | Berkshire Hathaway letters, annual meetings, shareholder interviews |
 ---
 
