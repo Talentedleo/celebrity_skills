@@ -96,6 +96,7 @@
 | [George Soros](./george-soros/) | 反身性理论、宏观投资、繁荣-萧条周期 | 《金融炼金术》、Soros on Soros、金融危机操作 |
 | [Greg Abel](./greg_abel/) | 运营卓越、伯克希尔文化 | Buffett 继任、运营管理 |
 | [Howard Marks](./howard-marks/) | 周期理论、风险控制、第二层思维 | 投资最重要的事、橡树资本备忘录 |
+| [Jean-Marie Eveillard](./jean-marie-eveillard/) | 极致风险厌恶、资本保全、黄金作为保险、全球价值投资 | First Eagle Global Fund、Morningstar 终身成就奖、Columbia 商学院 |
 | [Jim Simons](./jim-simons/) | 量化投资、信号检测、数学模型 | The Man Who Solved the Market、Renaissance Technologies、Simons Foundation |
 | [John Templeton](./john-templeton/) | 全球逆向投资、最大悲观点、全球淘便宜货 | 16 条投资规则、Templeton Growth Fund、Templeton Prize 传记 |
 | [Joel Greenblatt](./joel-greenblatt/) | Magic Formula、特殊情境、系统价值投资 | The Little Book That Beats the Market、Gotham Capital 回报 |

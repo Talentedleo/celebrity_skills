@@ -96,6 +96,7 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 | [George Soros](./george-soros/) | Reflexivity theory, macro investing, boom-bust cycles | The Alchemy of Finance, Soros on Soros, financial crisis trades |
 | [Greg Abel](./greg_abel/) | Operational excellence, Berkshire culture | Buffett's succession, operational management |
 | [Howard Marks](./howard-marks/) | Cycles, risk control, second-level thinking | The Most Important Thing, Oaktree memos, investing philosophy |
+| [Jean-Marie Eveillard](./jean-marie-eveillard/) | Extreme risk aversion, capital preservation, gold as insurance, go-anywhere global value | First Eagle Global Fund, Morningstar Lifetime Achievement Award, Columbia Business School |
 | [Jim Simons](./jim-simons/) | Quantitative investing, signal detection, mathematical models | The Man Who Solved the Market, Renaissance Technologies, Simons Foundation |
 | [John Templeton](./john-templeton/) | Global contrarian investing, points of maximum pessimism, bargain hunting | 16 Rules, Templeton Growth Fund, Templeton Prize biography |
 | [Joel Greenblatt](./joel-greenblatt/) | Magic Formula, special situations, systematic value investing | The Little Book That Beats the Market, Gotham Capital returns |
