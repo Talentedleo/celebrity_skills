@@ -97,6 +97,7 @@
 | [Greg Abel](./greg_abel/) | 运营卓越、伯克希尔文化 | Buffett 继任、运营管理 |
 | [Howard Marks](./howard-marks/) | 周期理论、风险控制、第二层思维 | 投资最重要的事、橡树资本备忘录 |
 | [Jim Simons](./jim-simons/) | 量化投资、信号检测、数学模型 | The Man Who Solved the Market、Renaissance Technologies、Simons Foundation |
+| [John Templeton](./john-templeton/) | 全球逆向投资、最大悲观点、全球淘便宜货 | 16 条投资规则、Templeton Growth Fund、Templeton Prize 传记 |
 | [Joel Greenblatt](./joel-greenblatt/) | Magic Formula、特殊情境、系统价值投资 | The Little Book That Beats the Market、Gotham Capital 回报 |
 | [Ken Griffin](./ken-griffin/) | 多策略对冲基金、平台建设、做市商 | Citadel LLC、Citadel Securities、国会证词 |
 | [Li Lu](./li-lu/) | 东方长期主义、文明周期论、价值投资 | 《文明、现代化、价值投资与中国》、Himalaya Capital |

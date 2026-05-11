@@ -97,6 +97,7 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 | [Greg Abel](./greg_abel/) | Operational excellence, Berkshire culture | Buffett's succession, operational management |
 | [Howard Marks](./howard-marks/) | Cycles, risk control, second-level thinking | The Most Important Thing, Oaktree memos, investing philosophy |
 | [Jim Simons](./jim-simons/) | Quantitative investing, signal detection, mathematical models | The Man Who Solved the Market, Renaissance Technologies, Simons Foundation |
+| [John Templeton](./john-templeton/) | Global contrarian investing, points of maximum pessimism, bargain hunting | 16 Rules, Templeton Growth Fund, Templeton Prize biography |
 | [Joel Greenblatt](./joel-greenblatt/) | Magic Formula, special situations, systematic value investing | The Little Book That Beats the Market, Gotham Capital returns |
 | [Ken Griffin](./ken-griffin/) | Multi-strategy hedge fund, platform building, market making | Citadel LLC, Citadel Securities, Congressional testimony |
 | [Li Lu](./li-lu/) | Eastern long-termism, civilization cycle theory, value investing | Civilization, Modernization, Value Investing and China, Himalaya Capital |
