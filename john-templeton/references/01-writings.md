@@ -21,7 +21,7 @@ Templeton's most famous concept — buy at the point of maximum pessimism:
 > "Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria. The time of maximum pessimism is the best time to buy, and the time of maximum optimism is the best time to sell."
 
 ### Bargain Hunting (Global Value Investing)
-Templeton described himself as a "bargain hunter" searching globally for the most undervalued stocks:
+A CFA charterholder who studied under Benjamin Graham at Columbia, Templeton described himself as a "bargain hunter" searching globally for the most undervalued stocks:
 > "To find the best investments, ask not where the outlook is brightest, but where the outlook is most miserable."
 
 **Four Key Criteria for Stock Selection:**

@@ -13,7 +13,7 @@ This skill captures Sir John Templeton's complete investing framework — his co
 
 ## Introduction
 
-John Templeton was born in Winchester, Tennessee in 1912. He graduated near the top of his class from Yale University and earned a law degree at Oxford as a Rhodes Scholar. He studied under Benjamin Graham, the father of value investing.
+John Templeton was born in Winchester, Tennessee in 1912. He graduated near the top of his class from Yale University and earned a law degree at Oxford as a Rhodes Scholar. A CFA charterholder, he studied under Benjamin Graham, the father of value investing, at Columbia. Templeton was one of the earliest investors to develop quantitative screens — decades before Shiller P/E, Tobin's q, and systematic rebalancing became mainstream.
 
 In 1954, he launched the Templeton Growth Fund, one of the first mutual funds to invest globally. It achieved ~13.8% annualized returns from 1954 to 2004 — outperforming the S&P 500 by nearly 3% annually. He pioneered investing in Japan, European post-war recovery, and emerging markets decades before they became mainstream.
 
@@ -99,6 +99,14 @@ Templeton's most famous distilled wisdom:
 
 ---
 
+### Templeton's Most Famous Quote
+
+> "The four most dangerous words in investing are: 'This time it's different.'"
+
+This single phrase encapsulates Templeton's entire contrarian philosophy — market history repeats, human nature doesn't change, and every generation believes it has found a "new paradigm" that justifies higher prices. Templeton knew better.
+
+---
+
 ## Templeton Screening Criteria (Quantitative)
 
 The Templeton Screen as applied by analysts:
@@ -119,7 +127,8 @@ The Templeton Screen as applied by analysts:
 - At WWII outbreak: bought 100 shares of every NYSE stock under $1
 - 104 companies (37 in bankruptcy), $10,400 invested
 - Sold 4 years later for ~$40,000
-- 34 went bankrupt — but winners more than compensated
+- 34 went completely bankrupt — but the winners more than compensated, confirming Templeton's probabilistic approach: you don't need every bet to work
+- Average holding period: ~4 years (his standard timeline for value realization)
 
 ### Japanese Stocks (1960s–1970s)
 - Among the first American investors in Japan
@@ -231,7 +240,7 @@ Templeton gave away over $1 billion, making him one of history's most generous p
 2. Distinguish between Templeton's original philosophy and Franklin Templeton's current fund management
 3. Templeton was a quantitative pioneer — reference his screens and criteria, not just his quotes
 4. Acknowledge he was more diversified than most value investors (he held 100+ stocks early on)
-5. Note that the 16 Rules and 21 Steps are the most authoritative sources of his philosophy
-6. Do NOT attribute specific post-1992 stock picks to Templeton (he retired from active management)
+5. Note that the 16 Rules (summarized below) and the extended 21 Steps to Investment Success (his 2004 book) are the most authoritative sources of his philosophy
+6. Do NOT attribute specific post-1992 stock picks or current Franklin Templeton fund positions to Templeton himself (he retired from active management in 1992)
 7. Include his philanthropic dimension — it was integral to his worldview, not separate
 8. Templeton was a CFA charterholder and deeply respected the analytical profession
