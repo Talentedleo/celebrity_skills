@@ -89,16 +89,33 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 | [Benjamin Graham](./benjamin_graham/) | Value investing, intelligent investor | Security Analysis, The Intelligent Investor |
 | [Bill Ackman](./bill_ackman/) | Activist investing, high-conviction, concentrated bets | Pershing Square letters, Congressional testimony |
 | [Cathie Wood](./cathie-wood/) | Disruptive innovation, ARK Invest, thematic investing | ARK Big Ideas reports, TED Talks, Twitter |
+| [Chuck Akre](./chuck-akre/) | Three-Legged Stool, compounding machine identification, concentrated quality | Akre Capital letters, MOI Global/Latticework interview, 13F filings |
 | [Charlie Munger](./charlie_munger/) | Multidisciplinary thinking, lollapalooza, inversion | Poor Charlie's Almanack, Berkshire Hathaway |
+| [Cliff Asness](./cliff-asness/) | Factor investing, multi-factor models, quantitative rationalism | AQR research papers, published articles, market commentaries |
+| [Ed Thorp](./ed-thorp/) | Probability-driven decision framework, Kelly criterion, quantitative finance | Beat the Dealer, Beat the Market, A Man for All Markets |
 | [George Soros](./george-soros/) | Reflexivity theory, macro investing, boom-bust cycles | The Alchemy of Finance, Soros on Soros, financial crisis trades |
 | [Greg Abel](./greg_abel/) | Operational excellence, Berkshire culture | Buffett's succession, operational management |
+| [Howard Marks](./howard-marks/) | Cycles, risk control, second-level thinking | The Most Important Thing, Oaktree memos, investing philosophy |
+| [Jean-Marie Eveillard](./jean-marie-eveillard/) | Extreme risk aversion, capital preservation, gold as insurance, go-anywhere global value | First Eagle Global Fund, Morningstar Lifetime Achievement Award, Columbia Business School |
 | [Jim Simons](./jim-simons/) | Quantitative investing, signal detection, mathematical models | The Man Who Solved the Market, Renaissance Technologies, Simons Foundation |
+| [John Templeton](./john-templeton/) | Global contrarian investing, points of maximum pessimism, bargain hunting | 16 Rules, Templeton Growth Fund, Templeton Prize biography |
+| [Joel Greenblatt](./joel-greenblatt/) | Magic Formula, special situations, systematic value investing | The Little Book That Beats the Market, Gotham Capital returns |
 | [Ken Griffin](./ken-griffin/) | Multi-strategy hedge fund, platform building, market making | Citadel LLC, Citadel Securities, Congressional testimony |
+| [Li Lu](./li-lu/) | Eastern long-termism, civilization cycle theory, value investing | Civilization, Modernization, Value Investing and China, Himalaya Capital |
 | [Michael Burry](./michael_burry/) | Contrarian value, margin of safety, bubble identification | Cassandra Unchained, Big Short trades |
+| [Mohnish Pabrai](./mohnish-pabrai/) | Dhandho framework, cloning, checklist investing, asymmetric risk-reward | The Dhandho Investor, Dhandho Holdings letters, VALUExBRK talks |
+| [Nick Sleep](./nick-sleep/) | Scale Economies Shared (SES), Nomad Partnership, flywheel investing | Nomad Partnership letters, Q&A sessions |
+| [Paul Tudor Jones](./paul-tudor-jones/) | Macro trading, risk management, pattern-based approach | Tudor Investment Corp, Robin Hood Foundation, market interviews |
+| [Nick Train](./nick-train/) | Brand equity long-term compounding, eternal franchises, permanent equity | Lindsell Train, Finsbury Growth & Income Trust, Behind the Balance Sheet podcast |
+| [Pat Dorsey](./pat-dorsey/) | Systematic moat analysis, competitive advantage framework | The Little Book That Builds Wealth, Morningstar Moat Rating system |
 | [Peter Lynch](./peter_lynch/) | Growth at reasonable price, know-what-you-own | One Up on Wall Street, Beating the Street |
+| [Peter Thiel](./peter-thiel/) | Contrarian monopoly theory, zero-to-one, first-principles tech investing | Zero to One, Founders Fund, PayPal mafia |
 | [Phil Fisher](./phil_fisher/) | Growth investing, scuttlebutt, GARP | Common Stocks and Uncommon Profits |
 | [Ray Dalio](./ray-dalio/) | Principles-based macro, bridgewater risk parity | Principles book, Economic Machine video |
+| [Seth Klarman](./seth-klarman/) | Margin of safety, catalyst-driven distressed value investing | Margin of Safety, Baupost Group annual letters |
 | [Stanley Druckenmiller](./stanley_druckenmiller/) | Macro investing, global macro, liquidity | Morgan Stanley interview, Ira Sohn |
+| [Terry Smith](./terry-smith/) | High-ROCE quality compounding, buy good companies and do nothing | Fundsmith annual letters, Investing for Growth |
+| [Tom Russo](./tom-russo/) | Global consumer brands, capacity to suffer/reinvest, ultra-low turnover | Gardner Russo & Quinn, Latticework 2025, Graham & Dodd Prize |
 | [Warren Buffett](./warren-buffett/) | Value investing, moats, capital allocation, circle of competence | Berkshire Hathaway letters, annual meetings, shareholder interviews |
 ---
 
