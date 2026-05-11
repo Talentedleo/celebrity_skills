@@ -44,6 +44,16 @@
 | **2019** | Endows chair at HEC Paris (behavioral finance & value investing) |
 | **2020** | Retires as Senior Adviser (July 1); remains Trustee Emeritus |
 
+## 2025–2026
+
+| Year | Event |
+|------|-------|
+| **2025** | Morningstar Hall of Fame recognition for "International Stock Manager of the Year" category |
+| **2025** | Silba publishes comprehensive investor portrait "Everything Is in the Books" |
+| **2025** | Burgundy Asset Management speech quotes his dot-com era stance |
+| **2026** | First Eagle's official history updated: "1979 Creation of Global Value strategy by Eveillard" |
+| **2026** | The Hub publishes bubble comparison analysis citing Eveillard's "rather lose half my clients" philosophy |
+
 ## Key Facts
 
 | Metric | Value |

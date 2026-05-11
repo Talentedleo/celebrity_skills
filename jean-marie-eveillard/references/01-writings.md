@@ -84,6 +84,16 @@ His famous dictum — deceptively simple, requiring immense discipline. Focus on
 4. **Dot-Com Discipline:** Refused to chase tech stocks despite intense pressure — legendary case study in conviction
 5. **Academic Legacy:** Teaching at Columbia and endowing the HEC chair ensures his philosophy lives on
 
+## 2025–2026 New Sources
+
+| Source | Date | Content |
+|--------|------|---------|
+| Silba Deep Dives (Substack) | 2025–2026 | Comprehensive biography: "Everything Is in the Books" — teacher story, Graham conversion, rejection of DCF, 10-year frustration |
+| The Hub | Jan 2026 | Market bubble analysis citing Eveillard's "rather lose half my clients" stance |
+| Morningstar Hall of Fame | July 2025 | Formal recognition of Eveillard in Morningstar Hall of Fame |
+| First Eagle History Page | Jan 2026 | "1979: Creation of Global Value strategy by Jean-Marie Eveillard" |
+| Burgundy Asset Management | Dec 2025 | Value investing speech quoting Eveillard's dot-com era discipline |
+
 ## Sources
 - [Grokipedia — Jean-Marie Eveillard](https://grokipedia.com/page/jean_marie_eveillard)
 - [Notable People Project](https://notablepeopleproject.org/jean_marie_eveillard)

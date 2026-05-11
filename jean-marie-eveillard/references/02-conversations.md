@@ -42,6 +42,50 @@ His commentaries are characterized by clarity, historical perspective, and unwav
 
 ---
 
+## 5. Silba Deep Dives — "Everything Is in the Books" (2025–2026)
+
+**Format:** Comprehensive biographical essay (Substack)
+**Source:** [Silba Deep Dives](https://silbadeepdives.substack.com/p/jean-marie-eveillard)
+
+**Key Revelations:**
+- His teacher's parting advice: "Never forget, everything is in the books"
+- The "conversion" to Graham in 1968 — described as a religious illumination
+- Ten years of frustration at Société Générale: "My first fifteen years at the bank were a waste"
+- Rejected DCF as "unusable in practice"
+- Early portfolio returns: 188% in first 5 years vs 78% for MSCI World
+- Defined value investing as "a big tent" — Graham on one end, Buffett on the other
+
+### Key Quotes from Silba Portrait
+> "In a sense, I was illuminated not by faith, but all of a sudden, it seemed to me that Ben Graham simply made sense."
+
+> "The first fifteen years at the bank were a waste, with the first five spent not knowing how to go about investing and the next ten being unable to use the value investing approach of Ben Graham."
+
+> On DCF: "Unusable in practice"
+
+## 6. The Hub — Market Bubble Comparison (Jan 2026)
+
+**Format:** Analysis piece by Burgundy Asset Management
+**Source:** [The Hub](https://thehub.ca/2026/01/16/are-we-experiencing-another-market-bubble/)
+
+Compares 2000 vs 2025 market conditions, repeatedly citing Eveillard's dot-com stance as the benchmark for value investor discipline:
+> "At the time of the internet bubble, Jean-Marie Eveillard of First Eagle Investments famously said that he would rather lose half his clients than lose any one of his investors' dollars."
+
+## 7. Morningstar Hall of Fame (July 2025)
+
+**Format:** Official awards list
+**Source:** [Morningstar](https://newsroom.morningstar.com/news/news-details/2025/Morningstar-Hall-of-Fame-Fund-Manager-of-the-Year-Winners/default.aspx)
+
+Recognized as "International Stock: Jean-Marie Eveillard and Charles de Vaulx, First Eagle"
+
+## 8. Burgundy Asset Management Speech (Dec 2025)
+
+**Context:** Speech to value investors on Nov 14, 2025
+**Source:** [Burgundy Asset Management](https://www.burgundyasset.com/views-insights/a-different-game/)
+
+Repeated Eveillard's famous line as the ultimate expression of value investing conviction.
+
+---
+
 ## Summary of Conversational Themes
 
 1. **Avoid losing money** — "Not to lose money" is the first and most important rule

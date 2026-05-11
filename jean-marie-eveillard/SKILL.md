@@ -143,6 +143,32 @@ Returned to active management after protégé Charles de Vaulx resigned.
 
 ---
 
+## Key Recent Developments (2024–2026)
+
+### Silba Deep Dives — "Everything Is in the Books" (2025–2026)
+A comprehensive investor portrait published on Substack by Silba, providing the most detailed biographical treatment of Eveillard's career. Key revelations:
+- The story of his teacher's parting words: "Everything is in the books" — which became his life philosophy
+- The "conversion" to Graham: reading Security Analysis and The Intelligent Investor in 1968, which he compared to a religious illumination
+- Ten years of institutional frustration at Société Générale (his "waste" decade)
+- His rejection of DCF as "unusable in practice" — a quietly radical position
+- The early portfolio: pure Graham — Atico Financial, Burlington Northern, Longview Fiber, etc.
+- **First 5 years:** Fund returned 188% vs MSCI World 78%
+
+### The Hub — Market Bubble Analysis (Jan 2026)
+Eveillard quoted in a major piece comparing 2000 vs 2025 market conditions:
+> "At the time of the internet bubble, Jean-Marie Eveillard of First Eagle Investments famously said that he would rather lose half his clients than lose any one of his investors' dollars."
+
+### Morningstar Hall of Fame (July 2025)
+Morningstar published its Hall of Fame list, formally recognizing Eveillard as "International Stock: Jean-Marie Eveillard and Charles de Vaulx, First Eagle" — cementing his legacy in the Morningstar awards canon.
+
+### First Eagle History Update (Jan 2026)
+First Eagle's official history page now states: "1979: Creation of Global Value strategy by Jean-Marie Eveillard. Jean-Marie would later join First Eagle through 1999 acquisition of Société Générale Asset Management."
+
+### Burgundy Asset Management — Bubble Comparison (Dec 2025)
+A value investing firm's speech extensively quotes Eveillard's dot-com era stance: he would rather lose half his clients than lose client dollars — the ultimate statement of his "capital preservation above all" philosophy.
+
+---
+
 ## Key Terminology Glossary
 
 | Term | Meaning |
