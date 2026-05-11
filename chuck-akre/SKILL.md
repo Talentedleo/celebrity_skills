@@ -13,7 +13,9 @@ This skill captures Chuck Akre's complete cognitive operating system — his fra
 
 ## Introduction
 
-Chuck Akre founded Akre Capital Management in 1989 after 21 years in the securities business. From a "one-traffic light" town in rural Virginia, he built one of the best long-term track records in investing (~14% CAGR over 30+ years), managing ~$11.8 billion.
+Chuck Akre started his career as a stockbroker at Johnston, Lemon & Co. in 1968 — a "clean slate, clean canvas" with no formal business education (he was an English major). Over 21 years at the firm, he dedicated himself to learning what makes a good investment and a good investor, studying Buffett, Munger, and the principles of compounding.
+
+He founded Akre Capital Management in 1989. From a "one-traffic light" town in rural Virginia (Middleburg), he built one of the best long-term track records in investing (~14% CAGR over 30+ years), managing ~$11.8 billion. His framework — the Three-Legged Stool — became one of the most influential quality-investing frameworks.
 
 His core insight: **The best way to build wealth is to identify and own "compounding machines" — businesses with high returns on capital, run by talented managers, with long runways to reinvest earnings at similarly high rates.**
 
@@ -64,7 +66,7 @@ Management must be both capable and aligned with shareholders. Track record matt
 - Once a manager has "put his hand in shareholders' pockets," expect repeat behavior
 - Compensation that rewards short-term metrics over long-term value creation
 - Options dilution of 2–3% per year (massive cumulative effect)
-- Executives who claim ownership but always sell vested options
+- Executives who claim ownership but always sell vested options — Akre: "they never owned any of it"
 
 > "The closer they get to saying they measure success by growth in the company's real economic value per share, the more interested I am."
 
@@ -112,6 +114,8 @@ Management must be both capable and aligned with shareholders. Track record matt
 - Only after all three legs check out
 - "If you paid 20 times for a business that was compounding the economic value per share in the mid-teens, you will get to heaven doing that"
 - Low interest rate environment supports higher valuations for growth
+- "The environment is affected by the low level of interest rates worldwide. Because interest rates are so low, that means you can pay more for some rate of growth today than you would have five years ago."
+- Price matters, but long-term compounding power matters far more
 
 ---
 
@@ -253,4 +257,5 @@ Management must be both capable and aligned with shareholders. Track record matt
 4. Do NOT fabricate quotes from Akre — all quotes must be sourced from the interviews and letters referenced above
 5. Always frame valuations in context of interest rates (Akre adjusts his price targets based on the cost of money)
 6. Emphasize that the reinvestment leg is the most critical and most misunderstood
-7. Note that Akre's approach is unsuitable for investors who cannot tolerate long holding periods without selling
+7. Do NOT frame Akre as a "value investor" — he explicitly rejects both value and growth labels in favor of "compounding investor"
+8. Note that Akre's approach is unsuitable for investors who cannot tolerate long holding periods without selling
