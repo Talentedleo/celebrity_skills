@@ -72,7 +72,33 @@ Dorsey recommends selling only for these reasons:
 
 ---
 
-## 2. Morningstar Moat Rating System
+## 2. "The Five Rules for Successful Stock Investing" (2004)
+
+**Full Title:** *The Five Rules for Successful Stock Investing: Morningstar's Guide to Building Wealth and Winning in the Market*
+**Published:** November 2003/2004 (Wiley)
+**Pages:** 384
+**Author:** Pat Dorsey, CFA
+
+A comprehensive guide to stock analysis covering the full investment process. Unlike *The Little Book That Builds Wealth* which focuses narrowly on moats, this book provides the complete analytical toolkit:
+
+### The Five Rules
+1. **Do Your Homework** — Thorough fundamental analysis before investing
+2. **Find Economic Moats** — Identify sustainable competitive advantages
+3. **Have a Margin of Safety** — Buy at a discount to intrinsic value
+4. **Hold for the Long Term** — Let compounding work
+5. **Know When to Sell** — Follow a disciplined exit framework
+
+The book covers financial statement analysis, industry analysis, valuation methodologies (DCF, multiples), portfolio construction, and specific guidance for different sectors. It serves as the "how-to" manual for implementing the moat framework from his later book.
+
+### Sources
+- [Google Books](https://books.google.com/books/about/The_Five_Rules_for_Successful_Stock_Inve.html?id=BMVqDwAAQBAJ)
+- [Wiley Book Page](https://www.wiley.com/en-gb/The+Five+Rules+for+Successful+Stock+Investing:+Morningstar%27s+Guide+to+Building+Wealth+and+Winning+in+the+Market-p-9781118045626)
+- [The PE Investor Review (2023)](https://thepeinvestor.com/2023/03/23/the-five-rules-for-successful-stock-investing-by-pat-dorsey/)
+- [InvestBookshelf Review](https://investbookshelf.com/the-five-rules-for-successful-stock-investing/)
+
+---
+
+## 3. Morningstar Moat Rating System
 
 Dorsey played an **integral role** in developing Morningstar's Economic Moat Rating system, which is the institutional embodiment of his framework.
 
