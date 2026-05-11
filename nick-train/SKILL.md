@@ -13,7 +13,7 @@ This skill captures Nick Train's complete investment framework — his focus on 
 
 ## Introduction
 
-Nick Train graduated in History from Oxford University and began his career at GT Management, where he was influenced by Alex Dundas's 12-stock Japanese fund with zero turnover — a powerful real-world validation of the Buffett approach.
+Nick Train graduated in History from Oxford University and began his career at GT Management, where he was influenced by Alex Dundas's legendary 12-stock Japanese fund with zero turnover — a powerful real-world validation that concentrated, patient investing works. He also studied Peter Lynch and naturally gravitated toward the Buffett/Munger approach. — a powerful real-world validation of the Buffett approach.
 
 After GT was acquired and a brief stint at M&G (just 18 months before Prudential took over), Train co-founded Lindsell Train Ltd with Michael Lindsell in 2000. He has managed the Finsbury Growth & Income Trust since 2000.
 
@@ -71,7 +71,7 @@ Train's framework has evolved significantly:
 - **Exited all non-UK positions** — focused entirely on UK-listed equities
 - **Reoriented toward "digital winners"** — data-driven growth companies
 - **New additions:** Rightmove (+16%), Auto Trader
-- **Rare double buy** in late 2024
+- **Rare double buy** in late 2024 (Citywire interview, Jun 2024)
 - "The ridiculous underperformance of the UK stock market" prompted the change
 
 ---
@@ -87,7 +87,7 @@ Train's framework has evolved significantly:
 
 > "I'm running out of ways to say sorry." — Train on recent performance
 
-Train has demonstrated conviction by raising his personal stake to £52M. He faces a continuation vote in 2026 — a test of shareholder patience.
+Train has demonstrated conviction by raising his personal stake to £52M. His career was shaped by two takeovers (GT by M&G, then M&G by Prudential) — both experiences convinced him to build an independent firm where "whatever happened to the business, it was going to be my decision." He faces a continuation vote in 2026 — a test of shareholder patience.
 
 ---
 
