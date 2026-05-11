@@ -106,6 +106,7 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 | [Mohnish Pabrai](./mohnish-pabrai/) | Dhandho framework, cloning, checklist investing, asymmetric risk-reward | The Dhandho Investor, Dhandho Holdings letters, VALUExBRK talks |
 | [Nick Sleep](./nick-sleep/) | Scale Economies Shared (SES), Nomad Partnership, flywheel investing | Nomad Partnership letters, Q&A sessions |
 | [Paul Tudor Jones](./paul-tudor-jones/) | Macro trading, risk management, pattern-based approach | Tudor Investment Corp, Robin Hood Foundation, market interviews |
+| [Nick Train](./nick-train/) | Brand equity long-term compounding, eternal franchises, permanent equity | Lindsell Train, Finsbury Growth & Income Trust, Behind the Balance Sheet podcast |
 | [Pat Dorsey](./pat-dorsey/) | Systematic moat analysis, competitive advantage framework | The Little Book That Builds Wealth, Morningstar Moat Rating system |
 | [Peter Lynch](./peter_lynch/) | Growth at reasonable price, know-what-you-own | One Up on Wall Street, Beating the Street |
 | [Peter Thiel](./peter-thiel/) | Contrarian monopoly theory, zero-to-one, first-principles tech investing | Zero to One, Founders Fund, PayPal mafia |
