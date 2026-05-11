@@ -13,11 +13,13 @@ This skill captures Tom Russo's complete investment framework — his focus on g
 
 ## Introduction
 
-Tom Russo graduated from Dartmouth (BA 1977) and Stanford (JD/MBA 1984). At Stanford, he attended Warren Buffett's value investing class — where Buffett's first lesson was that "the only break the government gives investors is the non-taxation of unrealized gains." This shaped his entire career: sub-5% turnover, decades-long holding periods, tax-efficient compounding.
+Tom Russo graduated from Dartmouth (BA 1977) and Stanford (JD/MBA 1984). At Stanford, he attended Warren Buffett's value investing class — where Buffett's first lesson was that "the only break the government gives investors is the non-taxation of unrealized gains." This was in the legendary Jack McDonald value investing class, where Buffett and Munger taught together — a formative experience that defined Russo's entire career. This shaped his entire career: sub-5% turnover, decades-long holding periods, tax-efficient compounding.
 
 He founded his first investment partnership in 1983, joined Gardner Investments as a partner in 1989, and became Managing Member of Gardner Russo & Quinn LLC in 2014. He manages ~$9.26 billion in highly concentrated, long-only global equity portfolios.
 
-He was awarded the **Graham & Dodd, Murray, Greenwald Prize for Value Investing** in 2017.
+He was awarded the **Graham & Dodd, Murray, Greenwald Prize for Value Investing** in 2017 — among the highest honors in the value investing profession.
+
+Russo serves on the Advisory Board of the Heilbrunn Center for Graham & Dodd Investing at Columbia Business School, and on the boards of the Winston Churchill Foundation, Facing History and Ourselves, and Storm King Art Center. He manages Semper Vic Partners GP, LP alongside Gardner Russo & Quinn.
 
 ---
 
