@@ -103,6 +103,7 @@
 | [Mohnish Pabrai](./mohnish-pabrai/) | Dhandho 框架、克隆策略、Checklist 投资、不对称风险回报 | The Dhandho Investor、Dhandho Holdings 信函、VALUExBRK 演讲 |
 | [Nick Sleep](./nick-sleep/) | 规模经济共享（SES）、Nomad Partnership、飞轮投资 | Nomad Partnership 信函、Q&A 会议 |
 | [Paul Tudor Jones](./paul-tudor-jones/) | 宏观交易、风险管理、模式识别 | Tudor Investment Corp、Robin Hood Foundation、市场采访 |
+| [Pat Dorsey](./pat-dorsey/) | 系统化护城河分析、竞争优势框架 | The Little Book That Builds Wealth、Morningstar 护城河评级系统 |
 | [Peter Lynch](./peter_lynch/) | 合理价格成长、知道你所持有 | One Up on Wall Street、Beating the Street |
 | [Peter Thiel](./peter-thiel/) | 逆向垄断理论、Zero-to-One、第一性原理科技投资 | Zero to One、Founders Fund、PayPal 黑帮 |
 | [Phil Fisher](./phil_fisher/) | 成长股投资、scuttlebutt、GARP | Common Stocks and Uncommon Profits |
