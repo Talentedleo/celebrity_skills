@@ -89,6 +89,7 @@ We distill the wisdom of the world's greatest investors and tech leaders into pr
 | [Benjamin Graham](./benjamin_graham/) | Value investing, intelligent investor | Security Analysis, The Intelligent Investor |
 | [Bill Ackman](./bill_ackman/) | Activist investing, high-conviction, concentrated bets | Pershing Square letters, Congressional testimony |
 | [Cathie Wood](./cathie-wood/) | Disruptive innovation, ARK Invest, thematic investing | ARK Big Ideas reports, TED Talks, Twitter |
+| [Chuck Akre](./chuck-akre/) | Three-Legged Stool, compounding machine identification, concentrated quality | Akre Capital letters, MOI Global/Latticework interview, 13F filings |
 | [Charlie Munger](./charlie_munger/) | Multidisciplinary thinking, lollapalooza, inversion | Poor Charlie's Almanack, Berkshire Hathaway |
 | [Cliff Asness](./cliff-asness/) | Factor investing, multi-factor models, quantitative rationalism | AQR research papers, published articles, market commentaries |
 | [Ed Thorp](./ed-thorp/) | Probability-driven decision framework, Kelly criterion, quantitative finance | Beat the Dealer, Beat the Market, A Man for All Markets |

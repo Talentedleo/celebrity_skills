@@ -89,6 +89,7 @@
 | [Benjamin Graham](./benjamin_graham/) | 价值投资、聪明投资者 | Security Analysis、The Intelligent Investor |
 | [Bill Ackman](./bill_ackman/) | 激进投资、高信念、集中持仓 | Pershing Square信函、国会证词 |
 | [Cathie Wood](./cathie-wood/) | 颠覆性创新、ARK Invest、主题投资 | ARK Big Ideas 报告、TED 演讲、Twitter |
+| [Chuck Akre](./chuck-akre/) | 三脚凳框架、复利机器识别、集中质量投资 | Akre Capital 信函、MOI Global/Latticework 采访、13F 持仓 |
 | [Charlie Munger](./charlie_munger/) | 多学科思维、lollapalooza、倒置法 | Poor Charlie's Almanack、伯克希尔 |
 | [Cliff Asness](./cliff-asness/) | 因子投资、多因子模型、量化理性 | AQR 研究论文、发表文章、市场评论 |
 | [Ed Thorp](./ed-thorp/) | 概率驱动决策框架、Kelly 准则、量化金融 | Beat the Dealer、Beat the Market、A Man for All Markets |
